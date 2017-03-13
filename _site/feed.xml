@@ -2,12 +2,186 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Altcoin Trading</title>
-    <description>Altcoin Trading is the forex of cryptocurrencies, with bitcoin as the base currency.</description>
-    <link>https://www.altcointrading.net/</link>
-    <atom:link href="https://www.altcointrading.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Mar 2017 18:43:48 +0100</pubDate>
-    <lastBuildDate>Wed, 08 Mar 2017 18:43:48 +0100</lastBuildDate>
+    <description>Blog über Altcoin Trading - Deutsche Version der Seite altcointrading.net</description>
+    <link>https://de.altcointrading.net/</link>
+    <atom:link href="https://de.altcointrading.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 13 Mar 2017 16:33:54 +0100</pubDate>
+    <lastBuildDate>Mon, 13 Mar 2017 16:33:54 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Bitcoin ETF rejected, Ethereum ETF is probably off the table too</title>
+        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/emotions/sadness.jpg&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/emotions/sadness.jpg&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Image: Cryptocurrencies are not going to be part of the mainstream finance for now.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Today just after 4PM Eastern time the SEC finally dropped the long postponed decision regarding the proposed COIN ETF, the first Bitcoin exchange traded fund.&lt;/p&gt;
+
+&lt;p&gt;The SEC cites lack of regulations and the fact that BTC markets can be manipulated as the main reasons for rejection of the rule change.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[…] the Commission is disapproving this proposed rule change because it does not find the proposal to be consistent with Section 6(b)(5) of the Exchange Act, which requires, among other things, that the rules of a national securities exchange be &lt;strong&gt;designed to prevent fraudulent and manipulative acts&lt;/strong&gt; and practices and to protect investors and the public interest. &lt;strong&gt;&lt;a href=&quot;https://www.sec.gov/rules/sro/batsbzx/2017/34-80206.pdf&quot;&gt;Full SEC announcement&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Even though there is another BTC ETF proposal lined up for the 30th of March and Ethereum has a proposal for listing, it seems that any cryptocurrency exchange traded fund is off the table for now.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cryptocoinsnews.com/etherindex-registers-sec-issue-ether-shares/&quot;&gt;EtherIndex, the ETH ETF proposal - 19/07/2016&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The ETC product (created by Barry Silbert’s Grayscale) &lt;a href=&quot;https://www.bloomberg.com/news/articles/2017-03-09/bitcoin-trust-s-silbert-to-launch-classic-ether-fund-this-month&quot;&gt;is supposed to launch this month though&lt;/a&gt;, even though it will probably start trading over-the-counter first. It is modeled after the Bitcoin Investment Trust (GBTC) which is also a &lt;a href=&quot;https://grayscale.co/bitcoin-investment-trust/&quot;&gt;Grayscale product&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Eventually, just like Bitcoin Investment Trust, it may start trading over the counter, Silbert said in an interview. The bitcoin trust, started in 2013, is currently waiting for approval to list on the NYSE Arca market.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Classic ether’s development and rules governing the nets; recently, developers announced there will be no more than 230 million classic ether tokens issued – a decision that makes the digital currency a scarce resource, just like bitcoin.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In short, it is not going to get any easier for legacy investors to trade cryptocurrency in the months to come, but that’s about it. Cryptocurrencies are for now just cryptocurrencies, the niche speculative bet on the future. That’s not quite a reason to panic.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;They have two mutually exclusive, and self destructive ideals.
+Pursue valuation from regulated sources.
+Or undermine those sources they pursue.
+These Ideas can’t exist on the same chain, there isn’t some quantum solution. They need to fork to meet both, or continue in purgatory. meanwhile, Ethereum will just find implementation and application as a tool. It really is oil vs gold. &lt;a href=&quot;https://www.reddit.com/r/ethtrader/comments/5yoqdr/denied/&quot;&gt;via /r/ethtrader&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Fri, 10 Mar 2017 00:00:00 +0100</pubDate>
+        <link>https://de.altcointrading.net/ethereum-etf-unlikely/</link>
+        <guid isPermaLink="true">https://de.altcointrading.net/ethereum-etf-unlikely/</guid>
+        
+        
+        <category>coins</category>
+        
+        <category>eth</category>
+        
+      </item>
+    
+      <item>
+        <title>Avoidance Strategy in Altcoin Trading</title>
+        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/emotions/standby.JPG&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/emotions/standby.JPG&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Image: Wyckoffian Avoidance Strategy?&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Wyckoff method is getting popular in the cryptocurrency space mainly because John Bollinger the author of bbands keeps recommending it on twitter.&lt;/p&gt;
+
+&lt;p&gt;While it can be called a “legacy” thing no doubt it is useful for crypto as well:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/kenzboard&quot;&gt;@kenzboard&lt;/a&gt; &lt;a href=&quot;https://twitter.com/MrJozza&quot;&gt;@MrJozza&lt;/a&gt; Yeah, Wyckoff is as near to a universal key to understanding trading as we have.&lt;/p&gt;&amp;mdash; John Bollinger (@bbands) &lt;a href=&quot;https://twitter.com/bbands/status/835170564431962112&quot;&gt;24 February 2017&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;the-value-trading&quot;&gt;The value trading&lt;/h4&gt;
+
+&lt;p&gt;The Wyckoff style is to trade only the best stocks in the leading sectors. Can you use this motto when trading cryptocurrencies? It is an emerging asset class but figuring out which cryptocurrency has actual &lt;strong&gt;value&lt;/strong&gt; will make your decisions a lot clearer:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You want to buy/hold a &lt;em&gt;valuable&lt;/em&gt; asset through shorter timespans when the &lt;em&gt;price&lt;/em&gt; is not reflecting the value (yet).&lt;/li&gt;
+  &lt;li&gt;You want to take profits and abandon an asset that is appreciating in the short term because of things like tiny market hence manipulation, or media hype.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;how-strong-a-coin-is&quot;&gt;How strong a coin is&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Wyckoffian mission is to trade and invest in the best stocks in the leading Industry Groups. We have been studying examples of leadership characteristics using &lt;strong&gt;Wyckoff Analysis&lt;/strong&gt; in combination with &lt;strong&gt;Relative Strength&lt;/strong&gt;. […] Always seeking the strongest stocks in the strongest groups. It is also a worthwhile exercise to study groups that are stalling and falling from favor. &lt;a href=&quot;http://stockcharts.com/articles/wyckoff/2017/02/avoidance-strategy.html&quot;&gt;StockCharts&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The key point is that a leader of a group dies not remain a leader indefinitely. At some point the leader leaves the limelight, becomes a laggard and may stay a laggard for some time. That’s what the Wyckoff avoidance strategy is about - spotting the transition from leader to laggard and avoiding longing that market rather than getting to think in forever terms.&lt;/p&gt;
+
+&lt;p&gt;This transition is a substantial change, technically you should be looking for it on longer timeframes (daily, 3D or weekly charts).&lt;/p&gt;
+
+&lt;h4 id=&quot;select-assets-that-are-in-harmony-with-the-market&quot;&gt;Select assets that are in harmony with the market&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In a &lt;strong&gt;bull (uptrend) market&lt;/strong&gt;, select [assets] that are &lt;strong&gt;stronger than the market itself&lt;/strong&gt;. In a bear market choose those that are weaker than the market itself.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you figure out consistently strong cryptocurrencies and their counterparts you have your best candidates for mid-term longs and shorts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Strong altcoins rally quite easily but after the rally retraces some of the gains remain.&lt;/li&gt;
+  &lt;li&gt;Weak altcoins are traded but don’t rally consistently. If they do, the retrace kills all the gains.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In legacy markets one can compare stocks against a composite index. In a bull market well below a known resistance line, if a stock gains more than the index, it’s typically a good bet to open a long, avoding all the rest of the assets in the group. If the resistance approaches it’s time to close that long and find which stock was performing poorly in the rally. That is going to be to one most likely to drop significantly, you can short it and avoid trading the strong performers.&lt;/p&gt;
+
+&lt;p&gt;In cryptocurrencies we don’t have an index that would track the performance of top 100 or 500 altcoins. You will have to put in a little bit more work.&lt;/p&gt;
+
+&lt;p&gt;A handy tool that will help you do that is &lt;a href=&quot;http://coinmarketcap.com/&quot;&gt;coinmarketcap.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can track the historical weekly performance of cryptocurrencies at &lt;a href=&quot;http://coinmarketcap.com/historical/&quot;&gt;http://coinmarketcap.com/historical/&lt;/a&gt; - this page has snapshots dating back to 2013.&lt;/p&gt;
+
+&lt;p&gt;Daily data is available at &lt;a href=&quot;http://coinmarketcap.com/#BTC&quot;&gt;the homepage&lt;/a&gt; or from their API. If you are trading altcoins against BTC, that is pairs like ETHBTC, you should switch to BTC pricing. This way you’ll see which altcoins perform the best and the worst against bitcoin.&lt;/p&gt;
+
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/trading/cmc-snapshot.jpg&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/trading/cmc-snapshot.jpg&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Going through the weekly data from 2016 you can filter each table by traded volume.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You’ll see that small altcoins show up every week with immense gains but after some weeks you don’t hear about them again.&lt;/li&gt;
+  &lt;li&gt;On the other hand, for instance litecoin is consistently being traded but the price doesn’t change much - perhaps people use it to move funds across exchanges instead of using fiat but next to no people believe it is worth to hold LTC.&lt;/li&gt;
+  &lt;li&gt;Ethereum and Dash have volumes in the upper part of the spectrum but they actually see a rally or two once in a while with gains that don’t completely disappear after the retrace.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;going-back-to-individual-coins&quot;&gt;Going back to individual coins&lt;/h4&gt;
+
+&lt;p&gt;To spot the beginning of short term changes in the market, topping patterns and reversals you will have to go back to individual cryptocurrencies. The chart below is a bitcoin chart but the same TA is valid with all commonly traded coins with good holder base these days.&lt;/p&gt;
+
+&lt;p&gt;What people use the most to spot these changes is Parabolic SAR, RSI and MACD. You can use &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://cryptowat.ch&quot;&gt;Cryptowatch&lt;/a&gt; for the basics or &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://tradingview.go2cloud.org/SHW9&quot;&gt;TradingView&lt;/a&gt; which provides interface where you can tune the indicator parameters and do some very basic backtesting. To name one, the default Parabolic SAR will be too sensitive, giving you flips that will be a false positive so you should pick your timeframe and tune the PSAR settings so that it flips really mostly only before a reversal historically happened on that timeframe.&lt;/p&gt;
+
+&lt;p&gt;The hourly bitcoin chart below shows a SAR set to &lt;code class=&quot;highlighter-rouge&quot;&gt;0.025, 0.02, 0.03&lt;/code&gt; on &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://tradingview.go2cloud.org/SHW9&quot;&gt;TradingView&lt;/a&gt;. If you click on the picture to zoom it you’ll see it flipping, and if you look at the RSI at the bottom you’ll see a divergence between the RSI lows and the price lows, which is bullish as it shows the lows are too low for the strength of the market.&lt;/p&gt;
+
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/trading/btc-rsidiv.png&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/trading/btc-rsidiv.png&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Of course in both bitcoin and altcoins you cannot discount “conspiracy theories” about whales manipulating the markets - given the (little) money one needs to do that it’s entirely possible. Even the legacy guys found it out themselves, I encourage you to read the following excerpt from FT where an investor whines about getting rekt on OkCoin because of a bearwhale, it’s hilarious.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;this is from ft, somehow archive.is works around their log in wall: http://archive.is/aQ7Om&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Daniel Masters, the founder of one of the world’s first bitcoin funds – Jersey-based Global Advisors Bitcoin Investment Program (GABI) – is calling for position limits on bitcoin exchanges, after falling prey to a heinous case of cash-to-futures basis manipulation in February, when bitcoin soared to new record high.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Our position was liquidated at $767 and, needless to say, by the time we were back in the market the price was shooting back above $900. This was of course an extremely unfortunate state of affairs in which to find ourselves and a hard lesson learned. Accordingly, we lost around 10% of performance against our benchmark, the USD price of bitcoin. The matters set out above highlighted another issue with bitcoin trading, which up until this point we had not considered. After the price drop, one player emerged as totally dominant in the open interest of the futures contract. It seemed pretty clear to us as a result that this event was not just a normal version of a large liquidation, with which we are familiar, but was a premeditated attack. When the dust settled, one unidentified player was short well over half the open interest. We would therefore class this episode as clear market manipulation, and in fact it was not just momentary: for many days thereafter the basis was so weak that it seemed that the one attack was being followed up by periodic smaller attacks. As such we approached the exchange. They confirmed to us that there were no position limits whatsoever and that people were free to do whatever they wanted in their “happy trading environment” (yes, they used those actual words). We made it very clear that such activity, whether in a regulated environment or not, might amount to criminality in Hong Kong and would certainly do so in many other jurisdictions. Following a number of discussions, the exchange encouraged the ‘rogue’ player to withdraw and things have now normalized.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“happy trading environment” from hong kong…that’s okcasino amirite &lt;a href=&quot;https://www.reddit.com/r/BitcoinMarkets/comments/5y5qzz/daily_discussion_wednesday_march_08_2017/deo070z/&quot;&gt;via r/bitcoinmarkets&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In the next days I’ll be looking over altcoins historical performance so stay tuned for next posts.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Reading&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://technical.traders.com/tradersonline/display.asp?art=167&quot;&gt;http://technical.traders.com/tradersonline/display.asp?art=167&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stockcharts.com/articles/wyckoff/&quot;&gt;https://stockcharts.com/articles/wyckoff/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 08 Mar 2017 00:00:00 +0100</pubDate>
+        <link>https://de.altcointrading.net/wyckoff-avoidance/</link>
+        <guid isPermaLink="true">https://de.altcointrading.net/wyckoff-avoidance/</guid>
+        
+        
+        <category>trading</category>
+        
+      </item>
     
       <item>
         <title>TradingView users on DASH: March 7th 2017</title>
@@ -19,7 +193,8 @@
 
 &lt;hr /&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;At the time of writing the DASHBTC trades at about 0.038 while about a week ago it topped close below 0.05 on Poloniex. What do traders think the outlooks are?&lt;/p&gt;
 
@@ -53,7 +228,8 @@ new TradingView.chart(tradingview_embed_options);
 
 &lt;p&gt;We are now ripe for another consolidation.&lt;/p&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
 &lt;h4 id=&quot;dash-will-come-back-to-reality-by-bagofxmr&quot;&gt;DASH will come back to reality by bagofXMR&lt;/h4&gt;
 
@@ -94,8 +270,8 @@ new TradingView.chart(tradingview_embed_options);
 &lt;p&gt; &lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Mar 2017 00:00:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/dash-03-2017/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/dash-03-2017/</guid>
+        <link>https://de.altcointrading.net/dash-03-2017/</link>
+        <guid isPermaLink="true">https://de.altcointrading.net/dash-03-2017/</guid>
         
         
         <category>dash</category>
@@ -112,7 +288,8 @@ new TradingView.chart(tradingview_embed_options);
 
 &lt;hr /&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;Lately Kraken has been the last exchange you’d recommend for trading - bitcoin or altcoins all the same.&lt;/p&gt;
 
@@ -124,7 +301,8 @@ new TradingView.chart(tradingview_embed_options);
 
 &lt;p&gt;The interface is available at &lt;a href=&quot;https://trade.kraken.com/kraken/ethbtc&quot;&gt;trade.kraken.com&lt;/a&gt; accessible to all Kraken users. At the moment the functionality is the same as &lt;strong&gt;the old Cryptowatch Premium&lt;/strong&gt; access. Nothing changes for people who don’t trade at Kraken, standard Cryptowatch is still available for free to everyone as it was.&lt;/p&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;Artur Sapek (/u/excited_by_typos), &lt;a href=&quot;https://cryptowat.ch/announcement/kraken-acquires-cryptowatch&quot;&gt;the developer of Cryptowatch, says&lt;/a&gt; we can look forward to faster development of the charting platform as the work with Kraken will bring in some capital.&lt;/p&gt;
 
@@ -136,11 +314,12 @@ new TradingView.chart(tradingview_embed_options);
   &lt;li&gt;&lt;a href=&quot;http://blog.kraken.com/post/157561097377/how-to-get-started-trading-on-krakens-new-trading&quot;&gt;Here&lt;/a&gt; is a how-to from Kraken.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 </description>
         <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/kraken-cryptowatch/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/kraken-cryptowatch/</guid>
+        <link>https://de.altcointrading.net/kraken-cryptowatch/</link>
+        <guid isPermaLink="true">https://de.altcointrading.net/kraken-cryptowatch/</guid>
         
         
         <category>exchanges</category>
@@ -155,7 +334,8 @@ new TradingView.chart(tradingview_embed_options);
 
 &lt;hr /&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;If you are a fan of Ripple it might be the right time to get verified on Bitstamp and Cryptofacilities if you haven’t done so already. Those are the regulated places where to trade Ripple and its derivatives.&lt;/p&gt;
 
@@ -184,7 +364,8 @@ The Bitstamp Team&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://bitstamp.net&quot;&gt;Go to Bitstamp&lt;/a&gt;&lt;/p&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/coins/ripple-derivatives.png&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/coins/ripple-derivatives.png&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -196,11 +377,12 @@ The Bitstamp Team&lt;/p&gt;
 
 &lt;p&gt;BTW, there are &lt;a href=&quot;https://www.cryptofacilities.com/derivatives/tradingviewcharts&quot;&gt;Free Cryptofacilities Charts on TradingView&lt;/a&gt; if you didn’t know - you’ll need to select a XRP product manually from the select box as the CF charts are not normally listed (you cannot view these charts from your TV account).&lt;/p&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 21 Feb 2017 00:00:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/ripple-trading/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/ripple-trading/</guid>
+        <link>https://de.altcointrading.net/ripple-trading/</link>
+        <guid isPermaLink="true">https://de.altcointrading.net/ripple-trading/</guid>
         
         
         <category>exchanges</category>
@@ -217,7 +399,8 @@ The Bitstamp Team&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;Monero and Dash are both privacy-focused cryptocurrencies that are heavily speculated on in 2017 despite having been around for quite some time already.&lt;/p&gt;
 
@@ -310,8 +493,8 @@ There is currently one functional payment processor available for merchants to u
 &lt;p&gt;The hodling business is a bit tough to crack still. &lt;a href=&quot;/monero-wallet/&quot;&gt;Read about Monero wallets here&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Feb 2017 00:00:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/private-altcoins-dash-monero/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/private-altcoins-dash-monero/</guid>
+        <link>https://de.altcointrading.net/private-altcoins-dash-monero/</link>
+        <guid isPermaLink="true">https://de.altcointrading.net/private-altcoins-dash-monero/</guid>
         
         
         <category>coins</category>
@@ -332,7 +515,8 @@ There is currently one functional payment processor available for merchants to u
 
 &lt;hr /&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;Trezor the hardware wallet now supports not only Bitcoin but also ZCASH and DASH in its native interface. It is also possible to store ETH and LTC through external wallets.&lt;/strong&gt;&lt;/p&gt;
@@ -422,11 +606,12 @@ DASH is best available to buy, trade and lend at &lt;a class=&quot;external&quot
 
 &lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.reddit.com/r/TREZOR/&quot;&gt;&lt;i class=&quot;fa fa-reddit&quot;&gt;&lt;/i&gt; https://www.reddit.com/r/TREZOR/&lt;/a&gt;&lt;/p&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/trezor-multicoin/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/trezor-multicoin/</guid>
+        <link>https://de.altcointrading.net/trezor-multicoin/</link>
+        <guid isPermaLink="true">https://de.altcointrading.net/trezor-multicoin/</guid>
         
         <category>popular</category>
         
@@ -449,7 +634,8 @@ DASH is best available to buy, trade and lend at &lt;a class=&quot;external&quot
 
 &lt;hr /&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
 &lt;h4 id=&quot;buying-bitcoin-first&quot;&gt;Buying bitcoin first&lt;/h4&gt;
 
@@ -477,7 +663,8 @@ DASH is best available to buy, trade and lend at &lt;a class=&quot;external&quot
 
 &lt;p&gt;Try and avoid Hitbtc, they don’t have a good reputation.&lt;/p&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
 &lt;h4 id=&quot;getting-altcoins-for-fiat&quot;&gt;Getting altcoins for fiat&lt;/h4&gt;
 
@@ -515,7 +702,8 @@ DASH is best available to buy, trade and lend at &lt;a class=&quot;external&quot
 
 &lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://www.bitstamp.net/market/tradeview/&quot;&gt;Bitstamp’s tradeview&lt;/a&gt; is good but liquidity is next to nonexistent. When they setup a new market, like just now with Ripple, nobody is really running in to trade there.&lt;/p&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
 &lt;h4 id=&quot;altcoin-storage-the-altcoin-wallets&quot;&gt;Altcoin Storage: The Altcoin Wallets&lt;/h4&gt;
 
@@ -530,8 +718,8 @@ DASH is best available to buy, trade and lend at &lt;a class=&quot;external&quot
 &lt;p&gt;&lt;a href=&quot;/altcoin-wallets/&quot;&gt;Full post on altcoin wallets here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 Jan 2017 00:00:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/how-to-buy-altcoins/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/how-to-buy-altcoins/</guid>
+        <link>https://de.altcointrading.net/how-to-buy-altcoins/</link>
+        <guid isPermaLink="true">https://de.altcointrading.net/how-to-buy-altcoins/</guid>
         
         <category>popular</category>
         
@@ -556,7 +744,8 @@ DASH is best available to buy, trade and lend at &lt;a class=&quot;external&quot
 
 &lt;h4 id=&quot;what-is-iconomi&quot;&gt;What is ICONOMI&lt;/h4&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;The ICO for ICONOMI is long gone yet the project is still well alive - in the altcoin space, this is a very good sign.&lt;/p&gt;
 
@@ -566,7 +755,8 @@ DASH is best available to buy, trade and lend at &lt;a class=&quot;external&quot
 
 &lt;p&gt;ICONOMI is a digital assets management platform. If you want to invest into decentralised economy, the easiest way to create portfolio of preselected coins can be ICONOMI.&lt;/p&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
 &lt;h4 id=&quot;what-does-iconomi-work-with&quot;&gt;What does ICONOMI work with?&lt;/h4&gt;
 
@@ -605,8 +795,8 @@ DASH is best available to buy, trade and lend at &lt;a class=&quot;external&quot
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 21 Jan 2017 00:00:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/iconomi/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/iconomi/</guid>
+        <link>https://de.altcointrading.net/iconomi/</link>
+        <guid isPermaLink="true">https://de.altcointrading.net/iconomi/</guid>
         
         
         <category>coins</category>
@@ -629,12 +819,12 @@ DASH is best available to buy, trade and lend at &lt;a class=&quot;external&quot
 
 &lt;p&gt;What if you want to invest in Monero long term? You should not leave the coin on an exchange and forget about it for a couple of months.&lt;/p&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
 &lt;h4 id=&quot;lightweight-client-like-electrum-for-moneroeh&quot;&gt;Lightweight client like Electrum for Monero…Eh?&lt;/h4&gt;
 
-&lt;blockquote class=&quot;reddit-card&quot; data-card-created=&quot;1483411736&quot;&gt;&lt;a href=&quot;https://www.reddit.com/r/Monero/comments/4ghl0z/will_there_ever_be_a_lightweight_wallet_like/?ref=share&amp;amp;ref_source=embed&quot;&gt;Will there ever be a lightweight wallet (like Electrum) for Monero?&lt;/a&gt; from &lt;a href=&quot;http://www.reddit.com/r/Monero&quot;&gt;Monero&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//embed.redditmedia.com/widgets/platform.js&quot; charset=&quot;UTF-8&quot;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/Monero/comments/4ghl0z/will_there_ever_be_a_lightweight_wallet_like/&quot;&gt;Will there ever be lightweight wallet for Monero? via r/monero&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Every cryptotrader knows Electrum. It’s the lightweight wallet that is easy to use and doesn’t need you to download the full blockchain. There are integrations - Electrum for Litecoin and Dash (&lt;a href=&quot;/altcoin-wallets/&quot;&gt;see here&lt;/a&gt;). Unfortunately, nothing like this for Monero.&lt;/p&gt;
 
@@ -642,8 +832,11 @@ DASH is best available to buy, trade and lend at &lt;a class=&quot;external&quot
 
 &lt;p&gt;In other words someone runs the node for you and will let your wallet to use it.&lt;/p&gt;
 
-&lt;div class=&quot;reddit-embed&quot; data-embed-media=&quot;www.redditmedia.com&quot; data-embed-parent=&quot;false&quot; data-embed-live=&quot;true&quot; data-embed-uuid=&quot;61d47572-8d5f-448b-92bd-3ae43bd693f4&quot; data-embed-created=&quot;2017-01-03T02:49:16.915Z&quot;&gt;&lt;a href=&quot;https://www.reddit.com/r/Monero/comments/4ghl0z/will_there_ever_be_a_lightweight_wallet_like/d2hnur8/&quot;&gt;Comment&lt;/a&gt; from discussion &lt;a href=&quot;https://www.reddit.com/r/Monero/comments/4ghl0z/will_there_ever_be_a_lightweight_wallet_like/&quot;&gt;Will there ever be a lightweight wallet (like Electrum) for Monero?&lt;/a&gt;.&lt;/div&gt;
-&lt;script async=&quot;&quot; src=&quot;https://www.redditstatic.com/comment-embed.js&quot;&gt;&lt;/script&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;You can use lightWallet which uses a remote node. This is perfectly safe from the perspective that you keep your own private keys and therefore the remote node can not steal your coins, but compromises your privacy in various ways. So does Electrum and other Bitcoin thin clients for that matter (even more than Bitcoin itself).
+If you are okay with CLI, simplewallet can also be used with a remote node.
+There is no alternative to running your own full node that gives you maximum privacy and security, but there are alternatives. Again this applies to Bitcoin as well. &lt;a href=&quot;https://www.reddit.com/r/Monero/comments/4ghl0z/will_there_ever_be_a_lightweight_wallet_like/d2hnur8/&quot;&gt;via r/monero&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=903579.0&quot;&gt;Lightweight wallet&lt;/a&gt;, &lt;a href=&quot;https://github.com/jwinterm/LightWallet2/releases&quot;&gt;Releases on Github - exe for Windows and jar for Linux/Android/anything with java&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -747,167 +940,17 @@ Seed : 0c0660372103343dc2c68cfd9cec0c4105b8c16d79b3fee2f9108162876e4a1f Private 
 
 &lt;p&gt;So, the problem is that as Monero keeps evolving the codebase is not stable enough to think about hardware implementations. The code gets obsolete before there is chance to properly test it.&lt;/p&gt;
 
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 03 Jan 2017 00:00:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/monero-wallet/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/monero-wallet/</guid>
+        <link>https://de.altcointrading.net/monero-wallet/</link>
+        <guid isPermaLink="true">https://de.altcointrading.net/monero-wallet/</guid>
         
         
         <category>coins</category>
         
         <category>xmr</category>
-        
-      </item>
-    
-      <item>
-        <title>Kraken opens Monero trading</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TZi9xx6aiuY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://blog.kraken.com/post/155126375697/kraken-launches-monero-trading&quot;&gt;Link to Kraken’s blog&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Monero trading on Kraken opened on 2nd of January 2017&lt;/li&gt;
-  &lt;li&gt;There is a hard fork on 9th or 10th of January 2017, deposits will be defunct shortly&lt;/li&gt;
-  &lt;li&gt;Available pairs: XMR/XBT, XMR/EUR, XMR/USD (all spot)&lt;/li&gt;
-  &lt;li&gt;Margin trading coming soon.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;iframe data-aa=&quot;147076&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot; scrolling=&quot;no&quot; style=&quot;width:728px; height:90px; border:0px; padding:0;overflow:hidden&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
-</description>
-        <pubDate>Mon, 02 Jan 2017 00:00:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/monero-kraken/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/monero-kraken/</guid>
-        
-        
-        <category>trading</category>
-        
-        <category>exchanges</category>
-        
-        <category>xmr</category>
-        
-      </item>
-    
-      <item>
-        <title>The Finexening - Bitfinex hack</title>
-        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/bitfinex/gox.png&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/bitfinex/gox.png&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Image: Comparisons to MtGox is quite obvious.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;If you are reading this bit chances are you didn’t miss all the drama. The best source of information is probably their status page at &lt;a href=&quot;https://bitfinex.statuspage.io&quot;&gt;bitfinex.statuspage.io&lt;/a&gt;, though the information is scarce. Sane Tackett /u/zanetackett is trying to keep the facade of the company and panic hasn’t kicked in but as for useful info he doesn’t provide much.&lt;/p&gt;
-
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://shop.trezor.io?a=fany@tutanota.com&quot;&gt; &lt;amp-img itemprop=&quot;image&quot; src=&quot;https://www.altcointrading.net/img/wallets/trezor.jpg&quot; alt=&quot;Trezor Wallet for bitcoins and altcoins&quot; data-original-width=&quot;728px&quot; data-original-height=&quot;90px&quot; layout=&quot;responsive&quot; width=&quot;728px&quot; height=&quot;90px&quot;&gt; &lt;/amp-img&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;Bad news for all ETH, ETC or LTC traders is that even though their assets were not affected by the hack, it seems they are lost too - just as USD assets, which were uneffected as well. The most likely outcome is some form socialized loss - a haircut - if it can be made in a legal way. The official statement however is still “we have not decided yet”. Most traders conclude it was actually quite expected after the spectacular 24h downtime couple of weeks earlier during wild price movements. Though Kraken fails like this too, repeatedly, and no hack occured as of yet - so take out of it what you like.&lt;/p&gt;
-
-&lt;p&gt;Here is the most important info you might have missed if you haven’t been lurking on Reddit since that not-so-much-black-swan event happened.&lt;/p&gt;
-
-&lt;h2 id=&quot;update---recording-of-zane-tacketts-press-conference-on-teamspeak&quot;&gt;Update - Recording of Zane Tackett’s press conference on teamspeak&lt;/h2&gt;
-
-&lt;object width=&quot;148&quot; height=&quot;44&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://vocaroo.com/player.swf?playMediaID=s1TgZO1BXVZw&amp;amp;autoplay=0&quot; /&gt;&amp;lt;/param&amp;gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;&amp;lt;/param&amp;gt;&lt;embed src=&quot;http://vocaroo.com/player.swf?playMediaID=s1TgZO1BXVZw&amp;amp;autoplay=0&quot; width=&quot;148&quot; height=&quot;44&quot; wmode=&quot;transparent&quot; type=&quot;application/x-shockwave-flash&quot; /&gt;&amp;lt;/embed&amp;gt;&lt;/object&gt;
-&lt;p&gt;&lt;br /&gt;&lt;a href=&quot;http://vocaroo.com&quot; style=&quot;font-size:xx-small;&quot; title=&quot;Vocaroo Voice Recorder&quot;&gt;Online recording software &amp;gt;&amp;gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Yes, Bitfinex takes part in paying the missing money. All customers will get a haircut of 36%. The hack wasn’t done via logging into customers accounts. There will be a shitcoin released to pay for the 36% that will not be paid back right now. No details about the hack.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;will-it-affect-the-general-trust-in-cryptocurrencies&quot;&gt;Will it affect the general trust in cryptocurrencies?&lt;/h4&gt;
-
-&lt;p&gt;There is a lot of people who don’t really think so.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Collectively, high-profile exchange hacks like MtGox and Bitfinex have set &lt;a href=&quot;https://twitter.com/hashtag/Bitcoin?src=hash&quot;&gt;#Bitcoin&lt;/a&gt; back...&lt;/p&gt;&amp;mdash; #BubbleMoku (@CarpeNoctom) &lt;a href=&quot;https://twitter.com/CarpeNoctom/status/761502184571822080&quot;&gt;5 August 2016&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;After all Bitfinex was hacked, there is no flaw in any coin - but, if you are not actually able to safely trade anywhere, what is it for? This is a setback for all cryptos, and probably will be “solved” by bullshit regulations that will make crypto trading even more of a hassle with risks not really lowered.&lt;/p&gt;
-
-&lt;div class=&quot;reddit-embed&quot; data-embed-media=&quot;www.redditmedia.com&quot; data-embed-parent=&quot;false&quot; data-embed-live=&quot;false&quot; data-embed-uuid=&quot;f4695195-89c8-4417-8f22-089008d82f51&quot; data-embed-created=&quot;2016-08-06T15:08:25.903Z&quot;&gt;&lt;a href=&quot;https://www.reddit.com/r/BitcoinMarkets/comments/4vtv1m/bitfinex_down_due_to_bitcoin_security_breach/d667ehe&quot;&gt;Comment&lt;/a&gt; from discussion &lt;a href=&quot;https://www.reddit.com/r/BitcoinMarkets/comments/4vtv1m/bitfinex_down_due_to_bitcoin_security_breach/&quot;&gt;Bitfinex down due to bitcoin security breach&lt;/a&gt;.&lt;/div&gt;
-&lt;script async=&quot;&quot; src=&quot;https://www.redditstatic.com/comment-embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;div class=&quot;text-center&quot;&gt; &lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://www.ledgerwallet.com/r/e274&quot;&gt; &lt;amp-img itemprop=&quot;image&quot; alt=&quot;Ledger Wallet protects your bitcoins&quot; src=&quot;https://www.ledgerwallet.com/images/promo/ledger-468x90-01.jpg&quot; layout=&quot;responsive&quot; data-original-width=&quot;468px&quot; data-original-height=&quot;90px&quot; width=&quot;468px&quot; height=&quot;90px&quot;&gt;&lt;/amp-img&gt; &lt;/a&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;was-the-bitfinex-hack-an-inside-job&quot;&gt;Was the Bitfinex hack an inside job?&lt;/h4&gt;
-
-&lt;p&gt;Maybe.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/Bitcoin?src=hash&quot;&gt;#Bitcoin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/HackLeak?src=hash&quot;&gt;#HackLeak&lt;/a&gt; exposed.&lt;br /&gt;hypot. P2SH stats vs Futures &lt;a href=&quot;https://twitter.com/OKCoinBTC&quot;&gt;@OKCoinBTC&lt;/a&gt;, hack info = value.&lt;br /&gt;&lt;br /&gt;HD: &lt;a href=&quot;https://t.co/CH4kErhTfs&quot;&gt;https://t.co/CH4kErhTfs&lt;/a&gt; &lt;a href=&quot;https://t.co/GI4nzBXQf7&quot;&gt;pic.twitter.com/GI4nzBXQf7&lt;/a&gt;&lt;/p&gt;&amp;mdash; Beetcoin (@Beetcoin) &lt;a href=&quot;https://twitter.com/Beetcoin/status/761299853985058817&quot;&gt;4 August 2016&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;h4 id=&quot;can-we-learn-from-our-mistakes-for-the-next-time&quot;&gt;Can we learn from our mistakes for the next time?&lt;/h4&gt;
-
-&lt;p&gt;Some say it was plain as a yoghurt that Finex will be hacked: It had strange downtimes during busy times - but so do many exchanges. &lt;a href=&quot;https://www.reddit.com/r/BitcoinMarkets/comments/4vtv1m/bitfinex_down_due_to_bitcoin_security_breach/d666nk6&quot;&gt;It was hosted on an AWS&lt;/a&gt; - every expert will cringe but Gemini also run on AWS and OKCoin International too. Ask the bot coders - they know where to put their codes to be in the same datacenter as the exchange. There is no exchange that would keep their own bare metal in a server room. Cost cutting wins.&lt;/p&gt;
-
-&lt;p&gt;Only thing we can do is to NEVER baghold or anything like that: Send money to exchange, do the trade, send them to Trezor.&lt;/p&gt;
-
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://shop.trezor.io?a=fany@tutanota.com&quot;&gt; &lt;amp-img itemprop=&quot;image&quot; src=&quot;https://www.altcointrading.net/img/wallets/trezor.jpg&quot; alt=&quot;Trezor Wallet for bitcoins and altcoins&quot; data-original-width=&quot;728px&quot; data-original-height=&quot;90px&quot; layout=&quot;responsive&quot; width=&quot;728px&quot; height=&quot;90px&quot;&gt; &lt;/amp-img&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;who-runs-bitfinex-anyway&quot;&gt;Who runs Bitfinex anyway?&lt;/h4&gt;
-
-&lt;div class=&quot;reddit-embed&quot; data-embed-media=&quot;www.redditmedia.com&quot; data-embed-parent=&quot;false&quot; data-embed-live=&quot;false&quot; data-embed-uuid=&quot;324f63fa-8a2d-4886-a9b7-fa6dbef79390&quot; data-embed-created=&quot;2016-08-06T14:49:21.941Z&quot;&gt;&lt;a href=&quot;https://www.reddit.com/r/BitcoinMarkets/comments/4webkx/daily_discussion_saturday_august_06_2016/d66oeue&quot;&gt;Comment&lt;/a&gt; from discussion &lt;a href=&quot;https://www.reddit.com/r/BitcoinMarkets/comments/4webkx/daily_discussion_saturday_august_06_2016/&quot;&gt;[Daily Discussion] Saturday, August 06, 2016&lt;/a&gt;.&lt;/div&gt;
-&lt;script async=&quot;&quot; src=&quot;https://www.redditstatic.com/comment-embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Bitfinex’s CEO is a Dutch man &lt;a href=&quot;https://bestbitcoinexchange.co/locations.html#asia&quot;&gt;Jean-Louis van der Velde&lt;/a&gt;. &lt;a href=&quot;https://www.linkedin.com/in/j-l-van-der-velde-26a24b6&quot;&gt;Here is his LinkedIn&lt;/a&gt;. Their risk manager is also public on LinkedIn - &lt;a href=&quot;https://www.linkedin.com/in/giancarlo-devasini-2a564682?trk=pub-pbmap&quot;&gt;here&lt;/a&gt;. Their PR representative Zane Tackett is well known to anyone on Reddit - /u/zanetackett, loyal till his death and beyond. His boss is &lt;a href=&quot;https://www.linkedin.com/in/philip-potter-087495a6&quot;&gt;Phill Potter&lt;/a&gt;. However &lt;strong&gt;none of these people actually founded Bitfinex&lt;/strong&gt;. The platform was fonded by &lt;a href=&quot;https://fr.linkedin.com/in/raphaelnicolle/en&quot;&gt;a freelance sysadmin Raphael Nicolle&lt;/a&gt; with codebase from Bitcoinica, an exchange that was hacked back in the 2012.&lt;/p&gt;
-
-&lt;h4 id=&quot;is-someone-liable-for-something-they-had-bitgo-which-is-insured&quot;&gt;Is someone liable for something? They had BitGo which is insured..?&lt;/h4&gt;
-
-&lt;p&gt;The insurance doesn’t cover this hack. BitGo supplied Bitfinex with an implementation of segregated user-specific wallets to fill the regulatory requirements that were raised by futures regulatory commissions - margin swaps offered on finex were basically a futures product without the user specific wallets. However Bitfinex &lt;strong&gt;probably&lt;/strong&gt; had complete control over the BitGo implementation and turned off its security functions (like, limits on withdrawals).&lt;/p&gt;
-
-&lt;div class=&quot;reddit-embed&quot; data-embed-media=&quot;www.redditmedia.com&quot; data-embed-parent=&quot;false&quot; data-embed-live=&quot;false&quot; data-embed-uuid=&quot;6d857b4d-0587-4229-8a58-2fb7b34eea5c&quot; data-embed-created=&quot;2016-08-06T15:04:07.053Z&quot;&gt;&lt;a href=&quot;https://www.reddit.com/r/BitcoinMarkets/comments/4w2osg/daily_discussion_thursday_august_04_2016/d63n4rp&quot;&gt;Comment&lt;/a&gt; from discussion &lt;a href=&quot;https://www.reddit.com/r/BitcoinMarkets/comments/4w2osg/daily_discussion_thursday_august_04_2016/&quot;&gt;[Daily Discussion] Thursday, August 04, 2016&lt;/a&gt;.&lt;/div&gt;
-&lt;script async=&quot;&quot; src=&quot;https://www.redditstatic.com/comment-embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;USD funds for verified USA customers that came from US bank accounts should be insured via SynapsePay.&lt;/p&gt;
-
-&lt;h4 id=&quot;are-now-kraken-and-poloniex-coming-next&quot;&gt;Are now Kraken and Poloniex coming next?&lt;/h4&gt;
-
-&lt;p&gt;Kraken uses BitGo but with a different setup:&lt;/p&gt;
-
-&lt;div class=&quot;reddit-embed&quot; data-embed-media=&quot;www.redditmedia.com&quot; data-embed-parent=&quot;false&quot; data-embed-live=&quot;false&quot; data-embed-uuid=&quot;2bc0682a-fae0-4c6b-9e30-b92fb66f5174&quot; data-embed-created=&quot;2016-08-06T15:07:32.945Z&quot;&gt;&lt;a href=&quot;https://www.reddit.com/r/BitcoinMarkets/comments/4vw7ti/kraken_you_are_up_to_bat/d62kdih&quot;&gt;Comment&lt;/a&gt; from discussion &lt;a href=&quot;https://www.reddit.com/r/BitcoinMarkets/comments/4vw7ti/kraken_you_are_up_to_bat/&quot;&gt;Kraken, you are up to bat.&lt;/a&gt;.&lt;/div&gt;
-&lt;script async=&quot;&quot; src=&quot;https://www.redditstatic.com/comment-embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Poloniex … Well, who knows anything about Poloniex, right?&lt;/p&gt;
-
-&lt;h4 id=&quot;is-there-still-hope&quot;&gt;Is there still hope?&lt;/h4&gt;
-
-&lt;p&gt;Bitfinex will not pay for the losses of its customers. Bitstamp did, but the loss was smaller and they had VC funding. The only way a VC might want to flow into Bitfinex would probably be via an acquisition. If some other exchange with better security bought Finex they could essentially only buy the user base and their position. To simplify it, Finex accounts could carry on their existence on another platform with their pre-hack balance.&lt;/p&gt;
-
-&lt;p&gt;Bitfinex’s daily volume was known and it seems that a hack of this size wasn’t such a big hit really. It is unclear why Bitfinex people refuse to state their net BTC worth.&lt;/p&gt;
-
-&lt;div class=&quot;reddit-embed&quot; data-embed-media=&quot;www.redditmedia.com&quot; data-embed-parent=&quot;false&quot; data-embed-live=&quot;false&quot; data-embed-uuid=&quot;fdea13c4-49b9-4650-8d42-28a36418d318&quot; data-embed-created=&quot;2016-08-06T15:11:12.669Z&quot;&gt;&lt;a href=&quot;https://www.reddit.com/r/BitcoinMarkets/comments/4vtv1m/bitfinex_down_due_to_bitcoin_security_breach/d666970&quot;&gt;Comment&lt;/a&gt; from discussion &lt;a href=&quot;https://www.reddit.com/r/BitcoinMarkets/comments/4vtv1m/bitfinex_down_due_to_bitcoin_security_breach/&quot;&gt;Bitfinex down due to bitcoin security breach&lt;/a&gt;.&lt;/div&gt;
-&lt;script async=&quot;&quot; src=&quot;https://www.redditstatic.com/comment-embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;h2 id=&quot;places-to-watch&quot;&gt;Places to watch&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;stakepool teamspeak&lt;/li&gt;
-  &lt;li&gt;reddit’s bitcoin markets&lt;/li&gt;
-  &lt;li&gt;trading view cryptocurrency trollbox&lt;/li&gt;
-  &lt;li&gt;/u/zanetackett with a big grain of salt&lt;/li&gt;
-  &lt;li&gt;bitfinex.statuspage.io&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt; There have been phishing emails from “ibitfinex.com”, these are fraudulent.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-price-action-coming-from-this&quot;&gt;The price action coming from this?&lt;/h2&gt;
-
-&lt;p&gt;Because altcoins often mirror Bitcoin’s price action, do expect a wild ride until the dust settles…Which might take months. In an event like this all TA is probably worthless.&lt;/p&gt;
-
-&lt;p&gt;There will be more shit to come once people realize Zane is a nice guy but all in all, not your family, and that blockchain companies are full of ex JP Morgan motherfuckers who are only going where the $$$ is and don’t give a shit about the people who actually make the existence of the business possible - the customers. And since folks with pedigrees are so networked each with another they will never lose a penny or reputation, effectively. We traders will, unless we protect our assets by a proper risk management.&lt;/p&gt;
-
-&lt;div class=&quot;reddit-embed&quot; data-embed-media=&quot;www.redditmedia.com&quot; data-embed-parent=&quot;false&quot; data-embed-live=&quot;false&quot; data-embed-uuid=&quot;d2b63219-1fca-4470-89f6-4ae4d2375cb6&quot; data-embed-created=&quot;2016-08-06T15:21:08.578Z&quot;&gt;&lt;a href=&quot;https://www.reddit.com/r/BitcoinMarkets/comments/4webkx/daily_discussion_saturday_august_06_2016/d66p3hw&quot;&gt;Comment&lt;/a&gt; from discussion &lt;a href=&quot;https://www.reddit.com/r/BitcoinMarkets/comments/4webkx/daily_discussion_saturday_august_06_2016/&quot;&gt;[Daily Discussion] Saturday, August 06, 2016&lt;/a&gt;.&lt;/div&gt;
-&lt;script async=&quot;&quot; src=&quot;https://www.redditstatic.com/comment-embed.js&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Sat, 06 Aug 2016 00:00:00 +0200</pubDate>
-        <link>https://www.altcointrading.net/finexening/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/finexening/</guid>
-        
-        
-        <category>trading</category>
         
       </item>
     
