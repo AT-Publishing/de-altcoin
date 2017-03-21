@@ -1,6 +1,8 @@
 <head>
+  {% unless page.stories %}
+  <meta name="Googlebot-News" content="noindex, nofollow">
+  {% endunless %}
 <meta charset="utf-8">
-<!-- MOTHERFUCKERS OF AMP PROJECT ORG SHOULD BURN IN HELL -->
 <title>{% if page.title %}{{ page.title | capitalize }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 <link rel="icon" type="image/png" href="{{ site.url }}{{ site.baseurl }}/img/favicon.ico">
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -17,9 +19,9 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700|Slabo+27px' rel='stylesheet'>
 <!--langs-->
-<link rel="alternate" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" hreflang="de-de" />
+<link rel="alternate" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" hreflang="en-us" />
 {% unless page.title %}
-<link rel="alternate" href="https://www.altcointrading.net" hreflang="en-us" />
+<link rel="alternate" href="https://de.altcointrading.net" hreflang="de-de" />
 {% endunless %}
 <!--AMP-->
 <script async src="https://cdn.ampproject.org/v0.js"></script>

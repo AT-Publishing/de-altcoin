@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Trezor (SatoshiLabs) announced altcoin support"
-description: "Trezor now added support for some altcoins - and explained what the altcoin needs to get supported."
+title: "Trezor (SatoshiLabs) added DASH wallet and ZCASH wallet"
+description: "Trezor now added native support for DASH and ZCASH - and explained what the altcoin needs to get supported (looking at you, Monero)."
 categories:
 - "wallets"
 - "dash"
@@ -18,6 +18,8 @@ update: 2017-03-03
 tags:
 - "popular"
 comments: true
+stories: true
+
 ---
 
 {% amp700 border {{page.image[0]}} {{page.image_alt[0]}} %}
