@@ -1,7 +1,7 @@
 
-title: "Altcoin Trading | Deutsche Seite"
-subtitle: "The forex of cryptocurrencies, bitcoin as the base."
-description: "Altcoin Trading is the forex of cryptocurrencies, with bitcoin as the base currency."
+title: "Altcoin Trading"
+subtitle: "Forex der Kryptowährungen, Bitcoin als Basis."
+description: "Forex der Kryptowährungen, Bitcoin als Basis."
 baseurl: ""
 url: "https://de.altcointrading.net"
 
@@ -12,9 +12,9 @@ defaults:
       type: "posts"
     values:
       layout: "blog"
-      german: false
-      published: true
-      comments: true
+      english: false
+      published: false
+      comments: false
       stories: false
       genres: "Blog" # Blog, OpEd, Opinion, PressRelease, Satire, and UserGenerated
       tickers: false

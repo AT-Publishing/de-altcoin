@@ -1,8 +1,8 @@
 ---
 layout: blog
-date: 2017-03-15 01:20
-title: "Monero Cold Storage: Current Situation"
-description: "The promises of upcoming Monero hardware wallets are for now just promises."
+date: 2017-03-20 20:20
+title: "Monero Cold-Storage: Aktueller Zustand"
+description: "Die Versprechungen der kommenden Monero Hardware-Wallets sind jetzt nur Versprechen."
 categories:
 - "coins"
 - "xmr"
@@ -12,10 +12,11 @@ image:
 - "/img/xmr/monero-ledger.jpg"
 - "/img/wallets/jaxx.png"
 image_alt:
-- "The crowd wants it but there won't be an easy-to-use Monero cold storage any time soon even though this single product could make a new leader in the field of hardware wallets."
-update: 2017-03-20 22:42
-german: false
-comments: true
+- "Die Menge will es. Aber es wird keine Monero 'Kältespeicherung' in kürzester Zeit sein, obwohl dieses einzelne Produkt einen neuen Führer auf dem Gebiet der Hardware-Geldbörsen machen könnte."
+update: 2017-03-21 00:42
+
+english: monero-cold-storage-2017/
+comments: false
 stories: true
 
 published: true
@@ -31,58 +32,58 @@ ________________________
 
 {{ site.ads.aads728 }}
 
-Not so long ago there were rumors about various wallet providers finally integrating Monero - desktop wallets, light clients, hardware wallets. Turns out we got all of this for DASH, also for ETH, in some cases for ZEC, DAO, REP...Not for XMR though.
+Vor nicht so langer Zeit gab es Gerüchte über die verschiedenen wallet-Anbieter schließlich die Integration von Monero - desktop-wallets, light clients, hardware-wallets. Stellt sich heraus, wir haben all dies für ARMATURENBRETT, auch für die ETH, in einigen Fällen für ZEC, DAO REP...Nicht für XMR obwohl.
 
-Meanwhile, Monero's long-term holder base increased, price has been consolidating at a nice level after the surge by the end of summer 2016 and everyone who ever heard of altcoin trading is eager to jump after the first viable product that will provide a safe storage for Monero.
+Inzwischen Monero langfristige Halterung Basis erhöht, der Preis der Konsolidierung auf eine schöne Ebene nach dem Anstieg am Ende des Sommers 2016 und jeder, der jemals davon gehört altcoin-trading ist bestrebt, springen nach dem ersten viable product, bietet eine sichere Aufbewahrung für Monero.
 
-It got to the point that such a feature would shake up the market of hardware wallet providers - even if it were a standalone Monero-only wallet, **[people would buy it](https://www.reddit.com/r/Monero/comments/5lf9ns/is_there_any_update_on_monero_support_for_the/)**.
+Es kam zu dem Punkt, dass eine solche Funktion würde schütteln, bis der Markt der hardware-wallet-Anbietern - auch wenn es ein standalone-Monero-nur die Geldbörse, **[Leute kaufen würden it](https://www.reddit.com/r/Monero/comments/5lf9ns/is_there_any_update_on_monero_support_for_the/)**.
 
-That's an obvious opportunity, so what is the problem?
+Das ist eine naheliegende Möglichkeit, so was ist das problem?
 
-It is a technical one. There is a lot of open sourced code to handle Bitcoin and today's most popular altcoins all use some of Bitcoin's basics. DASH is the obvious example but even ETH was in fact built up on a Bitcoin fork. That means, for most altcoins you could pick, you would always just tweak a BTC block explorer and use it, or you would fork a BTC light wallet and so on - it makes the process a whole lot easier.
+Es ist eine technische. Es gibt eine Menge von open-Source-code zur Behandlung von Bitcoin und heute zu den beliebtesten altcoins alle verwenden einige Bitcoin-Grundlagen. DASH ist ein offensichtliches Beispiel, aber auch die ETH war in der Tat aufgebaut auf eine Bitcoin-Gabel. Das bedeutet, dass für die meisten altcoins könnten Sie wählen, würden Sie immer nur zwicken Sie ein BTC-block explorer und verwenden Sie es, oder Sie würde eine Gabel BTC-Licht-wallet und so weiter - es macht den Prozess viel einfacher.
 
-That is, you can do this with most altcoins other than Monero. Monero was built from scratch and none of the BTC codebase can be reused. The whole system has to be developed again, specifically for Monero.
+Das heißt, Sie können dies tun, mit den meisten anderen altcoins als Monero. Monero wurde von Grund auf neu gebaut und keine der BTC codebase kann wiederverwendet werden. Das ganze system muss wieder aufgebaut werden, speziell für Monero.
 
-Apparently this will be a chance for someone new to enter the market because the winners of today don't have enough people (nor pressing need for the profit and glory) to be bothered with Monero.
+Anscheinend wird eine chance sein für jemanden, der neu in den Markt einzutreten, weil die Gewinner von heute haben Sie nicht genug Leute, die (noch dringende Notwendigkeit, für die profit und Ruhm) gestört werden Monero.
 
 #### Ledger Nano - ,,No ETA"
 
-{% amp700 border {{page.image[1]}} "ledger monero" %}
+{% amp700 border {{page.Bild[1]}} "ledger " monero" %}
 
-There is a [public Trello board](https://trello.com/c/wsK0myEm/52-monero-support) regarding the Monero support and for a time it looked quite promising. However, u/btchip from Ledger cleared it up:
+Es ist ein [öffentliches Trello board](https://trello.com/c/wsK0myEm/52-monero-support) über die von Monero unterstützen und für eine Zeit sah es Recht vielversprechend. Allerdings, u/btchip von Ledger gelöscht:
 
-> It's not yet started - a few other things to work on first. We have no ETA but have the right communication channels open to move quickly once we go. [via r/ledgerwallet](https://www.reddit.com/r/Monero/comments/5lf9ns/is_there_any_update_on_monero_support_for_the/dbvmfo0/)
+> Es ist noch nicht gestartet - ein paar andere Dinge, die Arbeit am ersten. Wir haben keine ETA haben, aber die richtigen Kommunikations-Kanäle öffnen sich schnell zu bewegen, sobald wir gehen. [via r/ledgerwallet](https://www.reddit.com/r/Monero/comments/5lf9ns/is_there_any_update_on_monero_support_for_the/dbvmfo0/)
 
 
-#### Trezor - Project Stalled
+#### Trezor - Projekt Ins Stocken Geraten
 
 <p>
-{{ site.ads.trezorlong }}
+{{ site.anzeigen.trezorlong }}
 </p>
 
-Trezor by SatoshiLabs was supposed to get Monero supported by their hardware wallet, [someone worked on the project before](monero-wallet/) and there are a few brave ones who hacked up their Trezors to get a working hardware wallet for Monero punk-style. Working for now, that is. The code written for Trezor will be incompatible soon as Monero upgraded since that.
+Trezor von SatoshiLabs sollte Monero unterstützt von Ihrer hardware wallet, [jemand an diesem Projekt gearbeitet, bevor](monero-Geldbörse/) und es gibt ein paar mutige, die gehackt Ihre Trezors um eine funktionierende hardware wallet für Monero punk-Stil. Arbeiten für jetzt ist. Der code geschrieben für Trezor unvereinbar bald wie Monero aktualisiert, da die.
 
 
-#### Keepkey - ,,Erm, not really."
+#### Keepkey - ,,Erm, nicht wirklich."
 
-The Trezor spin-off is not planning to implement Monero either:
+Die Trezor-spin-off ist nicht der Planung und Implementierung von Monero können Sie entweder:
 
-> We are considering it, but it is not on the roadmap at the moment. [ via r/keepkey](https://www.reddit.com/r/keepkey/comments/5m58vv/monero_support/dc1fkzx/)
+> Sind wir in Betracht ziehen, aber es ist nicht auf der roadmap im moment. [ über r/keepkey](https://www.reddit.com/r/keepkey/comments/5m58vv/monero_support/dc1fkzx/)
 
-#### Jaxx - ,,Near term plans halted"
+#### Jaxx - ,,Kurzfristige Pläne gestoppt"
 
-{% amp700 border {{page.image[2]}} "jaxx monero" %}
+{% amp700 border {{page.Bild[2]}} "jaxx monero" %}
 
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Saddens me to announce we&#39;ve halted <a href="https://twitter.com/jaxx_io">@jaxx_io</a> <a href="https://twitter.com/monerocurrency">@monerocurrency</a> near term integration plans. Too many difficulties. Need to refocus resources.</p>&mdash; Anthony Di Iorio (@diiorioanthony) <a href="https://twitter.com/diiorioanthony/status/826953622088982528">2 February 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="de" dir="ltr">macht mich Traurig, zu verkünden, wir&#39;ve gestoppt, <a href="https://twitter.com/jaxx_io">@jaxx_io</a> <a href="https://twitter.com/monerocurrency">@monerocurrency</a> in der Nähe von Begriff integration plant. Zu viele Schwierigkeiten. Notwendigkeit der Neuausrichtung der Ressourcen.</p>&mdash; Anthony Di Iorio (@diiorioanthony) <a href="https://twitter.com/diiorioanthony/status/826953622088982528">2. Februar 2017</a></blockquote>
 
-Jaxx was the most promising Monero integration, hands down. In [November 2016]( http://decentral.ca/jaxx-monero-integration-update/) Jaxx people asked the Monero team for help - fluffypony [provided source code for both backend and frontend](https://www.reddit.com/r/Monero/comments/5dsqrf/jaxx_monero_integration_update_3/da73yrj) and whenever Jaxx developers were clueless with something they could ask. The discussion was even public on Reddit at first, before trolls chased the devs away to private channels. Since then amount of news diminished.
+Jaxx war der vielversprechendsten Monero integration, die Hände nach unten. In [November 2016]( http://decentral.ca/jaxx-monero-integration-update/) Jaxx Menschen gefragt, die Monero-team für die Hilfe - fluffypony [die Quellen für backend und frontend](https://www.reddit.com/r/Monero/comments/5dsqrf/jaxx_monero_integration_update_3/da73yrj) und wenn Jaxx Entwickler hatten keine Ahnung, mit etwas, das Sie Fragen konnte. Die Diskussion wurde sogar öffentlich auf Reddit auf den ersten, bevor Sie Trolle gejagt, die devs Weg zu den privaten Sendern. Seitdem fülle der Nachrichten verringert.
 
-Fast-forward to February 2017, `"something something no Monero for Jaxx"`. It seems like there was some tension between the Jaxx team and fluffypony - apparently fluffy's changes in XMR codebase rendered some of the Jaxx's new code useless again so the management decided to ditch it for now and focus on the [currently ongoing major Jaxx upgrade](https://twitter.com/diiorioanthony/status/842000749106237441), although [fluffypony was more sarcastic than that](https://www.reddit.com/r/Monero/comments/5rjll8/looks_like_monero_wont_be_in_jaxx_for_a_while/dd7yfo6/).
+Schneller Vorlauf bis Februar 2017, `"etwas, was keine Monero für Jaxx"`. Wie es scheint, gab es einige Spannungen zwischen den Jaxx-team und fluffypony - scheinbar flauschigen änderungen von XMR-codebase gerendert einige der Jaxx neuen code wieder wertlos, so dass das management entschieden zu Graben, ist es für jetzt und konzentrieren sich auf die [derzeit Laufenden großen Jaxx-upgrade](https://twitter.com/diiorioanthony/status/842000749106237441), obwohl [fluffypony war mehr sarkastisch als that](https://www.reddit.com/r/Monero/comments/5rjll8/looks_like_monero_wont_be_in_jaxx_for_a_while/dd7yfo6/).
 
-### Who's still working on that?
+### Wer ist noch daran?
 
-Chances are it's going to be fashionable to start claiming work on XMR support to get people buy your product in expectations of future joy.
+Die Chancen sind, es geht um Mode, um starten zu fordern, arbeiten Sie auf XMR Unterstützung zu bekommen Menschen kaufen Ihre Produkt in den Erwartungen der zukünftigen Freude.
 
-Nonetheless, [Exodus, the desktop multicoin wallet with Shapeshift integration](https://www.exodus.io/) seems to have Monero support as top priority for new features.
+Dennoch, [Exodus, der desktop multicoin-Geldbörse mit Shapeshift integration](https://www.exodus.io/) zu haben scheint Monero Unterstützung als top-Priorität für neue Funktionen.
 
-Likewise the official web client mymonero.com should get a mobile interface later this year. Mymonero.com is a fully functional thing by now, the obvious idea would be to use what is there now as a webview to create the most basic online-only app. [And some have indeed succeeded with that](https://www.reddit.com/r/Monero/comments/5tfz27/why_not_use_opensourced_mymonero_fronend_as_quick/), so hopefully this is expectation is a realistic one.
+Ebenso ist die offizielle web-client mymonero.com sollte sich eine mobile Schnittstelle, die später dieses Jahr. Mymonero.com ist voll funktionsfähig, was bis jetzt die offensichtliche Idee wäre, zu verwenden, was ist da jetzt so ein webview erstellen der grundlegenden online-only-app. [Und einige haben ja auch gelungen, mit that](https://www.reddit.com/r/Monero/comments/5tfz27/why_not_use_opensourced_mymonero_fronend_as_quick/),, hoffentlich ist diese Erwartung realistisch ist.

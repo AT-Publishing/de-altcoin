@@ -1,22 +1,22 @@
 ---
 layout: page
-title: Discount Coupon CoinMama fny3000 + 190TY584
-permalink: /coupon-coinmama-fny3000/
+title: "Gutschein CoinMama für Bitcoin und Ethereum: fny3000 + 190TY584"
+permalink: /gutschein-coinmama-fny3000/
 tags:
 - hidden
 navi:
  exclude: yes
 ---
 
-#### About CoinMama
+#### Über CoinMama
 
-CoinMama is a service that will let you buy bitcoin and ether with cash or debit card. Fees are relatively high (about 15% markup) but you will get your bitcoin (or ether) instantly.
+CoinMama ist ein Service wo man Bitcoin und Ether kaufen kann. Man kann bezahlen mit Bargeld oder EC-Karte. Gebühren sind relativ hoch (etwa 15% höher als bei Bitstamp), aber man bekommt die Bitcoins (oder ETH) sofort.
 
-With some debit cards you will need to undergo verification with selfie. The same goes for credit cards.
+Mit einigen EC-Karten muss man erst ID Prüfung und Selfie machen. Das gleiche gilt für Kreditkarten.
 
-The payment executes via Simplex gateway. There will be no mention on the bank/ewallet side that you bought bitcoin. You can use a non-bank prepaid debit card linked to an ewallet.
+Die Zahlung führt über Simplex-gateway. Deswegen gibt es nach der Transaktion keine Erwähnung auf der bank/E-Wallet-Seite dass man Kryptowährung gekauft hat. Man kann sogar eWallets vie Skrill nutzen wenn man die Skrill Prepaid Card hat.
 
-Coinmama is available in most countries. If you live in the US Coinmama is only available in the following states: *California, Colorado, Florida, Illinois, Indiana, Kansas, Massachusetts, Michigan, Montana, New Mexico, North Carolina, Pennsylvania, South Carolina, Tennessee, Texas*.
+Coinmama ist verfügbar in meisten Länder. Für Bürger der USA ist es nicht so gut, Coinmama ist verfügbar nur in den folgenden Staaten: *Kalifornien, Colorado, Florida, Illinois, Indiana, Kansas, Massachusetts, Michigan, Montana, New Mexico, North Carolina, Pennsylvania, South Carolina, Tennessee, Texas*.
 
 ```
 coinmama.com
@@ -24,7 +24,7 @@ code fny3000
 coupon 190TY584
 ```
 
-<a rel="nofollow" href="https://www.coinmama.com/?ref=fny3000" class="button" target="_blank">Get 5% discount</a>
+<a rel="nofollow" href="https://www.coinmama.com/?ref=fny3000" class="button" target="_blank">Zu CoinMama</a>
 
 
 {{ site.ads.aads728 }}

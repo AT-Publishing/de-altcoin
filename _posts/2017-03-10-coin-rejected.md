@@ -12,7 +12,7 @@ image_alt:
 - "Cryptocurrencies are not going to be part of the mainstream finance for now."
 update: 2017-03-10
 german: false
-published: true
+published: false
 comments: true
 stories: true
 ---

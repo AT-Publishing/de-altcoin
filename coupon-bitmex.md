@@ -1,7 +1,7 @@
 ---
 layout: page
 title: iYQB44 10% Fee Discount Coupon BitMEX
-permalink: /coupon-bitmex-iyqb44/
+permalink: /gutschein-bitmex-iyqb44/
 tags:
 - hidden
 navi:
@@ -9,7 +9,7 @@ navi:
 image:
 - "/img/bitfinex/bitmex-coupon-iYQB44.jpg"
 image_alt:
-- "BitMEX coupon referral code iYQB44"
+- "BitMEX Gutschein iYQB44"
 ---
 
 
@@ -19,23 +19,22 @@ _Image: {{page.image_alt[0]}}_
 
 ________________________
 
-#### About BitMEX
+#### Über BitMEX
 
-BitMEX is a cryptocurrency derivative platform. You cannot buy altcoins or bitcoin on BitMEX with your national currency, you can only trade their products for profit. You get your winnings paid out in BTC.
+BitMEX ist ein kryptogeld-Derivat-Plattform. Sie können nicht kaufen altcoins oder Bitcoins auf BitMEX mit Ihrer nationalen Währung, können Sie nur den Handel mit Ihren Produkten für den Gewinn. Sie erhalten Ihre Gewinne ausgezahlt in BTC.
 
-Currently the most traded products are BTC futures, ZEC futures and BTC permanent swap (derivative mimicking spot BTCUSD market). In addition to that, BitMEX is the platform where you can bet on any upcoming event in the crypto markets - the betting market for the COIN ETF was up in February 2017.
+Die derzeit am meisten gehandelten Produkte sind BTC futures, ZEC futures, BTC permanente swap (Derivat Nachahmung spot BTCUSD Markt). Darüber hinaus BitMEX ist die Plattform, wo Sie Wette auf jede bevorstehende Veranstaltung in der crypto - Märkte-die Wetten-Markt für die MÜNZE ETF war bis im Februar 2017.
 
-Leverage is dynamic between 1x and 100x.
+Leverage ist dynamisch zwischen 1x und 100x.
 
-Fees are changeable - depending on the market and whether you're long or short.
+Gebühren sind wandelbar - je nach Markt und ob Sie nun lang oder kurz.
 
-The exchange doesn't serve US customers. However there is no verification other than a claim from the user on sign up. The exchange is accessible from a VPN or from the Tor network.
 
-**There is an initial 6 months 10% fee discount for users who sign up at BitMEX with a referral code.**
+** Es gibt 10% Gebühr-Rabatt für Benutzer, die sich bei BitMEX mit einem Empfehlungs-code.**
 
 `bitmex.com iYQB44`
 
-<a rel="nofollow" href="https://www.bitmex.com/register/iYQB44" class="button" target="_blank">Get 10% fee discount</a>
+<a rel="nofollow" href="https://www.bitmex.com/register/iYQB44" class="button" target="_blank">Zur BitMex-Börse</a>
 
 
 {{ site.ads.aads728 }}

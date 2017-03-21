@@ -1,21 +1,27 @@
 ---
 layout: blog
-title: "Avoidance Strategy in Altcoin Trading"
-description: "The Wyckoff style is to trade only the best stocks in the leading sectors. Can you use this motto when trading cryptocurrencies?"
+title: "Vermeidungsstrategie im Altcoin Trading"
+description: "Der Wyckoff-Stil soll nur die besten Bestände in den führenden Branchen handeln. Können Sie dieses Motto verwenden, wenn Sie Kryptocoins handeln?"
 categories:
 - "trading"
-permalink: wyckoff-avoidance/
+tags:
+- "popular"
+permalink: wyckoff/
 image:
 - "/img/emotions/standby.JPG"
 - "/img/trading/cmc-snapshot.jpg"
 - "/img/trading/btc-rsidiv.png"
 - "/img/trading/bbands1.jpg"
 image_alt:
-- "Wyckoffian Avoidance Strategy?"
-update: 2017-03-09
-german: "wyckoff/"
+- "Wyckoffische Vermeidungsstrategie?"
+
+update: 2017-03-20
+
+english: "wyckoff-avoidance/"
+
 published: true
-comments: true
+stories: false
+comments: false
 ---
 
 {% amp700 border {{page.image[0]}} {{page.image_alt[0]}} %}
@@ -26,70 +32,69 @@ ________________________
 
 {{ site.ads.aads728 }}
 
-Wyckoff method is getting popular in the cryptocurrency space mainly because John Bollinger the author of bbands keeps recommending it on twitter.
+Wyckoff Methode ist immer beliebter in der kryptogeld Raum, vor allem, weil John Bollinger, der Autor der Bollinger Bands hält empfehle es auf twitter.
 
-While it can be called a "legacy" thing no doubt it is useful for crypto as well:
+Zwar kann man von einem "legacy" - Ding, kein Zweifel, es ist nützlich für crypto:
 
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr"><a href="https://twitter.com/kenzboard">@kenzboard</a> <a href="https://twitter.com/MrJozza">@MrJozza</a> Yeah, Wyckoff is as near to a universal key to understanding trading as we have.</p>&mdash; John Bollinger (@bbands) <a href="https://twitter.com/bbands/status/835170564431962112">24 February 2017</a></blockquote>
-
-
-#### The value trading
-
-The Wyckoff style is to trade only the best stocks in the leading sectors. Can you use this motto when trading cryptocurrencies? It is an emerging asset class but figuring out which cryptocurrency has actual **value** will make your decisions a lot clearer:
-
-* You want to buy/hold a *valuable* asset through shorter timespans when the *price* is not reflecting the value (yet).
-* You want to take profits and abandon an asset that is appreciating in the short term because of things like tiny market hence manipulation, or media hype.
-
-#### How strong a coin is
-
-> The Wyckoffian mission is to trade and invest in the best stocks in the leading Industry Groups. We have been studying examples of leadership characteristics using **Wyckoff Analysis** in combination with **Relative Strength**. [...] Always seeking the strongest stocks in the strongest groups. It is also a worthwhile exercise to study groups that are stalling and falling from favor. [StockCharts](http://stockcharts.com/articles/wyckoff/2017/02/avoidance-strategy.html)
-
-The key point is that a leader of a group dies not remain a leader indefinitely. At some point the leader leaves the limelight, becomes a laggard and may stay a laggard for some time. That's what the Wyckoff avoidance strategy is about - spotting the transition from leader to laggard and avoiding longing that market rather than getting to think in forever terms.  
-
-This transition is a substantial change, technically you should be looking for it on longer timeframes (daily, 3D or weekly charts).
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="de" dir="ltr"><a href="https://twitter.com/kenzboard">@kenzboard</a> <a href="https://twitter.com/MrJozza">@MrJozza</a> Ja, Wyckoff ist als in der Nähe ein universal-Schlüssel zum Verständnis von Handel als wir haben.</p>&mdash; John Bollinger (@bbands) <a href="https://twitter.com/bbands/status/835170564431962112">24. Februar 2017</a></blockquote>
 
 
+#### Der Wert Handel
 
-#### Select assets that are in harmony with the market
+Die Wyckoff-Stil ist, um nur den Handel die besten Aktien in den führenden Sektoren. Können Sie dieses motto beim Handel mit cryptocurrencies? Es ist eine aufstrebende asset Klasse aber herauszufinden, welche kryptogeld tatsächliche **Wert** machen Sie Ihre Entscheidungen sehr viel klarer:
 
-> In a **bull (uptrend) market**, select [assets] that are **stronger than the market itself**. In a bear market choose those that are weaker than the market itself.
+* Sie möchten kaufen/halten *wertvolle* asset durch kürzere Zeitspannen, wenn der *Preis* ist nicht entsprechend dem Wert (noch) nicht.
+* Sie wollen Gewinne mitnehmen und Hingabe eines Vermögenswertes, ist die Wertschätzung, die kurzfristig wegen der Dinge, die wie winzige Markt damit Manipulationen, oder Medien-hype.
 
-If you figure out consistently strong cryptocurrencies and their counterparts you have your best candidates for mid-term longs and shorts:
+#### Wie stark eine Münze ist
 
-* Strong altcoins rally quite easily but after the rally retraces some of the gains remain.
-* Weak altcoins are traded but don't rally consistently. If they do, the retrace kills all the gains.
+> Die Wyckoffian mission ist es, Handel und Investitionen in die besten Aktien der führenden Industrie-Gruppen. Wir haben studiert Beispiele von leadership-Eigenschaften mithilfe von **Wyckoff-Analyse** in Kombination mit **die Relative Stärke**. [...] Immer auf der Suche nach den stärksten Aktien in die stärksten Gruppen. Es ist auch eine lohnende übung, um zu studieren-Gruppen, die Abwürgen und das fallen aus der Bevorzugung. [StockCharts](http://stockcharts.com/articles/wyckoff/2017/02/avoidance-strategy.html)
 
-In legacy markets one can compare stocks against a composite index. In a bull market well below a known resistance line, if a stock gains more than the index, it's typically a good bet to open a long, avoding all the rest of the assets in the group. If the resistance approaches it's time to close that long and find which stock was performing poorly in the rally. That is going to be to one most likely to drop significantly, you can short it and avoid trading the strong performers.
+Der entscheidende Punkt ist, dass ein Anführer einer Gruppe stirbt nicht führend bleiben auf unbestimmte Zeit. Irgendwann wird der Führer verlässt das Rampenlicht, wird zum Schlusslicht und bleiben zwar Schlusslicht, für einige Zeit. Das ist es, was die Wyckoff vermeidungsstrategie ist zu erkennen den übergang vom Marktführer zum Schlusslicht und die Vermeidung von Sehnsucht, Markt, anstatt zu denken, für immer Begriffen.
 
-In cryptocurrencies we don't have an index that would track the performance of top 100 or 500 altcoins. You will have to put in a little bit more work.
-
-A handy tool that will help you do that is [coinmarketcap.com](http://coinmarketcap.com/).
-
-You can track the historical weekly performance of cryptocurrencies at [http://coinmarketcap.com/historical/](http://coinmarketcap.com/historical/) - this page has snapshots dating back to 2013.
-
-Daily data is available at [the homepage](http://coinmarketcap.com/#BTC) or from their API. If you are trading altcoins against BTC, that is pairs like ETHBTC, you should switch to BTC pricing. This way you'll see which altcoins perform the best and the worst against bitcoin.
-
-{% amp700 border {{page.image[1]}} {{page.image_alt[0]}} %}
+Dieser übergang ist eine wesentliche änderung, technisch sollten Sie auf der Suche nach es über längere Zeiträume (Tages -, 3D-oder weekly-charts).
 
 
-Going through the weekly data from 2016 you can filter each table by traded volume.
 
-* You'll see that small altcoins show up every week with immense gains but after some weeks you don't hear about them again.
-* On the other hand, for instance litecoin is consistently being traded but the price doesn't change much - perhaps people use it to move funds across exchanges instead of using fiat but next to no people believe it is worth to hold LTC.
-* Ethereum and Dash have volumes in the upper part of the spectrum but they actually see a rally or two once in a while with gains that don't completely disappear after the retrace.
+#### Wählen Sie Vermögenswerte, die im Einklang mit dem Markt
 
-#### Going back to individual coins
+> In einem **bull (Aufwärtstrend) Markt**, wählen Sie [Vermögen], **stärker als der Markt sich selbst**. In einem bear-Markt wählen Sie diejenigen, die schwächer sind als der Markt selbst.
 
-To spot the beginning of short term changes in the market, topping patterns and reversals you will have to go back to individual cryptocurrencies. The chart below is a bitcoin chart but the same TA is valid with all commonly traded coins with good holder base these days.
+Wenn Sie herausfinden, starke cryptocurrencies und Ihre Kollegen haben Sie Ihre besten Kandidaten für die mittelfristige longs und shorts:
 
-What people use the most to spot these changes is Parabolic SAR, RSI and MACD. You can use {% aff Cryptowatch https://cryptowat.ch %} for the basics or {% aff TradingView http://tradingview.go2cloud.org/SHW9 %} which provides interface where you can tune the indicator parameters and do some very basic backtesting. To name one, the default Parabolic SAR will be too sensitive, giving you flips that will be a false positive so you should pick your timeframe and tune the PSAR settings so that it flips really mostly only before a reversal historically happened on that timeframe.
+* Starke altcoins Rallye ganz leicht, aber nach der Kundgebung fährt der Teil der Gewinne bleibt.
+* Schwache altcoins gehandelt werden, aber nicht Rallye konsequent. Wenn Sie das tun, wandeln Sie tötet alle die Gewinne.
 
-The hourly bitcoin chart below shows a SAR set to `0.025, 0.02, 0.03` on {% aff TradingView http://tradingview.go2cloud.org/SHW9 %}. If you click on the picture to zoom it you'll see it flipping, and if you look at the RSI at the bottom you'll see a divergence between the RSI lows and the price lows, which is bullish as it shows the lows are too low for the strength of the market.
+In älteren Märkten kann man vergleichen Aktien gegen eine composite-index. In einem bull-Markt auch unter einem bekannten Widerstand Linie, wenn eine Aktie Gewinne von mehr als der index, ist es in der Regel eine gute Wette, um zu öffnen, einen langen, avoding alle den rest der Elemente in der Gruppe. Wenn der Widerstand näher rückt, ist es Zeit zu schließen, dass die lange und finden das Lager war schlecht in die Rallye. Das wird zu einem wahrscheinlich deutlich sinken, können Sie sich kurz und vermeiden trading die starken Darsteller.
 
-{% amp700 border {{page.image[2]}} {{page.image_alt[0]}} %}
+In cryptocurrencies haben wir nicht einen index, würde die Wertentwicklung der top-100-oder 500 altcoins. Sie haben, um in ein wenig mehr Arbeit.
 
-Of course in both bitcoin and altcoins you cannot discount "conspiracy theories" about whales manipulating the markets - given the (little) money one needs to do that it's entirely possible. Even the legacy guys found it out themselves, I encourage you to read the following excerpt from FT where an investor whines about getting rekt on OkCoin because of a bearwhale, it's hilarious.
+Ein handliches Werkzeug, die Ihnen dabei helfen, [coinmarketcap.com](http://coinmarketcap.com/).
 
+Sie können die Spur der historischen wöchentlichen Leistung von cryptocurrencies [http://coinmarketcap.com/historical/](http://coinmarketcap.com/historical/) - diese Seite hat snapshots stammt aus 2013.
+
+Tägliche Daten ist verfügbar unter [homepage](http://coinmarketcap.com/#BTC) oder von der API. Wenn Sie Handel mit altcoins gegen BTC, ist, dass Paare wie ETHBTC, sollten Sie wechseln zu BTC Preise. Auf diese Weise werden Sie sehen, welche altcoins, um die besten und die schlechtesten gegen bitcoin.
+
+{% amp700 border {{page.Bild[1]}} {{page.image_alt[0]}} %}
+
+
+Sie gehen durch die wöchentlichen Daten ab 2016 können Sie einen filter für jede Tabelle vom gehandelten Volumen.
+
+* Sie werden sehen, dass die kleinen altcoins zeigen, bis jede Woche mit riesigen Gewinne aber nach einigen Wochen hören Sie nicht über Sie wieder.
+* Auf der anderen Seite, zum Beispiel litecoin ist konsequent gehandelt, aber der Preis ändert sich nicht viel - vielleicht Menschen, die es verwenden, um zu bewegen-Fonds über Börsen statt mit fiat, aber so gut wie keine Menschen glauben, dass es Wert zu halten LTC.
+* Astraleums und Dash haben sich die Volumen in den oberen Teil des Spektrums, aber Sie tatsächlich sehen, eine Rallye oder zwei einmal in eine Weile mit Gewinne, nicht völlig verschwinden, nachdem das nachvollziehen.
+
+#### Gehen wir zurück zu den einzelnen Münzen
+
+An Stelle der Anfang von kurzfristigen änderungen in der Markt -, topping-Muster und Zuschreibungen, die Sie haben zu gehen zurück an die einzelnen cryptocurrencies. Die Tabelle unten ist eine bitcoin chart aber der gleiche TA ist gültig häufigsten gehandelten Münzen mit guter Halterung Basis in diesen Tagen.
+
+Was die Menschen am häufigsten verwenden, um vor Ort Veränderungen, Parabolic SAR, RSI und MACD. Sie können {% aff Cryptowatch https://cryptowat.ch %} für die Grundlagen oder {% aff TradingView http://tradingview.go2cloud.org/SHW9 %} was bietet eine Schnittstelle, wo Sie können, Stimmen Sie die Anzeige-Parameter, und führen Sie einige sehr grundlegende backtesting. Um nur eine zu nennen, die Standard-Parabolische SAR wird zu empfindlich, so dass Sie kippt, wird ein false-positive, also sollten Sie Holen Ihren Zeitplan, und Stimmen Sie die PSAR-Einstellungen so, dass es klappt wirklich meist nur vor einer historisch passiert ist, die Zeitrahmen.
+
+Das Stündliche bitcoin chart unten zeigt einen SAR `0.025, 0.02, 0.03` auf {% aff TradingView http://tradingview.go2cloud.org/SHW9 %}. Wenn Sie auf das Bild klicken um zu vergrößern es du wirst sehen, es spiegeln, und wenn man sich den RSI an der Unterseite sehen Sie eine Divergenz zwischen dem RSI-Tiefs und der Preis, den Tiefs, die ist bullish, da es zeigt, dass die tiefen sind zu tief für die Stärke des Marktes.
+
+{% amp700 border {{page.Bild[2]}} {{page.image_alt[0]}} %}
+
+Natürlich in beiden bitcoin und altcoins Sie nicht Rabatt "Verschwörungstheorien" über Wale Manipulation der Märkte - angesichts der (wenig) Geld man tun muss, dass es durchaus möglich. Auch die legacy-Jungs fanden es selbst aus, ich möchte Sie ermutigen, Lesen Sie den folgenden Auszug aus FT, wo ein investor jammert über die immer rekt auf OkCoin, weil ein bearwhale, es ist urkomisch.
 
 > this is from ft, somehow archive.is works around their log in wall: http://archive.is/aQ7Om
 

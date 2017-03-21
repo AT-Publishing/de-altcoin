@@ -1,15 +1,10 @@
 <head>
 <meta charset="utf-8">
-{% unless page.stories %}
-<meta name="Googlebot-News" content="noindex, nofollow">
-{% endunless %}
-<!--canonical-->
+{% unless page.stories %}<meta name="Googlebot-News" content="noindex, nofollow">{% endunless %}
+
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-<!--langs-->
-<link rel="alternate" hreflang="en-us" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-{% if page.german %}
-<link rel="alternate" href="https://de.altcointrading.net/{{ page.german }}" hreflang="de" />
-{% endif %}
+<link rel="alternate" hreflang="de" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+{% if page.english %}<link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net{{ page.english }}">{% endif %}
 
 <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 

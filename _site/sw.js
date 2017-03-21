@@ -12,75 +12,9 @@ const filesToCache = [
   "https://fonts.googleapis.com/css?family=Droid+Sans:400,700|Slabo+27px",
 
   
-  '/zoe-ethereum-alphabay/',
-  
   '/monero-cold-storage-2017/',
   
-  '/ethereum-etf-unlikely/',
-  
-  '/wyckoff-avoidance/',
-  
-  '/dash-03-2017/',
-  
-  '/kraken-cryptowatch/',
-  
-  '/ripple-trading/',
-  
-  '/private-altcoins-dash-monero/',
-  
-  '/trezor-multicoin/',
-  
-  '/how-to-buy-altcoins/',
-  
-  '/iconomi/',
-  
-  '/monero-wallet/',
-  
-  '/monero-kraken/',
-  
-  '/finexening/',
-  
-  '/free-etc/',
-  
-  '/eth-classic/',
-  
-  '/value/',
-  
-  '/ta-divergences/',
-  
-  '/eth-hard-fork/',
-  
-  '/ichimoku-cloud/',
-  
-  '/dao-hack/',
-  
-  '/eth-17-06-2016/',
-  
-  '/ico-2016/',
-  
-  '/waves/',
-  
-  '/technical-analysis/',
-  
-  '/eth-vs-lisk/',
-  
-  '/ethereum-may-2016/',
-  
-  '/eth-okcoin-coinbase/',
-  
-  '/daytrading/',
-  
-  '/value/',
-  
-  '/lending/',
-  
-  '/altcoin-exchanges/',
-  
-  '/altcoin-wallets/',
-  
-  '/automated-trading/',
-  
-  '/altcoin-trading-charts/',
+  '/wyckoff/',
   
 
   "/assets/css/all.css",

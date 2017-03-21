@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 5egV78YtlC 10% Fee Discount Coupon Bitfinex
-permalink: /coupon-bitfinex-5egv78ytlc/
+permalink: /gutschein-bitfinex-5egv78ytlc/
 tags:
 - hidden
 navi:
@@ -9,7 +9,7 @@ navi:
 image:
 - "/img/bitfinex/bitfinex-coupon-5egV78YtlC.jpg"
 image_alt:
-- "Bitfinex coupon referral code 5egV78YtlC"
+- "Bitfinex Gutschein 5egV78YtlC"
 ---
 
 
@@ -19,21 +19,21 @@ _Image: {{page.image_alt[0]}}_
 
 ________________________
 
-#### About Bitfinex
+#### Über Bitfinex
 
-Bitfinex is a Hong Kong based exchange infamous for being hacked in August 2016. Despite the hack it still has a wide user base thanks to its superior trading interface.
+Bitfinex ist ein Hong Kong-basierte exchange-berüchtigt dafür, gehackt zu werden im August 2016. Trotz der hack es hat immer noch eine Breite Nutzerbasis, Dank seiner überragenden trading interface.
 
-You can buy or trade BTC, LTC, ETH, ETC, ZEC, XMR and since March 2017 also DASH. There are both USD markets and pairs or altcoin/bitcoin.
+Sie können kaufen, oder Handel mit BTC, LTC, ETH, ETC, ZEC, XMR und seit März 2017 auch DASH. Es gibt sowohl USD Märkte als auch Paare Altcoin/Bitcoin.
 
-The exchange is available worldwide. There is limitation on margin trade for Americans - however the exchange is still operational from American IP address. New users on US IP just have to state they are not American residents.
+Der exchange ist weltweit verfügbar. Es ist die Beschränkung auf den margin-Handel für die Amerikaner - aber die Börse ist immer noch in Betrieb, der vom amerikanischen IP-Adresse. Neuen Benutzer auf US-IP-müssen nur behaupten, Sie sind nicht US-Bürgern.
 
-No verification is needed other than for fiat withdrawal.
+Keine überprüfung ist erforderlich andere als bei fiat und Rücknahme.
 
-**There is an 10% fee discount for users who sign up with a referral code.**
+**Es gibt eine 10% - Gebühr Ermäßigung für Benutzer, die sich mit einem empfehlungscode.**
 
 `bitfinex.com 5egV78YtlC`
 
-<a rel="nofollow" href="https://www.bitfinex.com/?refcode=5egV78YtlC" class="button" target="_blank">Get 10% fee discount</a>
+<a rel="nofollow" href="https://www.bitfinex.com/?refcode=5egV78YtlC" class="button" target="_blank">Zur Bitfinex-Börse</a>
 
 
 {{ site.ads.aads728 }}

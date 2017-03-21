@@ -2,150 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Altcoin Trading</title>
-    <description>Altcoin Trading is the forex of cryptocurrencies, with bitcoin as the base currency.</description>
-    <link>https://www.altcointrading.net/</link>
-    <atom:link href="https://www.altcointrading.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Mar 2017 23:53:21 +0100</pubDate>
-    <lastBuildDate>Mon, 20 Mar 2017 23:53:21 +0100</lastBuildDate>
+    <description>Forex der Kryptowährungen, Bitcoin als Basis.</description>
+    <link>https://de.altcointrading.net/</link>
+    <atom:link href="https://de.altcointrading.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 21 Mar 2017 03:32:27 +0100</pubDate>
+    <lastBuildDate>Tue, 21 Mar 2017 03:32:27 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>Alphabay to adopt ETH for payments ahead of new privacy features</title>
-        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/emotions/bridge.jpg&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/emotions/bridge.jpg&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Image: In the months to come ETH should get payments privacy enhancements which could mean a big change in fundamentals.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;Today Alphabay posted an announcement on their &lt;a href=&quot;https://www.reddit.com/r/AlphaBayMarket/comments/60355i/alphabay_will_add_etherum_to_its_payment_options/&quot;&gt;subreddit&lt;/a&gt; stating that they are implementing ETH for payments. The implementation should be operational by May 1st 2017.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Following the popularity of the new altcoin Ethereum and the recent price
-hike showing a growing interest, Alphabay has made the decision to start
-accepting Ethereum for marketplace listing purchases.
-
-We are currently laying out the framework to make ETH acceptance possible,
-and we will enable Ethereum deposits and withdrawals starting May 1st, 2017.
-Vendors wishing to accept Ethereum can edit their listings and set the &quot;Accept
-ETH&quot; to &quot;On&quot; in order to be able to be paid in Ethereum.
-
-We have plenty of new stuff in the works, so expect more updates in the near
-future.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;There was some &lt;a href=&quot;https://www.reddit.com/r/ethtrader/comments/603xpa/alphabay_market_adding_ethereum_for_payments/df39uks/&quot;&gt;backlash against this news&lt;/a&gt; since ETH is not currently meant as a cash-like payment system and transactions are easily traceable, as opposed to Monero transactions. However, in the months to come ETH should start support zkSNARKs which would put the transaction privacy on the level with ZCASH.&lt;/p&gt;
-
-&lt;p&gt;The abbreviation zk-SNARK means “zero knowledge succinct argument of knowledge”.&lt;/p&gt;
-
-&lt;amp-iframe width=&quot;700px&quot; height=&quot;360px&quot; layout=&quot;responsive&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://www.slideshare.net/slideshow/embed_code/key/ZPGDobtOhYwC2&quot;&gt;
-  &lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;
-&lt;/amp-iframe&gt;
-
-&lt;p&gt;&lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/FengRenTsai1/zksnarks-in-ethereum-and-baby-zoe&quot; title=&quot;zkSNARKs in Ethereum, and Baby ZoE&quot; target=&quot;_blank&quot;&gt;zkSNARKs in Ethereum, and Baby ZoE&lt;/a&gt; &lt;/strong&gt; von &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;//www.slideshare.net/FengRenTsai1&quot;&gt;Feng-Ren Tsai&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;These days an ETH transaction gets confirmed within seconds which is a relief for everyone coming in from the BTC blockchain. However, ETH doesn’t have any magical scaling solution - under Bitcoin’s occasional network load the Ethereum blockchain wouldn’t perform much better. Nevertheless this is not an issue ETH should be facing in the months to come.&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/wallets/jaxx.png&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/wallets/jaxx.png&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Adding the privacy enhancements to ETH would give it a significant advantage: ETH would become a private coin that is being actively developed, is easily available on most exchanges and can be stored comfortably in both light clients (&lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://jaxx.io/&quot;&gt;Jaxx&lt;/a&gt;, &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://www.exodus.io/&quot;&gt;Exodus&lt;/a&gt;) and cold storage (&lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://shop.trezor.io/?a=fany@tutanota.com&quot;&gt;Trezor&lt;/a&gt;, &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://www.ledgerwallet.com/r/e274&quot;&gt;Ledger&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;Meanwhile Monero holders still need to resort to downloading the full blockchain if they want to store the altcoin on their computer and DASH seems to be rebranding and refocusing away from “the private coin” image to “the easy payment system” image in spite of its lack of merchant adoption. Not to mention Bitcoin - the oldest cryptocurrency is currently amidst the &lt;a href=&quot;https://www.bloomberg.com/view/articles/2017-03-16/someone-wants-to-stick-a-fork-in-bitcoin&quot;&gt;FUD over potential network split&lt;/a&gt;. The market is taking a dive even though the news is probably exaggerated since it is not clear whether the fork will indeed happen at all in the first place, let alone any time soon.&lt;/p&gt;
-
-&lt;p&gt;Nonetheless ETH could potentialy profit greatly from this situation.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://blog.ethereum.org/2017/01/19/update-integrating-zcash-ethereum/&quot;&gt;Read the update on ZCASH integration on the Ethereum blog&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 18 Mar 2017 17:20:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/zoe-ethereum-alphabay/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/zoe-ethereum-alphabay/</guid>
-        
-        
-        <category>coins</category>
-        
-        <category>eth</category>
-        
-      </item>
-    
-      <item>
-        <title>Monero Cold Storage: Current Situation</title>
+        <title>Monero Cold-Storage: Aktueller Zustand</title>
         <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/emotions/crowd.jpg&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/emotions/crowd.jpg&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Image: The crowd wants it but there won’t be an easy-to-use Monero cold storage any time soon even though this single product could make a new leader in the field of hardware wallets.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Image: Die Menge will es. Aber es wird keine Monero ‘Kältespeicherung’ in kürzester Zeit sein, obwohl dieses einzelne Produkt einen neuen Führer auf dem Gebiet der Hardware-Geldbörsen machen könnte.&lt;/em&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;Not so long ago there were rumors about various wallet providers finally integrating Monero - desktop wallets, light clients, hardware wallets. Turns out we got all of this for DASH, also for ETH, in some cases for ZEC, DAO, REP…Not for XMR though.&lt;/p&gt;
+&lt;p&gt;Vor nicht so langer Zeit gab es Gerüchte über die verschiedenen wallet-Anbieter schließlich die Integration von Monero - desktop-wallets, light clients, hardware-wallets. Stellt sich heraus, wir haben all dies für ARMATURENBRETT, auch für die ETH, in einigen Fällen für ZEC, DAO REP…Nicht für XMR obwohl.&lt;/p&gt;
 
-&lt;p&gt;Meanwhile, Monero’s long-term holder base increased, price has been consolidating at a nice level after the surge by the end of summer 2016 and everyone who ever heard of altcoin trading is eager to jump after the first viable product that will provide a safe storage for Monero.&lt;/p&gt;
+&lt;p&gt;Inzwischen Monero langfristige Halterung Basis erhöht, der Preis der Konsolidierung auf eine schöne Ebene nach dem Anstieg am Ende des Sommers 2016 und jeder, der jemals davon gehört altcoin-trading ist bestrebt, springen nach dem ersten viable product, bietet eine sichere Aufbewahrung für Monero.&lt;/p&gt;
 
-&lt;p&gt;It got to the point that such a feature would shake up the market of hardware wallet providers - even if it were a standalone Monero-only wallet, &lt;strong&gt;&lt;a href=&quot;https://www.reddit.com/r/Monero/comments/5lf9ns/is_there_any_update_on_monero_support_for_the/&quot;&gt;people would buy it&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Es kam zu dem Punkt, dass eine solche Funktion würde schütteln, bis der Markt der hardware-wallet-Anbietern - auch wenn es ein standalone-Monero-nur die Geldbörse, &lt;strong&gt;&lt;a href=&quot;https://www.reddit.com/r/Monero/comments/5lf9ns/is_there_any_update_on_monero_support_for_the/&quot;&gt;Leute kaufen würden it&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;That’s an obvious opportunity, so what is the problem?&lt;/p&gt;
+&lt;p&gt;Das ist eine naheliegende Möglichkeit, so was ist das problem?&lt;/p&gt;
 
-&lt;p&gt;It is a technical one. There is a lot of open sourced code to handle Bitcoin and today’s most popular altcoins all use some of Bitcoin’s basics. DASH is the obvious example but even ETH was in fact built up on a Bitcoin fork. That means, for most altcoins you could pick, you would always just tweak a BTC block explorer and use it, or you would fork a BTC light wallet and so on - it makes the process a whole lot easier.&lt;/p&gt;
+&lt;p&gt;Es ist eine technische. Es gibt eine Menge von open-Source-code zur Behandlung von Bitcoin und heute zu den beliebtesten altcoins alle verwenden einige Bitcoin-Grundlagen. DASH ist ein offensichtliches Beispiel, aber auch die ETH war in der Tat aufgebaut auf eine Bitcoin-Gabel. Das bedeutet, dass für die meisten altcoins könnten Sie wählen, würden Sie immer nur zwicken Sie ein BTC-block explorer und verwenden Sie es, oder Sie würde eine Gabel BTC-Licht-wallet und so weiter - es macht den Prozess viel einfacher.&lt;/p&gt;
 
-&lt;p&gt;That is, you can do this with most altcoins other than Monero. Monero was built from scratch and none of the BTC codebase can be reused. The whole system has to be developed again, specifically for Monero.&lt;/p&gt;
+&lt;p&gt;Das heißt, Sie können dies tun, mit den meisten anderen altcoins als Monero. Monero wurde von Grund auf neu gebaut und keine der BTC codebase kann wiederverwendet werden. Das ganze system muss wieder aufgebaut werden, speziell für Monero.&lt;/p&gt;
 
-&lt;p&gt;Apparently this will be a chance for someone new to enter the market because the winners of today don’t have enough people (nor pressing need for the profit and glory) to be bothered with Monero.&lt;/p&gt;
+&lt;p&gt;Anscheinend wird eine chance sein für jemanden, der neu in den Markt einzutreten, weil die Gewinner von heute haben Sie nicht genug Leute, die (noch dringende Notwendigkeit, für die profit und Ruhm) gestört werden Monero.&lt;/p&gt;
 
 &lt;h4 id=&quot;ledger-nano---no-eta&quot;&gt;Ledger Nano - ,,No ETA”&lt;/h4&gt;
 
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/xmr/monero-ledger.jpg&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/xmr/monero-ledger.jpg&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;There is a &lt;a href=&quot;https://trello.com/c/wsK0myEm/52-monero-support&quot;&gt;public Trello board&lt;/a&gt; regarding the Monero support and for a time it looked quite promising. However, u/btchip from Ledger cleared it up:&lt;/p&gt;
+&lt;p&gt;Es ist ein &lt;a href=&quot;https://trello.com/c/wsK0myEm/52-monero-support&quot;&gt;öffentliches Trello board&lt;/a&gt; über die von Monero unterstützen und für eine Zeit sah es Recht vielversprechend. Allerdings, u/btchip von Ledger gelöscht:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;It’s not yet started - a few other things to work on first. We have no ETA but have the right communication channels open to move quickly once we go. &lt;a href=&quot;https://www.reddit.com/r/Monero/comments/5lf9ns/is_there_any_update_on_monero_support_for_the/dbvmfo0/&quot;&gt;via r/ledgerwallet&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Es ist noch nicht gestartet - ein paar andere Dinge, die Arbeit am ersten. Wir haben keine ETA haben, aber die richtigen Kommunikations-Kanäle öffnen sich schnell zu bewegen, sobald wir gehen. &lt;a href=&quot;https://www.reddit.com/r/Monero/comments/5lf9ns/is_there_any_update_on_monero_support_for_the/dbvmfo0/&quot;&gt;via r/ledgerwallet&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&quot;trezor---project-stalled&quot;&gt;Trezor - Project Stalled&lt;/h4&gt;
+&lt;h4 id=&quot;trezor---projekt-ins-stocken-geraten&quot;&gt;Trezor - Projekt Ins Stocken Geraten&lt;/h4&gt;
 
 &lt;p&gt;
-&lt;div class=&quot;text-center&quot;&gt; &lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://shop.trezor.io?a=fany@tutanota.com&quot;&gt; &lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/wallets/trezor-altcoins-long.jpg&quot; alt=&quot;Trezor Wallet for bitcoins and altcoins&quot; data-original-width=&quot;728px&quot; data-original-height=&quot;90px&quot; layout=&quot;responsive&quot; width=&quot;728px&quot; height=&quot;90px&quot;&gt; &lt;/amp-img&gt;&lt;/a&gt;&lt;/div&gt;
+
 &lt;/p&gt;
 
-&lt;p&gt;Trezor by SatoshiLabs was supposed to get Monero supported by their hardware wallet, &lt;a href=&quot;monero-wallet/&quot;&gt;someone worked on the project before&lt;/a&gt; and there are a few brave ones who hacked up their Trezors to get a working hardware wallet for Monero punk-style. Working for now, that is. The code written for Trezor will be incompatible soon as Monero upgraded since that.&lt;/p&gt;
+&lt;p&gt;Trezor von SatoshiLabs sollte Monero unterstützt von Ihrer hardware wallet, &lt;a href=&quot;monero-Geldbörse/&quot;&gt;jemand an diesem Projekt gearbeitet, bevor&lt;/a&gt; und es gibt ein paar mutige, die gehackt Ihre Trezors um eine funktionierende hardware wallet für Monero punk-Stil. Arbeiten für jetzt ist. Der code geschrieben für Trezor unvereinbar bald wie Monero aktualisiert, da die.&lt;/p&gt;
 
-&lt;h4 id=&quot;keepkey---erm-not-really&quot;&gt;Keepkey - ,,Erm, not really.”&lt;/h4&gt;
+&lt;h4 id=&quot;keepkey---erm-nicht-wirklich&quot;&gt;Keepkey - ,,Erm, nicht wirklich.”&lt;/h4&gt;
 
-&lt;p&gt;The Trezor spin-off is not planning to implement Monero either:&lt;/p&gt;
+&lt;p&gt;Die Trezor-spin-off ist nicht der Planung und Implementierung von Monero können Sie entweder:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;We are considering it, but it is not on the roadmap at the moment. &lt;a href=&quot;https://www.reddit.com/r/keepkey/comments/5m58vv/monero_support/dc1fkzx/&quot;&gt; via r/keepkey&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Sind wir in Betracht ziehen, aber es ist nicht auf der roadmap im moment. &lt;a href=&quot;https://www.reddit.com/r/keepkey/comments/5m58vv/monero_support/dc1fkzx/&quot;&gt; über r/keepkey&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&quot;jaxx---near-term-plans-halted&quot;&gt;Jaxx - ,,Near term plans halted”&lt;/h4&gt;
+&lt;h4 id=&quot;jaxx---kurzfristige-pläne-gestoppt&quot;&gt;Jaxx - ,,Kurzfristige Pläne gestoppt”&lt;/h4&gt;
 
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/wallets/jaxx.png&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/wallets/jaxx.png&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Saddens me to announce we&amp;#39;ve halted &lt;a href=&quot;https://twitter.com/jaxx_io&quot;&gt;@jaxx_io&lt;/a&gt; &lt;a href=&quot;https://twitter.com/monerocurrency&quot;&gt;@monerocurrency&lt;/a&gt; near term integration plans. Too many difficulties. Need to refocus resources.&lt;/p&gt;&amp;mdash; Anthony Di Iorio (@diiorioanthony) &lt;a href=&quot;https://twitter.com/diiorioanthony/status/826953622088982528&quot;&gt;2 February 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;de&quot; dir=&quot;ltr&quot;&gt;macht mich Traurig, zu verkünden, wir&amp;#39;ve gestoppt, &lt;a href=&quot;https://twitter.com/jaxx_io&quot;&gt;@jaxx_io&lt;/a&gt; &lt;a href=&quot;https://twitter.com/monerocurrency&quot;&gt;@monerocurrency&lt;/a&gt; in der Nähe von Begriff integration plant. Zu viele Schwierigkeiten. Notwendigkeit der Neuausrichtung der Ressourcen.&lt;/p&gt;&amp;mdash; Anthony Di Iorio (@diiorioanthony) &lt;a href=&quot;https://twitter.com/diiorioanthony/status/826953622088982528&quot;&gt;2. Februar 2017&lt;/a&gt;&lt;/blockquote&gt;
 
-&lt;p&gt;Jaxx was the most promising Monero integration, hands down. In &lt;a href=&quot;http://decentral.ca/jaxx-monero-integration-update/&quot;&gt;November 2016&lt;/a&gt; Jaxx people asked the Monero team for help - fluffypony &lt;a href=&quot;https://www.reddit.com/r/Monero/comments/5dsqrf/jaxx_monero_integration_update_3/da73yrj&quot;&gt;provided source code for both backend and frontend&lt;/a&gt; and whenever Jaxx developers were clueless with something they could ask. The discussion was even public on Reddit at first, before trolls chased the devs away to private channels. Since then amount of news diminished.&lt;/p&gt;
+&lt;p&gt;Jaxx war der vielversprechendsten Monero integration, die Hände nach unten. In &lt;a href=&quot;http://decentral.ca/jaxx-monero-integration-update/&quot;&gt;November 2016&lt;/a&gt; Jaxx Menschen gefragt, die Monero-team für die Hilfe - fluffypony &lt;a href=&quot;https://www.reddit.com/r/Monero/comments/5dsqrf/jaxx_monero_integration_update_3/da73yrj&quot;&gt;die Quellen für backend und frontend&lt;/a&gt; und wenn Jaxx Entwickler hatten keine Ahnung, mit etwas, das Sie Fragen konnte. Die Diskussion wurde sogar öffentlich auf Reddit auf den ersten, bevor Sie Trolle gejagt, die devs Weg zu den privaten Sendern. Seitdem fülle der Nachrichten verringert.&lt;/p&gt;
 
-&lt;p&gt;Fast-forward to February 2017, &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;something something no Monero for Jaxx&quot;&lt;/code&gt;. It seems like there was some tension between the Jaxx team and fluffypony - apparently fluffy’s changes in XMR codebase rendered some of the Jaxx’s new code useless again so the management decided to ditch it for now and focus on the &lt;a href=&quot;https://twitter.com/diiorioanthony/status/842000749106237441&quot;&gt;currently ongoing major Jaxx upgrade&lt;/a&gt;, although &lt;a href=&quot;https://www.reddit.com/r/Monero/comments/5rjll8/looks_like_monero_wont_be_in_jaxx_for_a_while/dd7yfo6/&quot;&gt;fluffypony was more sarcastic than that&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Schneller Vorlauf bis Februar 2017, &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;etwas, was keine Monero für Jaxx&quot;&lt;/code&gt;. Wie es scheint, gab es einige Spannungen zwischen den Jaxx-team und fluffypony - scheinbar flauschigen änderungen von XMR-codebase gerendert einige der Jaxx neuen code wieder wertlos, so dass das management entschieden zu Graben, ist es für jetzt und konzentrieren sich auf die &lt;a href=&quot;https://twitter.com/diiorioanthony/status/842000749106237441&quot;&gt;derzeit Laufenden großen Jaxx-upgrade&lt;/a&gt;, obwohl &lt;a href=&quot;https://www.reddit.com/r/Monero/comments/5rjll8/looks_like_monero_wont_be_in_jaxx_for_a_while/dd7yfo6/&quot;&gt;fluffypony war mehr sarkastisch als that&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&quot;whos-still-working-on-that&quot;&gt;Who’s still working on that?&lt;/h3&gt;
+&lt;h3 id=&quot;wer-ist-noch-daran&quot;&gt;Wer ist noch daran?&lt;/h3&gt;
 
-&lt;p&gt;Chances are it’s going to be fashionable to start claiming work on XMR support to get people buy your product in expectations of future joy.&lt;/p&gt;
+&lt;p&gt;Die Chancen sind, es geht um Mode, um starten zu fordern, arbeiten Sie auf XMR Unterstützung zu bekommen Menschen kaufen Ihre Produkt in den Erwartungen der zukünftigen Freude.&lt;/p&gt;
 
-&lt;p&gt;Nonetheless, &lt;a href=&quot;https://www.exodus.io/&quot;&gt;Exodus, the desktop multicoin wallet with Shapeshift integration&lt;/a&gt; seems to have Monero support as top priority for new features.&lt;/p&gt;
+&lt;p&gt;Dennoch, &lt;a href=&quot;https://www.exodus.io/&quot;&gt;Exodus, der desktop multicoin-Geldbörse mit Shapeshift integration&lt;/a&gt; zu haben scheint Monero Unterstützung als top-Priorität für neue Funktionen.&lt;/p&gt;
 
-&lt;p&gt;Likewise the official web client mymonero.com should get a mobile interface later this year. Mymonero.com is a fully functional thing by now, the obvious idea would be to use what is there now as a webview to create the most basic online-only app. &lt;a href=&quot;https://www.reddit.com/r/Monero/comments/5tfz27/why_not_use_opensourced_mymonero_fronend_as_quick/&quot;&gt;And some have indeed succeeded with that&lt;/a&gt;, so hopefully this is expectation is a realistic one.&lt;/p&gt;
+&lt;p&gt;Ebenso ist die offizielle web-client mymonero.com sollte sich eine mobile Schnittstelle, die später dieses Jahr. Mymonero.com ist voll funktionsfähig, was bis jetzt die offensichtliche Idee wäre, zu verwenden, was ist da jetzt so ein webview erstellen der grundlegenden online-only-app. &lt;a href=&quot;https://www.reddit.com/r/Monero/comments/5tfz27/why_not_use_opensourced_mymonero_fronend_as_quick/&quot;&gt;Und einige haben ja auch gelungen, mit that&lt;/a&gt;,, hoffentlich ist diese Erwartung realistisch ist.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 15 Mar 2017 01:20:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/monero-cold-storage-2017/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/monero-cold-storage-2017/</guid>
+        <pubDate>Mon, 20 Mar 2017 20:20:00 +0100</pubDate>
+        <link>https://de.altcointrading.net/monero-cold-storage-2017/</link>
+        <guid isPermaLink="true">https://de.altcointrading.net/monero-cold-storage-2017/</guid>
         
         
         <category>coins</category>
@@ -155,140 +90,85 @@ future.
       </item>
     
       <item>
-        <title>Bitcoin ETF rejected, Ethereum ETF is probably off the table too</title>
-        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/emotions/sadness.jpg&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/emotions/sadness.jpg&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Image: Cryptocurrencies are not going to be part of the mainstream finance for now.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;Today just after 4PM Eastern time the SEC finally dropped the long postponed decision regarding the proposed COIN ETF, the first Bitcoin exchange traded fund.&lt;/p&gt;
-
-&lt;p&gt;The SEC cites lack of regulations and the fact that BTC markets can be manipulated as the main reasons for rejection of the rule change.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;[…] the Commission is disapproving this proposed rule change because it does not find the proposal to be consistent with Section 6(b)(5) of the Exchange Act, which requires, among other things, that the rules of a national securities exchange be &lt;strong&gt;designed to prevent fraudulent and manipulative acts&lt;/strong&gt; and practices and to protect investors and the public interest. &lt;strong&gt;&lt;a href=&quot;https://www.sec.gov/rules/sro/batsbzx/2017/34-80206.pdf&quot;&gt;Full SEC announcement&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Even though there is another BTC ETF proposal lined up for the 30th of March and Ethereum has a proposal for listing, it seems that any cryptocurrency exchange traded fund is off the table for now.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cryptocoinsnews.com/etherindex-registers-sec-issue-ether-shares/&quot;&gt;EtherIndex, the ETH ETF proposal - 19/07/2016&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The ETC product (created by Barry Silbert’s Grayscale) &lt;a href=&quot;https://www.bloomberg.com/news/articles/2017-03-09/bitcoin-trust-s-silbert-to-launch-classic-ether-fund-this-month&quot;&gt;is supposed to launch this month though&lt;/a&gt;, even though it will probably start trading over-the-counter first. It is modeled after the Bitcoin Investment Trust (GBTC) which is also a &lt;a href=&quot;https://grayscale.co/bitcoin-investment-trust/&quot;&gt;Grayscale product&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Eventually, just like Bitcoin Investment Trust, it may start trading over the counter, Silbert said in an interview. The bitcoin trust, started in 2013, is currently waiting for approval to list on the NYSE Arca market.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Classic ether’s development and rules governing the nets; recently, developers announced there will be no more than 230 million classic ether tokens issued – a decision that makes the digital currency a scarce resource, just like bitcoin.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In short, it is not going to get any easier for legacy investors to trade cryptocurrency in the months to come, but that’s about it. Cryptocurrencies are for now just cryptocurrencies, the niche speculative bet on the future. That’s not quite a reason to panic.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;They have two mutually exclusive, and self destructive ideals.
-Pursue valuation from regulated sources.
-Or undermine those sources they pursue.
-These Ideas can’t exist on the same chain, there isn’t some quantum solution. They need to fork to meet both, or continue in purgatory. meanwhile, Ethereum will just find implementation and application as a tool. It really is oil vs gold. &lt;a href=&quot;https://www.reddit.com/r/ethtrader/comments/5yoqdr/denied/&quot;&gt;via /r/ethtrader&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Fri, 10 Mar 2017 00:00:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/ethereum-etf-unlikely/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/ethereum-etf-unlikely/</guid>
-        
-        
-        <category>coins</category>
-        
-        <category>eth</category>
-        
-      </item>
-    
-      <item>
-        <title>Avoidance Strategy in Altcoin Trading</title>
+        <title>Vermeidungsstrategie im Altcoin Trading</title>
         <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/emotions/standby.JPG&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/emotions/standby.JPG&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Image: Wyckoffian Avoidance Strategy?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Image: Wyckoffische Vermeidungsstrategie?&lt;/em&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;Wyckoff method is getting popular in the cryptocurrency space mainly because John Bollinger the author of bbands keeps recommending it on twitter.&lt;/p&gt;
+&lt;p&gt;Wyckoff Methode ist immer beliebter in der kryptogeld Raum, vor allem, weil John Bollinger, der Autor der Bollinger Bands hält empfehle es auf twitter.&lt;/p&gt;
 
-&lt;p&gt;While it can be called a “legacy” thing no doubt it is useful for crypto as well:&lt;/p&gt;
+&lt;p&gt;Zwar kann man von einem “legacy” - Ding, kein Zweifel, es ist nützlich für crypto:&lt;/p&gt;
 
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/kenzboard&quot;&gt;@kenzboard&lt;/a&gt; &lt;a href=&quot;https://twitter.com/MrJozza&quot;&gt;@MrJozza&lt;/a&gt; Yeah, Wyckoff is as near to a universal key to understanding trading as we have.&lt;/p&gt;&amp;mdash; John Bollinger (@bbands) &lt;a href=&quot;https://twitter.com/bbands/status/835170564431962112&quot;&gt;24 February 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;de&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/kenzboard&quot;&gt;@kenzboard&lt;/a&gt; &lt;a href=&quot;https://twitter.com/MrJozza&quot;&gt;@MrJozza&lt;/a&gt; Ja, Wyckoff ist als in der Nähe ein universal-Schlüssel zum Verständnis von Handel als wir haben.&lt;/p&gt;&amp;mdash; John Bollinger (@bbands) &lt;a href=&quot;https://twitter.com/bbands/status/835170564431962112&quot;&gt;24. Februar 2017&lt;/a&gt;&lt;/blockquote&gt;
 
-&lt;h4 id=&quot;the-value-trading&quot;&gt;The value trading&lt;/h4&gt;
+&lt;h4 id=&quot;der-wert-handel&quot;&gt;Der Wert Handel&lt;/h4&gt;
 
-&lt;p&gt;The Wyckoff style is to trade only the best stocks in the leading sectors. Can you use this motto when trading cryptocurrencies? It is an emerging asset class but figuring out which cryptocurrency has actual &lt;strong&gt;value&lt;/strong&gt; will make your decisions a lot clearer:&lt;/p&gt;
+&lt;p&gt;Die Wyckoff-Stil ist, um nur den Handel die besten Aktien in den führenden Sektoren. Können Sie dieses motto beim Handel mit cryptocurrencies? Es ist eine aufstrebende asset Klasse aber herauszufinden, welche kryptogeld tatsächliche &lt;strong&gt;Wert&lt;/strong&gt; machen Sie Ihre Entscheidungen sehr viel klarer:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;You want to buy/hold a &lt;em&gt;valuable&lt;/em&gt; asset through shorter timespans when the &lt;em&gt;price&lt;/em&gt; is not reflecting the value (yet).&lt;/li&gt;
-  &lt;li&gt;You want to take profits and abandon an asset that is appreciating in the short term because of things like tiny market hence manipulation, or media hype.&lt;/li&gt;
+  &lt;li&gt;Sie möchten kaufen/halten &lt;em&gt;wertvolle&lt;/em&gt; asset durch kürzere Zeitspannen, wenn der &lt;em&gt;Preis&lt;/em&gt; ist nicht entsprechend dem Wert (noch) nicht.&lt;/li&gt;
+  &lt;li&gt;Sie wollen Gewinne mitnehmen und Hingabe eines Vermögenswertes, ist die Wertschätzung, die kurzfristig wegen der Dinge, die wie winzige Markt damit Manipulationen, oder Medien-hype.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;how-strong-a-coin-is&quot;&gt;How strong a coin is&lt;/h4&gt;
+&lt;h4 id=&quot;wie-stark-eine-münze-ist&quot;&gt;Wie stark eine Münze ist&lt;/h4&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The Wyckoffian mission is to trade and invest in the best stocks in the leading Industry Groups. We have been studying examples of leadership characteristics using &lt;strong&gt;Wyckoff Analysis&lt;/strong&gt; in combination with &lt;strong&gt;Relative Strength&lt;/strong&gt;. […] Always seeking the strongest stocks in the strongest groups. It is also a worthwhile exercise to study groups that are stalling and falling from favor. &lt;a href=&quot;http://stockcharts.com/articles/wyckoff/2017/02/avoidance-strategy.html&quot;&gt;StockCharts&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Die Wyckoffian mission ist es, Handel und Investitionen in die besten Aktien der führenden Industrie-Gruppen. Wir haben studiert Beispiele von leadership-Eigenschaften mithilfe von &lt;strong&gt;Wyckoff-Analyse&lt;/strong&gt; in Kombination mit &lt;strong&gt;die Relative Stärke&lt;/strong&gt;. […] Immer auf der Suche nach den stärksten Aktien in die stärksten Gruppen. Es ist auch eine lohnende übung, um zu studieren-Gruppen, die Abwürgen und das fallen aus der Bevorzugung. &lt;a href=&quot;http://stockcharts.com/articles/wyckoff/2017/02/avoidance-strategy.html&quot;&gt;StockCharts&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The key point is that a leader of a group dies not remain a leader indefinitely. At some point the leader leaves the limelight, becomes a laggard and may stay a laggard for some time. That’s what the Wyckoff avoidance strategy is about - spotting the transition from leader to laggard and avoiding longing that market rather than getting to think in forever terms.&lt;/p&gt;
+&lt;p&gt;Der entscheidende Punkt ist, dass ein Anführer einer Gruppe stirbt nicht führend bleiben auf unbestimmte Zeit. Irgendwann wird der Führer verlässt das Rampenlicht, wird zum Schlusslicht und bleiben zwar Schlusslicht, für einige Zeit. Das ist es, was die Wyckoff vermeidungsstrategie ist zu erkennen den übergang vom Marktführer zum Schlusslicht und die Vermeidung von Sehnsucht, Markt, anstatt zu denken, für immer Begriffen.&lt;/p&gt;
 
-&lt;p&gt;This transition is a substantial change, technically you should be looking for it on longer timeframes (daily, 3D or weekly charts).&lt;/p&gt;
+&lt;p&gt;Dieser übergang ist eine wesentliche änderung, technisch sollten Sie auf der Suche nach es über längere Zeiträume (Tages -, 3D-oder weekly-charts).&lt;/p&gt;
 
-&lt;h4 id=&quot;select-assets-that-are-in-harmony-with-the-market&quot;&gt;Select assets that are in harmony with the market&lt;/h4&gt;
+&lt;h4 id=&quot;wählen-sie-vermögenswerte-die-im-einklang-mit-dem-markt&quot;&gt;Wählen Sie Vermögenswerte, die im Einklang mit dem Markt&lt;/h4&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;In a &lt;strong&gt;bull (uptrend) market&lt;/strong&gt;, select [assets] that are &lt;strong&gt;stronger than the market itself&lt;/strong&gt;. In a bear market choose those that are weaker than the market itself.&lt;/p&gt;
+  &lt;p&gt;In einem &lt;strong&gt;bull (Aufwärtstrend) Markt&lt;/strong&gt;, wählen Sie [Vermögen], &lt;strong&gt;stärker als der Markt sich selbst&lt;/strong&gt;. In einem bear-Markt wählen Sie diejenigen, die schwächer sind als der Markt selbst.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;If you figure out consistently strong cryptocurrencies and their counterparts you have your best candidates for mid-term longs and shorts:&lt;/p&gt;
+&lt;p&gt;Wenn Sie herausfinden, starke cryptocurrencies und Ihre Kollegen haben Sie Ihre besten Kandidaten für die mittelfristige longs und shorts:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Strong altcoins rally quite easily but after the rally retraces some of the gains remain.&lt;/li&gt;
-  &lt;li&gt;Weak altcoins are traded but don’t rally consistently. If they do, the retrace kills all the gains.&lt;/li&gt;
+  &lt;li&gt;Starke altcoins Rallye ganz leicht, aber nach der Kundgebung fährt der Teil der Gewinne bleibt.&lt;/li&gt;
+  &lt;li&gt;Schwache altcoins gehandelt werden, aber nicht Rallye konsequent. Wenn Sie das tun, wandeln Sie tötet alle die Gewinne.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;In legacy markets one can compare stocks against a composite index. In a bull market well below a known resistance line, if a stock gains more than the index, it’s typically a good bet to open a long, avoding all the rest of the assets in the group. If the resistance approaches it’s time to close that long and find which stock was performing poorly in the rally. That is going to be to one most likely to drop significantly, you can short it and avoid trading the strong performers.&lt;/p&gt;
+&lt;p&gt;In älteren Märkten kann man vergleichen Aktien gegen eine composite-index. In einem bull-Markt auch unter einem bekannten Widerstand Linie, wenn eine Aktie Gewinne von mehr als der index, ist es in der Regel eine gute Wette, um zu öffnen, einen langen, avoding alle den rest der Elemente in der Gruppe. Wenn der Widerstand näher rückt, ist es Zeit zu schließen, dass die lange und finden das Lager war schlecht in die Rallye. Das wird zu einem wahrscheinlich deutlich sinken, können Sie sich kurz und vermeiden trading die starken Darsteller.&lt;/p&gt;
 
-&lt;p&gt;In cryptocurrencies we don’t have an index that would track the performance of top 100 or 500 altcoins. You will have to put in a little bit more work.&lt;/p&gt;
+&lt;p&gt;In cryptocurrencies haben wir nicht einen index, würde die Wertentwicklung der top-100-oder 500 altcoins. Sie haben, um in ein wenig mehr Arbeit.&lt;/p&gt;
 
-&lt;p&gt;A handy tool that will help you do that is &lt;a href=&quot;http://coinmarketcap.com/&quot;&gt;coinmarketcap.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ein handliches Werkzeug, die Ihnen dabei helfen, &lt;a href=&quot;http://coinmarketcap.com/&quot;&gt;coinmarketcap.com&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;You can track the historical weekly performance of cryptocurrencies at &lt;a href=&quot;http://coinmarketcap.com/historical/&quot;&gt;http://coinmarketcap.com/historical/&lt;/a&gt; - this page has snapshots dating back to 2013.&lt;/p&gt;
+&lt;p&gt;Sie können die Spur der historischen wöchentlichen Leistung von cryptocurrencies &lt;a href=&quot;http://coinmarketcap.com/historical/&quot;&gt;http://coinmarketcap.com/historical/&lt;/a&gt; - diese Seite hat snapshots stammt aus 2013.&lt;/p&gt;
 
-&lt;p&gt;Daily data is available at &lt;a href=&quot;http://coinmarketcap.com/#BTC&quot;&gt;the homepage&lt;/a&gt; or from their API. If you are trading altcoins against BTC, that is pairs like ETHBTC, you should switch to BTC pricing. This way you’ll see which altcoins perform the best and the worst against bitcoin.&lt;/p&gt;
+&lt;p&gt;Tägliche Daten ist verfügbar unter &lt;a href=&quot;http://coinmarketcap.com/#BTC&quot;&gt;homepage&lt;/a&gt; oder von der API. Wenn Sie Handel mit altcoins gegen BTC, ist, dass Paare wie ETHBTC, sollten Sie wechseln zu BTC Preise. Auf diese Weise werden Sie sehen, welche altcoins, um die besten und die schlechtesten gegen bitcoin.&lt;/p&gt;
 
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/trading/cmc-snapshot.jpg&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/trading/cmc-snapshot.jpg&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Going through the weekly data from 2016 you can filter each table by traded volume.&lt;/p&gt;
+&lt;p&gt;Sie gehen durch die wöchentlichen Daten ab 2016 können Sie einen filter für jede Tabelle vom gehandelten Volumen.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;You’ll see that small altcoins show up every week with immense gains but after some weeks you don’t hear about them again.&lt;/li&gt;
-  &lt;li&gt;On the other hand, for instance litecoin is consistently being traded but the price doesn’t change much - perhaps people use it to move funds across exchanges instead of using fiat but next to no people believe it is worth to hold LTC.&lt;/li&gt;
-  &lt;li&gt;Ethereum and Dash have volumes in the upper part of the spectrum but they actually see a rally or two once in a while with gains that don’t completely disappear after the retrace.&lt;/li&gt;
+  &lt;li&gt;Sie werden sehen, dass die kleinen altcoins zeigen, bis jede Woche mit riesigen Gewinne aber nach einigen Wochen hören Sie nicht über Sie wieder.&lt;/li&gt;
+  &lt;li&gt;Auf der anderen Seite, zum Beispiel litecoin ist konsequent gehandelt, aber der Preis ändert sich nicht viel - vielleicht Menschen, die es verwenden, um zu bewegen-Fonds über Börsen statt mit fiat, aber so gut wie keine Menschen glauben, dass es Wert zu halten LTC.&lt;/li&gt;
+  &lt;li&gt;Astraleums und Dash haben sich die Volumen in den oberen Teil des Spektrums, aber Sie tatsächlich sehen, eine Rallye oder zwei einmal in eine Weile mit Gewinne, nicht völlig verschwinden, nachdem das nachvollziehen.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;going-back-to-individual-coins&quot;&gt;Going back to individual coins&lt;/h4&gt;
+&lt;h4 id=&quot;gehen-wir-zurück-zu-den-einzelnen-münzen&quot;&gt;Gehen wir zurück zu den einzelnen Münzen&lt;/h4&gt;
 
-&lt;p&gt;To spot the beginning of short term changes in the market, topping patterns and reversals you will have to go back to individual cryptocurrencies. The chart below is a bitcoin chart but the same TA is valid with all commonly traded coins with good holder base these days.&lt;/p&gt;
+&lt;p&gt;An Stelle der Anfang von kurzfristigen änderungen in der Markt -, topping-Muster und Zuschreibungen, die Sie haben zu gehen zurück an die einzelnen cryptocurrencies. Die Tabelle unten ist eine bitcoin chart aber der gleiche TA ist gültig häufigsten gehandelten Münzen mit guter Halterung Basis in diesen Tagen.&lt;/p&gt;
 
-&lt;p&gt;What people use the most to spot these changes is Parabolic SAR, RSI and MACD. You can use &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://cryptowat.ch&quot;&gt;Cryptowatch&lt;/a&gt; for the basics or &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://tradingview.go2cloud.org/SHW9&quot;&gt;TradingView&lt;/a&gt; which provides interface where you can tune the indicator parameters and do some very basic backtesting. To name one, the default Parabolic SAR will be too sensitive, giving you flips that will be a false positive so you should pick your timeframe and tune the PSAR settings so that it flips really mostly only before a reversal historically happened on that timeframe.&lt;/p&gt;
+&lt;p&gt;Was die Menschen am häufigsten verwenden, um vor Ort Veränderungen, Parabolic SAR, RSI und MACD. Sie können &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://cryptowat.ch&quot;&gt;Cryptowatch&lt;/a&gt; für die Grundlagen oder &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://tradingview.go2cloud.org/SHW9&quot;&gt;TradingView&lt;/a&gt; was bietet eine Schnittstelle, wo Sie können, Stimmen Sie die Anzeige-Parameter, und führen Sie einige sehr grundlegende backtesting. Um nur eine zu nennen, die Standard-Parabolische SAR wird zu empfindlich, so dass Sie kippt, wird ein false-positive, also sollten Sie Holen Ihren Zeitplan, und Stimmen Sie die PSAR-Einstellungen so, dass es klappt wirklich meist nur vor einer historisch passiert ist, die Zeitrahmen.&lt;/p&gt;
 
-&lt;p&gt;The hourly bitcoin chart below shows a SAR set to &lt;code class=&quot;highlighter-rouge&quot;&gt;0.025, 0.02, 0.03&lt;/code&gt; on &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://tradingview.go2cloud.org/SHW9&quot;&gt;TradingView&lt;/a&gt;. If you click on the picture to zoom it you’ll see it flipping, and if you look at the RSI at the bottom you’ll see a divergence between the RSI lows and the price lows, which is bullish as it shows the lows are too low for the strength of the market.&lt;/p&gt;
+&lt;p&gt;Das Stündliche bitcoin chart unten zeigt einen SAR &lt;code class=&quot;highlighter-rouge&quot;&gt;0.025, 0.02, 0.03&lt;/code&gt; auf &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://tradingview.go2cloud.org/SHW9&quot;&gt;TradingView&lt;/a&gt;. Wenn Sie auf das Bild klicken um zu vergrößern es du wirst sehen, es spiegeln, und wenn man sich den RSI an der Unterseite sehen Sie eine Divergenz zwischen dem RSI-Tiefs und der Preis, den Tiefs, die ist bullish, da es zeigt, dass die tiefen sind zu tief für die Stärke des Marktes.&lt;/p&gt;
 
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/trading/btc-rsidiv.png&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/trading/btc-rsidiv.png&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Of course in both bitcoin and altcoins you cannot discount “conspiracy theories” about whales manipulating the markets - given the (little) money one needs to do that it’s entirely possible. Even the legacy guys found it out themselves, I encourage you to read the following excerpt from FT where an investor whines about getting rekt on OkCoin because of a bearwhale, it’s hilarious.&lt;/p&gt;
+&lt;p&gt;Natürlich in beiden bitcoin und altcoins Sie nicht Rabatt “Verschwörungstheorien” über Wale Manipulation der Märkte - angesichts der (wenig) Geld man tun muss, dass es durchaus möglich. Auch die legacy-Jungs fanden es selbst aus, ich möchte Sie ermutigen, Lesen Sie den folgenden Auszug aus FT, wo ein investor jammert über die immer rekt auf OkCoin, weil ein bearwhale, es ist urkomisch.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;this is from ft, somehow archive.is works around their log in wall: http://archive.is/aQ7Om&lt;/p&gt;
@@ -320,562 +200,13 @@ These Ideas can’t exist on the same chain, there isn’t some quantum solution
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 08 Mar 2017 00:00:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/wyckoff-avoidance/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/wyckoff-avoidance/</guid>
-        
-        
-        <category>trading</category>
-        
-      </item>
-    
-      <item>
-        <title>TradingView users on DASH: March 7th 2017</title>
-        <description>&lt;script type=&quot;text/javascript&quot; src=&quot;https://s3.amazonaws.com/tradingview/tv.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/coins/dash.png&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/coins/dash.png&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Image: What do traders think of the recent DASH price action?&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;At the time of writing the DASHBTC trades at about 0.038 while about a week ago it topped close below 0.05 on Poloniex. What do traders think the outlooks are?&lt;/p&gt;
-
-&lt;h4 id=&quot;long-term-optimism-for-all-of-2017-by-lowstrife&quot;&gt;Long term optimism for all of 2017 by lowstrife&lt;/h4&gt;
-
-&lt;!-- TradingView Chart BEGIN --&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-var tradingview_embed_options = {};
-tradingview_embed_options.width = '750';
-tradingview_embed_options.height = '385';
-tradingview_embed_options.chart = 'B0AH2eWl';
-new TradingView.chart(tradingview_embed_options);
-&lt;/script&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.tradingview.com/chart/DASHBTC/B0AH2eWl-DASH-still-has-promising-outlook-coming-in-2017/&quot;&gt;DASH still has promising outlook coming in 2017&lt;/a&gt; by &lt;a href=&quot;https://www.tradingview.com/u/lowstrife/&quot;&gt;lowstrife&lt;/a&gt; on &lt;a href=&quot;http://tradingview.go2cloud.org/SHW9&quot;&gt;TradingView.com&lt;/a&gt;&lt;/p&gt;
-&lt;!-- TradingView Chart END --&gt;
-
-&lt;p&gt;The tradingview cryptocurrency chat mod lowstrife posted his chart in January 2017 when DASH was showing something that looked like long term accumilation before a jump.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;This is extremely promising market structure for DASH, very well defined highs that have been hit multiple times. I could see a serious run attempt at 0.1 in the coming months if it continues to provide. I’m a bit late on my timing, I would have liked to publish this chart around 0.0012, but as long as it continues to make higher lows on the high timeframes it should be setup for a very nice run. 3 years of consolidation bewteen 0.005 and 0.03, the trend is sideways but with an upward bias.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;By the beginning of March DASH peaked around 0.048 BTC and started wicking hard which was pronounced the end of the bull run:&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.tradingview.com/x/Hc2N2FE0/&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;https://www.tradingview.com/x/Hc2N2FE0/&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;Wow, gigantic wicks and margin calls. Close everything, this is the top.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;We are now ripe for another consolidation.&lt;/p&gt;
-
-&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;dash-will-come-back-to-reality-by-bagofxmr&quot;&gt;DASH will come back to reality by bagofXMR&lt;/h4&gt;
-
-&lt;!-- TradingView Chart BEGIN --&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-var tradingview_embed_options = {};
-tradingview_embed_options.width = '750';
-tradingview_embed_options.height = '385';
-tradingview_embed_options.chart = 'ijMvaxAY';
-new TradingView.chart(tradingview_embed_options);
-&lt;/script&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.tradingview.com/chart/DASHBTC/ijMvaxAY-DASH-WILL-COME-BACK-TO-REALITY/&quot;&gt;DASH WILL COME BACK TO REALITY&lt;/a&gt; by &lt;a href=&quot;https://www.tradingview.com/u/bagofXMR/&quot;&gt;bagofXMR&lt;/a&gt; on &lt;a href=&quot;http://tradingview.go2cloud.org/SHW9&quot;&gt;TradingView.com&lt;/a&gt;&lt;/p&gt;
-&lt;!-- TradingView Chart END --&gt;
-
-&lt;p&gt;This is a short position from the top based on RSI (overbought and declining) and MACD “bad squishy”. However, the prediction was more bearish than the reality, DASH seems to be consolidating sideways.&lt;/p&gt;
-
-&lt;h4 id=&quot;short-term-bearish-rising-wedge-by-mateuszgrzelak&quot;&gt;Short term bearish rising wedge by MateuszGrzelak&lt;/h4&gt;
-
-&lt;!-- TradingView Chart BEGIN --&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-var tradingview_embed_options = {};
-tradingview_embed_options.width = '750';
-tradingview_embed_options.height = '380';
-tradingview_embed_options.chart = 'YPhmb4oO';
-new TradingView.chart(tradingview_embed_options);
-&lt;/script&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.tradingview.com/chart/DASHBTC/YPhmb4oO-DASH-BTC-on-POLONIEX/&quot;&gt;DASH BTC on POLONIEX&lt;/a&gt; by &lt;a href=&quot;https://www.tradingview.com/u/MateuszGrzelak/&quot;&gt;MateuszGrzelak&lt;/a&gt; on &lt;a href=&quot;http://tradingview.go2cloud.org/SHW9&quot;&gt;TradingView.com&lt;/a&gt;&lt;/p&gt;
-&lt;!-- TradingView Chart END --&gt;
-
-&lt;p&gt;And this is an hourly chart showing the current sideways action where you might be scalping it quite easily.&lt;/p&gt;
-
-&lt;p&gt;You can trade DASH on &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://poloniex.com&quot;&gt;Poloniex&lt;/a&gt; with fees of .15%/.25% and newly also on &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://www.bitfinex.com/?refcode=5egV78YtlC&quot;&gt;Bitfinex - sign up with this link to get the generous fees of .09%/.18%&lt;/a&gt;. All altcoin charts and indicators are &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://tradingview.go2cloud.org/SHW9&quot;&gt;available on TradingView&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;text-center&quot;&gt; &lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://shop.trezor.io?a=fany@tutanota.com&quot;&gt; &lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/wallets/trezor-altcoins-long.jpg&quot; alt=&quot;Trezor Wallet for bitcoins and altcoins&quot; data-original-width=&quot;728px&quot; data-original-height=&quot;90px&quot; layout=&quot;responsive&quot; width=&quot;728px&quot; height=&quot;90px&quot;&gt; &lt;/amp-img&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt; &lt;/p&gt;
-</description>
-        <pubDate>Mon, 06 Mar 2017 00:00:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/dash-03-2017/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/dash-03-2017/</guid>
-        
-        
-        <category>dash</category>
-        
-        <category>trading</category>
-        
-      </item>
-    
-      <item>
-        <title>Kraken acquires Cryptowatch, lead dev will work for them</title>
-        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/kraken.png&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/kraken.png&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Image: Kraken’s UI is leaving the 1990s baby&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;Lately Kraken has been the last exchange you’d recommend for trading - bitcoin or altcoins all the same.&lt;/p&gt;
-
-&lt;p&gt;The selection of markets was extremely good. The very limited reliability of their infrastructure was a dealbreaker though and the awful, awful&lt;sup&gt;awful&lt;sup&gt;awful&lt;/sup&gt;&lt;/sup&gt; charts were only adding insult to injury.&lt;/p&gt;
-
-&lt;p&gt;People on Reddit even set up a joint thread “&lt;a href=&quot;https://www.reddit.com/r/BitcoinMarkets/comments/5vwgye/i_too_got_fucked_by_kraken_general_thread/&quot;&gt;I too got fucked by Kraken&lt;/a&gt;” just this February.&lt;/p&gt;
-
-&lt;p&gt;Today however Kraken announced they acquired Cryptowatch, currently the most popular cryptocurrency charting engine.&lt;/p&gt;
-
-&lt;p&gt;The interface is available at &lt;a href=&quot;https://trade.kraken.com/kraken/ethbtc&quot;&gt;trade.kraken.com&lt;/a&gt; accessible to all Kraken users. At the moment the functionality is the same as &lt;strong&gt;the old Cryptowatch Premium&lt;/strong&gt; access. Nothing changes for people who don’t trade at Kraken, standard Cryptowatch is still available for free to everyone as it was.&lt;/p&gt;
-
-&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;Artur Sapek (/u/excited_by_typos), &lt;a href=&quot;https://cryptowat.ch/announcement/kraken-acquires-cryptowatch&quot;&gt;the developer of Cryptowatch, says&lt;/a&gt; we can look forward to faster development of the charting platform as the work with Kraken will bring in some capital.&lt;/p&gt;
-
-&lt;p&gt;That’s helluva good news for today.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cryptowat.ch/announcement/kraken-acquires-cryptowatch&quot;&gt;Announcement on Cryptowat.ch&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.kraken.com/post/157796880417/kraken-acquires-cryptowatch-and-launches-new-trade&quot;&gt;Announcement on Kraken&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.kraken.com/post/157561097377/how-to-get-started-trading-on-krakens-new-trading&quot;&gt;Here&lt;/a&gt; is a how-to from Kraken.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-</description>
-        <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/kraken-cryptowatch/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/kraken-cryptowatch/</guid>
-        
-        
-        <category>exchanges</category>
-        
-      </item>
-    
-      <item>
-        <title>Don't miss out if you're into Ripple</title>
-        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/coins/ripple.jpg&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/coins/ripple.jpg&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Image: Ripple&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;If you are a fan of Ripple it might be the right time to get verified on Bitstamp and Cryptofacilities if you haven’t done so already. Those are the regulated places where to trade Ripple and its derivatives.&lt;/p&gt;
-
-&lt;h2 id=&quot;bitstamp-has-freediscounted-ripple-trading-right-now&quot;&gt;Bitstamp has free/discounted Ripple trading right now&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;16 Feb 2017: Dear customers,&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Today we are launching XRP/BTC trading on our exchange, yet another pair to add to our roster. A digital asset that is native to the Ripple Consensus Ledger, XRP can now be traded with BTC, USD and EUR.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;To get things off to the best possible start for your XRP/BTC trades, we will be offering &lt;strong&gt;0% fees until 28 February 2017, a 50% discount on fees until 31 March, and a 25% discount on fees until 30 April&lt;/strong&gt;. The XRP fee schedule will revert to normal as of midnight on 1 May 2017.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Check out Ripple’s handy guide on how to buy XRP on Bitstamp here “How to buy XRP on Bitstamp”. Lastly, those of you who have been waiting for XRP trading on Bitstamp mobile for Android and iOS can get started from tomorrow onwards. We hope you enjoy these new services - keep your eyes peeled for further announcements in the coming weeks!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Best,
-The Bitstamp Team&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://bitstamp.net&quot;&gt;Go to Bitstamp&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/coins/ripple-derivatives.png&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/coins/ripple-derivatives.png&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;cryptofacilities-are-the-only-ones-to-offer-ripple-futures&quot;&gt;Cryptofacilities are the only ones to offer Ripple futures&lt;/h2&gt;
-
-&lt;p&gt;Deposits on CF are insured and they offer a range of leverages. Liquidity is not the best but for long term trades it’s the place to be.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://www.cryptofacilities.com/derivatives/3ee93eb5-3f3e-45bb-b911-8cd322eadb83&quot;&gt;Go to Cryptofacilities&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;BTW, there are &lt;a href=&quot;https://www.cryptofacilities.com/derivatives/tradingviewcharts&quot;&gt;Free Cryptofacilities Charts on TradingView&lt;/a&gt; if you didn’t know - you’ll need to select a XRP product manually from the select box as the CF charts are not normally listed (you cannot view these charts from your TV account).&lt;/p&gt;
-
-&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-</description>
-        <pubDate>Tue, 21 Feb 2017 00:00:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/ripple-trading/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/ripple-trading/</guid>
-        
-        
-        <category>exchanges</category>
-        
-        <category>xrp</category>
-        
-      </item>
-    
-      <item>
-        <title>Privacy-centric altcoins: Dash vs Monero</title>
-        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/emotions/coffee.jpg&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/emotions/coffee.jpg&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Image: It goes way beyond the libertarian dream about paying for coffee.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;Monero and Dash are both privacy-focused cryptocurrencies that are heavily speculated on in 2017 despite having been around for quite some time already.&lt;/p&gt;
-
-&lt;p&gt;If you are looking for a long-term investment you should know a wee bit more than &lt;em&gt;private - uh, good?&lt;/em&gt; because there are actually quite some differences between Monero and Dash while both aim towards being the untraceable future currency - the digital cash.&lt;/p&gt;
-
-&lt;h3 id=&quot;dash-dash&quot;&gt;Dash (DASH)&lt;/h3&gt;
-
-&lt;p&gt;Dash is a &lt;strong&gt;Bitcoin fork&lt;/strong&gt; with a &lt;strong&gt;network improvement&lt;/strong&gt; that takes care of the privacy.&lt;/p&gt;
-
-&lt;p&gt;Dash uses 2-tier network system which keeps the transactions private and kind of untraceable. It’s only kind of though. Some information about transactions is still available, transactions are only mixed together and confirmed faster that they would be on the Bitcoin blockchain.&lt;/p&gt;
-
-&lt;p&gt;The Dash transactions confirm faster than Bitcoin transactions since this work is not done by miners but by the Masternodes. Confirmations are almost instant, payments are cheaper and often have no fees at all.&lt;/p&gt;
-
-&lt;p&gt;The main drawback however:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The &lt;a href=&quot;https://explorer.dash.org/chain/Dash&quot;&gt;Dash blockchain is still public&lt;/a&gt; and the list of transaction can be browsed by anyone but Dash has an inherent mixing protocol.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Good thing about the mixing in Dash is that there is no third party involved (as there would be with mixing services common for Bitcoin) therefore the setup is trustless.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Where to buy and hold Dash&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Dash has quite clever marketing, currently being supported by Amanda B. Johnson the former presenter of The Daily Decrypt.&lt;/p&gt;
-
-&lt;p&gt;You can buy and trade Dash on majority of altcoins exchanges are you can get it &lt;a href=&quot;https://www.dash.org/direct-purchase/&quot;&gt;anonymously for cash too&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Storage looks also very good.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Desktop: &lt;a href=&quot;https://www.dash.org/downloads/&quot;&gt;See officialy endorsed downloads&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Dash Core (full), Dash Lite (electrum/lite wallet)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Multicoin wallets: Jaxx, Coinomi&lt;/li&gt;
-  &lt;li&gt;Mobile wallets:
-    &lt;ul&gt;
-      &lt;li&gt;Android: Dash Wallet, Coinomi, Jaxx&lt;/li&gt;
-      &lt;li&gt;iOS: Dash wallet&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Cold storage: Is available! Via Trezor! (&lt;a href=&quot;/trezor-multicoin/&quot;&gt;see this post&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://shop.trezor.io?a=fany@tutanota.com&quot;&gt; &lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/wallets/trezor.jpg&quot; alt=&quot;Trezor Altcoins - Trezor is Hardware wallet for bitcoin and altcoins&quot; data-original-width=&quot;728px&quot; data-original-height=&quot;90px&quot; layout=&quot;responsive&quot; width=&quot;728px&quot; height=&quot;90px&quot;&gt; &lt;/amp-img&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Adoption&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This is a major drawback: Dash should be the virtual cash, untraceable and anonymous, but is not commonly used as a means of payment. There is one payments system &lt;a href=&quot;https://cointelegraph.com/news/dash-accepted-here-blockpay-pos-system-integrates-with-dash&quot;&gt;BlockPay that integrated Dash in Aug 2016&lt;/a&gt;, overall only about 60 merchants worldwide accept Dash payments.&lt;/p&gt;
-
-&lt;h3 id=&quot;monero-xmr&quot;&gt;Monero (XMR)&lt;/h3&gt;
-
-&lt;p&gt;Monero has probably the most dedicated developer team of all altcoins. Anyone can make a proposal about features they want to see. If the feature gets adequate funding via user contributions in the Monero forum, it will be worked on.&lt;/p&gt;
-
-&lt;p&gt;Monero stresses the value of absolutely private transactions because of the fungibility of a currency: once there is a quick way to distinguish between a “clean” coin and a coin that was in the dark net, and oncepeople start commonly do this, the value of those two coins will be different. Nobody will want to buy the risky DNM coin for full price.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;From an economic point of view, a currency needs to be fungible. Fungibility is a property of money that makes all units “equal.” Without fungibility, money flows can be tracked and tainted, making it very difficult to use the digital tokens as money.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Monero transactions are entirely private - it is a CryptoNote currency, not a Bitcoin variation. On the Monero blockchain a casual observer cannot find out the origin, amount nor destination  of the transaction.&lt;/p&gt;
-
-&lt;p&gt;So this is one step further than Dash which “only” uses mixing but transaction flow is still available. The Monero blockchain on the other hand is truly private to the extent that it could be a layer for private settlements.&lt;/p&gt;
-
-&lt;p&gt;Other than this, there is one additional layer of privacy on the Monero blockchain - the network layer. Monero has an i2p router incorporated in it. I2P is an anonymous overlay network - a network within a network. In case you have never heard of it, here’s a &lt;a href=&quot;https://geti2p.net/en/docs/how/intro&quot;&gt;gentle intro&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;User controls what is shown&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Although the transactions on Monero blockchain are private for an outside observer, the person who has access to the Monero wallet can provide the chain of transactions to anyone - for instance for an audit.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mining Monero&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Monero is based on PoW, Proof of Work. The Monero devs say that PoS, Proof of stake which is now pushed as a “better” thing, penalizes less active participants and makes them “second class citizens” while Bitcoin’s PoW led to ASIC based mining pool centralization.&lt;/p&gt;
-
-&lt;p&gt;The mining process in Monero is a PoW algorithm optimalized so that it is ideally performed by millions of small x86 CPUs - that means, common personal computers - so it shouldn’t lead to the rat race of ASICs.
-There is permanent block reward - 0.3 XMR per block forever.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Adoption&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Monero is accepted a bit more widely than Dash it seems: &lt;a href=&quot;https://getmonero.org/getting-started/merchants&quot;&gt;https://getmonero.org/getting-started/merchants&lt;/a&gt;
-There is currently one functional payment processor available for merchants to use if they want to integrate monero - “Monero Merchants”.&lt;/p&gt;
-
-&lt;p&gt;By the end of Summer 2016 the famous dark net market AlphaBay implemented Monero payments alongside Bitcoin. This led to a major price action on the Monero markets as this truly was a huge step. Darknet markets don’t jump at every new thing because of the security risk related to upgrades on an illegal website. Accepting an altcoin is a big jump, and they picked Monero over Dash because the stealth of Monero is better.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Buying and holding Monero&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;There is a number of exchanges and OTC markets for Monero, recently you can get Monero also on &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://www.bitfinex.com/?refcode=5egV78YtlC&quot;&gt;Bitfinex&lt;/a&gt; and Kraken - see &lt;a href=&quot;/how-to-buy-altcoins/&quot;&gt;How to buy altcoins&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The hodling business is a bit tough to crack still. &lt;a href=&quot;/monero-wallet/&quot;&gt;Read about Monero wallets here&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 06 Feb 2017 00:00:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/private-altcoins-dash-monero/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/private-altcoins-dash-monero/</guid>
-        
-        
-        <category>coins</category>
-        
-        <category>dash</category>
-        
-        <category>zcash</category>
-        
-        <category>xmr</category>
-        
-      </item>
-    
-      <item>
-        <title>Trezor (SatoshiLabs) added DASH wallet and ZCASH wallet</title>
-        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/wallets/trezor-alena-slush.jpg&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/wallets/trezor-alena-slush.jpg&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Image: The new Trezor supports DASH and ZCASH&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Trezor the hardware wallet now supports not only Bitcoin but also ZCASH and DASH in its native interface. It is also possible to store ETH and LTC through external wallets.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://blog.trezor.io/multi-currency-support-bitcoin-dash-and-zcash-in-trezor-wallet-7377d812112a#.lo4zsnogf&quot;&gt;Read the whole post on blog.trezor.io&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;By the end of January 2017 Trezor released an announcement that the hardware wallet will now support DASH and ZCASH in addition to Bitcoin.&lt;/p&gt;
-
-&lt;p&gt;It has been already possible to store altcoins in Trezor if you linked the hardware wallet to an Electrum light wallet - or to another supported wallet, like &lt;a href=&quot;https://blog.trezor.io/trezor-integration-with-myetherwallet-3e217a652e08#.2g4f3e2h7&quot;&gt;MyEtherWallet&lt;/a&gt; for ETH.&lt;/p&gt;
-
-&lt;p&gt;Electrum was long ago also forked to support &lt;a href=&quot;https://electrum-ltc.org/&quot;&gt;Litecoin&lt;/a&gt; and &lt;a href=&quot;https://electrum-dash.org/&quot;&gt;Dash&lt;/a&gt;. The disadvantage for Trezor users however was that one had to manage several separate wallets.&lt;/p&gt;
-
-&lt;h4 id=&quot;dash-and-zcash-right-in-the-native-trezor-interface&quot;&gt;DASH and ZCASH right in the native Trezor interface&lt;/h4&gt;
-
-&lt;p&gt;The new upgraded version of Trezor now allows to manage accounts with different currencies accessible all at once from the web wallet interface. All you have to do is choose the currency from the menu in the left column.&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/wallets/trezor-altcoins1.png&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/wallets/trezor-altcoins1.png&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/wallets/trezor-altcoins2.png&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/wallets/trezor-altcoins2.png&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;There is a limitation for ZCASH users who want to enjoy the full privacy of Z-addresses though:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;“As for ZCASH: TREZOR Wallet only supports T-addresses only. This is due to the hardware limitations of the device and the requirements of Z-addresses. We apologize for the inconvenience caused.”&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Because of the increased load related to browsing additional blockchains Trezor also upgraded their servers for the release:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;“We are happy to announce that [server availability] spottiness will no longer be an issue. We have successfully deployed additional Insight/Bitcore servers for multi-currency support to address availability issues on the beta. As we are now using self-hosted servers, the speed of the Wallet should be greatly increased.”&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;why-dash-and-zcash&quot;&gt;Why DASH and ZCASH?&lt;/h4&gt;
-
-&lt;p&gt;There is a straightforward reason why DASH and ZCASH were chosen rather than for instance &lt;a href=&quot;http://coinmarketcap.com/currencies/monero/&quot;&gt;Monero&lt;/a&gt; which has much bigger user base than &lt;a href=&quot;http://coinmarketcap.com/currencies/zcash/&quot;&gt;ZCASH&lt;/a&gt;. The Trezor wallet uses &lt;strong&gt;insight/bitcore&lt;/strong&gt; to gather information about the blockchain. And while Insight was originally developed for Bitcoin, several other cryptocurrencies forked it to make it work with their own blockchain.&lt;/p&gt;
-
-&lt;p&gt;The Insight API project is opensource, you can read its code on &lt;a href=&quot;https://github.com/bitpay/insight-api/&quot;&gt;Github&lt;/a&gt; - just as you can see &lt;a href=&quot;https://github.com/bitpay/insight-api/network/members&quot;&gt;the list of people who forked it on Github&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;You’ll see quite a few coin-y names:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dashpay
-zcash
-vbuterin
-shadowproject (shadowcash)
-casinocoin
-auroracoin
-startcoin
-litecoin
-reddcoin
-opalcoin
-nanocoin
-beavercoin
-ai-coin
-templecoin
-dogeparty
-digibyte
-decred
-...
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;…and others like Blocktrail, Bitgo, Blockexplorer or 21dotco.&lt;/p&gt;
-
-&lt;p&gt;Let’s hope that in the future there will be more working forks of Insight for altcoins that are actually used and traded beyond the initial pump and dump.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;div class=&quot;shifted-left&quot;&gt; &lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://shop.trezor.io?a=fany@tutanota.com&quot;&gt; &lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/wallets/trezor.jpg&quot; alt=&quot;Trezor Altcoins - Trezor is Hardware wallet for bitcoin and altcoins&quot; data-original-width=&quot;728px&quot; data-original-height=&quot;90px&quot; layout=&quot;responsive&quot; width=&quot;728px&quot; height=&quot;90px&quot;&gt; &lt;/amp-img&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;get-trezor-while-you-can&quot;&gt;Get Trezor while you can&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;…and backorder while you cannot.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;You can get your own Trezor via the &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://shop.trezor.io?a=fany@tutanota.com&quot;&gt;shop.trezor.io online store or on Amazon&lt;/a&gt;. Don’t forget to check if the package is uncorrupted upon arrival. If it was apparently tampered with, take a picture and ask for a replacement.&lt;/p&gt;
-
-&lt;p&gt;As for the altcoins, you can buy, trade and lend ZCASH on &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://www.bitfinex.com/?refcode=5egV78YtlC&quot;&gt;Bitfinex&lt;/a&gt; - the link will get you 10% fee discount.
-DASH is best available to buy, trade and lend at &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://poloniex.com&quot;&gt;Poloniex&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;More about Trezor:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/BitcoinTrezor&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt; https://www.facebook.com/BitcoinTrezor&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://twitter.com/bitcointrezor&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt; https://twitter.com/bitcointrezor&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.reddit.com/r/TREZOR/&quot;&gt;&lt;i class=&quot;fa fa-reddit&quot;&gt;&lt;/i&gt; https://www.reddit.com/r/TREZOR/&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-</description>
-        <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/trezor-multicoin/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/trezor-multicoin/</guid>
+        <link>https://de.altcointrading.net/wyckoff/</link>
+        <guid isPermaLink="true">https://de.altcointrading.net/wyckoff/</guid>
         
         <category>popular</category>
         
         
-        <category>wallets</category>
-        
-        <category>dash</category>
-        
-        <category>zcash</category>
-        
-        <category>eth</category>
-        
-      </item>
-    
-      <item>
-        <title>Back to Basics: How to buy altcoins</title>
-        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/eth/eth2.jpg&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/eth/eth2.jpg&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Image: Ethereum, Monero and the rest of it: How to buy?&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;buying-bitcoin-first&quot;&gt;Buying bitcoin first&lt;/h4&gt;
-
-&lt;p&gt;Getting an altcoin for your bitcoins that you already bought on &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://localbitcoins.com/?ch=4nq3&quot;&gt;localbitcoins&lt;/a&gt; or elsewhere is the classic way to start holding or trading altcoins.&lt;/p&gt;
-
-&lt;p&gt;These days, after 27 Jan 2017, it is vital to check if you’re getting clean coins though. &lt;a href=&quot;https://bitcointalk.org/index.php?topic=1766723.0&quot;&gt;Yesterday someone published a list of transactions&lt;/a&gt; that proved the bitcoins stolen in the Bitfinex hack in august 2016 started moving. Apparently the hacker is now trying to move small chunks of the coins to bitcoin exchanges. It is likely that they might try to use a mixing service to clean the bitcoin or that they will even set up their own mixer.&lt;/p&gt;
-
-&lt;p&gt;Therefore always check where did your bitcoins came from - even if you just deposited them for lending on Poloniex. You will probably not be getting back your original bitcoins but bitcoins with a different history.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Buy and hold&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If you just want to buy an altcoin like Monero, Ether, Dash, Factom or Maid, you can use ShapeShift. You don’t need a user account, you simply send in the money. You need to have bitcoins or an altcoin and a wallet address where you want to receive the altcoin you’re buying.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://shapeshift.io/#/coins&quot;&gt;ShapeShift&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Trading Alt/BTC pairs&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The Mecca of altcoin trading. Poloniex usually lists new coins reasonably fast, all the intial trading of a new coin usually happens there. You can buy and sell on spot, you can long and short with margin and you can lend out any coin for interest. The web app is kind of sluggish at times but API is reliable.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://poloniex.com&quot;&gt;Poloniex&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Some smaller altcoins are not listed on Polo though. In such case they will probably be on Bittrex.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://bittrex.com/home/markets&quot;&gt;Bittrex&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Try and avoid Hitbtc, they don’t have a good reputation.&lt;/p&gt;
-
-&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;getting-altcoins-for-fiat&quot;&gt;Getting altcoins for fiat&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;Kraken&lt;/strong&gt; / US (SEPA, wire)&lt;/p&gt;
-
-&lt;p&gt;Altcoins: Ether, Ether Classic, Iconomi, Litecoin, Augur, Dogecoin, Lumen, Monero, Ripple, Zcash&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://www.kraken.com/en-gb/help/fees&quot;&gt;Kraken fee structure coin by coin&lt;/a&gt; shows the rates for buying an altcoin with cash might be easily the lowest for you. You need to get verified though and the support is kind of slow. And in addition to that, on slower days the less popular markets are pretty much abandoned.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bitfinex&lt;/strong&gt; / HK (wire only)&lt;/p&gt;
-
-&lt;p&gt;Altcoins: Ether, Ether Classic, Zcash, Monero, DASH, Litecoin&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://www.bitfinex.com/?refcode=5egV78YtlC&quot;&gt;Get 10% off fees on Bitfinex&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;It is not cheap to get money to Bitfinex but their trading interface has no competition. If you want to margin  trade one of the coins that are listed on Bitfinex, go for it.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Coincheck&lt;/strong&gt; / JP (wire or debit card - overseas cards limited to 10.000 yen a day)&lt;/p&gt;
-
-&lt;p&gt;Altcoins: Ether, Ether Classic, Lisk, Factom, Monero, Augur, Ripple, Zcash&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://coincheck.com/?c=IHffq2cUTu4&quot;&gt;Coincheck has a zero-fee campaign through Feb and Mar 2017&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Coincheck is one of the Japanese exchanges that are now getting the speculators who used to be trading bitcoin in China for as long as there was the zero-fee policy. Coincheck is one of the smaller exchanges. &lt;a href=&quot;https://bitflyer.jp/discussion/roger-ver?top_link&amp;amp;footer&quot;&gt;Bitflyer&lt;/a&gt; seems to be the one that profits from the Chinese ban on zerofee trading but Coincheck is the one that has a fine selection of altcoins.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;BTC-e&lt;/strong&gt; / RU (SEPA, eWallets, wire)&lt;/p&gt;
-
-&lt;p&gt;Altcoins: Litecoin, Dash, Peercoin, Namecoin, Novacoin, Ether&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://btc-e.com/page/2&quot;&gt;Trading fee is always 0.2 perc&lt;/a&gt; and prices are lower but deposit and withdrawal fees make up for it.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;BitStamp&lt;/strong&gt; / EU (SEPA, wire)&lt;/p&gt;
-
-&lt;p&gt;Altcoins: Ripple&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://www.bitstamp.net/market/tradeview/&quot;&gt;Bitstamp’s tradeview&lt;/a&gt; is good but liquidity is next to nonexistent. When they setup a new market, like just now with Ripple, nobody is really running in to trade there.&lt;/p&gt;
-
-&lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;altcoin-storage-the-altcoin-wallets&quot;&gt;Altcoin Storage: The Altcoin Wallets&lt;/h4&gt;
-
-&lt;p&gt;You have two options - an altcoin-specific wallet or a multi-altcoin wallet. In any case, it is always a bad idea to leave your coin on an exchange. That doesn’t mean that an altcoin in an altcoin-specific wallet is automatically 100% safe though.&lt;/p&gt;
-
-&lt;p&gt;Keep in mind that all altcoins are works in progress - even the big ones like Ether. &lt;strong&gt;There are bugs in the software&lt;/strong&gt;. &lt;a href=&quot;https://github.com/ethereum/mist/releases&quot;&gt;See the Ethereum’s Mist release notes on Github&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Because of that, proprietary wallets might not always be the best bet. The Jaxx might be much better - but it doesn’t support all the altcoins.&lt;/p&gt;
-
-&lt;p&gt;You will need to compromise a bit but it certainly won’t hurt if you simulate cold storage by having your desktop wallets on a computer that is mostly offline and that you don’t use for your day to day web browsing or downloading.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/altcoin-wallets/&quot;&gt;Full post on altcoin wallets here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 28 Jan 2017 00:00:00 +0100</pubDate>
-        <link>https://www.altcointrading.net/how-to-buy-altcoins/</link>
-        <guid isPermaLink="true">https://www.altcointrading.net/how-to-buy-altcoins/</guid>
-        
-        <category>popular</category>
-        
-        
-        <category>exchanges</category>
-        
-        <category>dash</category>
-        
-        <category>zcash</category>
-        
-        <category>eth</category>
+        <category>trading</category>
         
       </item>
     
