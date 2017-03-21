@@ -32,7 +32,7 @@ ________________________
 
 {{ site.ads.aads728 }}
 
-Vor nicht so langer Zeit gab es Gerüchte über die verschiedenen wallet-Anbieter schließlich die Integration von Monero - desktop-wallets, light clients, hardware-wallets. Stellt sich heraus, wir haben all dies für ARMATURENBRETT, auch für die ETH, in einigen Fällen für ZEC, DAO REP...Nicht für XMR obwohl.
+Vor nicht so langer Zeit gab es Gerüchte über die verschiedenen wallet-Anbieter schließlich die Integration von Monero - desktop-wallets, light clients, hardware-wallets. Stellt sich heraus, wir haben all dies für DASH, auch für die ETH, in einigen Fällen für ZEC, DAO REP...Nicht für XMR obwohl.
 
 Inzwischen Monero langfristige Halterung Basis erhöht, der Preis der Konsolidierung auf eine schöne Ebene nach dem Anstieg am Ende des Sommers 2016 und jeder, der jemals davon gehört altcoin-trading ist bestrebt, springen nach dem ersten viable product, bietet eine sichere Aufbewahrung für Monero.
 
@@ -48,7 +48,7 @@ Anscheinend wird eine chance sein für jemanden, der neu in den Markt einzutrete
 
 #### Ledger Nano - ,,No ETA"
 
-{% amp700 border {{page.Bild[1]}} "ledger " monero" %}
+{% amp700 border {{page.image[1]}} {{page.image_alt[0]}} %}
 
 Es ist ein [öffentliches Trello board](https://trello.com/c/wsK0myEm/52-monero-support) über die von Monero unterstützen und für eine Zeit sah es Recht vielversprechend. Allerdings, u/btchip von Ledger gelöscht:
 
@@ -58,13 +58,13 @@ Es ist ein [öffentliches Trello board](https://trello.com/c/wsK0myEm/52-monero-
 #### Trezor - Projekt Ins Stocken Geraten
 
 <p>
-{{ site.anzeigen.trezorlong }}
+{{ site.ads.trezorlong }}
 </p>
 
-Trezor von SatoshiLabs sollte Monero unterstützt von Ihrer hardware wallet, [jemand an diesem Projekt gearbeitet, bevor](monero-Geldbörse/) und es gibt ein paar mutige, die gehackt Ihre Trezors um eine funktionierende hardware wallet für Monero punk-Stil. Arbeiten für jetzt ist. Der code geschrieben für Trezor unvereinbar bald wie Monero aktualisiert, da die.
+Trezor von SatoshiLabs sollte Monero unterstützt von Ihrer hardware wallet, [jemand an diesem Projekt gearbeitet, bevor](https://www.altcointrading.net/monero-wallet/) und es gibt ein paar mutige, die gehackt Ihre Trezors um eine funktionierende hardware wallet für Monero punk-Stil. Arbeiten für jetzt ist. Der code geschrieben für Trezor unvereinbar bald wie Monero aktualisiert, da die.
 
 
-#### Keepkey - ,,Erm, nicht wirklich."
+#### Keepkey - ,,Uhm, wahrscheinlich nicht."
 
 Die Trezor-spin-off ist nicht der Planung und Implementierung von Monero können Sie entweder:
 
@@ -72,7 +72,7 @@ Die Trezor-spin-off ist nicht der Planung und Implementierung von Monero können
 
 #### Jaxx - ,,Kurzfristige Pläne gestoppt"
 
-{% amp700 border {{page.Bild[2]}} "jaxx monero" %}
+{% amp700 border {{page.image[2]}} "jaxx monero" %}
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="de" dir="ltr">macht mich Traurig, zu verkünden, wir&#39;ve gestoppt, <a href="https://twitter.com/jaxx_io">@jaxx_io</a> <a href="https://twitter.com/monerocurrency">@monerocurrency</a> in der Nähe von Begriff integration plant. Zu viele Schwierigkeiten. Notwendigkeit der Neuausrichtung der Ressourcen.</p>&mdash; Anthony Di Iorio (@diiorioanthony) <a href="https://twitter.com/diiorioanthony/status/826953622088982528">2. Februar 2017</a></blockquote>
 
@@ -86,4 +86,4 @@ Die Chancen sind, es geht um Mode, um starten zu fordern, arbeiten Sie auf XMR U
 
 Dennoch, [Exodus, der desktop multicoin-Geldbörse mit Shapeshift integration](https://www.exodus.io/) zu haben scheint Monero Unterstützung als top-Priorität für neue Funktionen.
 
-Ebenso ist die offizielle web-client mymonero.com sollte sich eine mobile Schnittstelle, die später dieses Jahr. Mymonero.com ist voll funktionsfähig, was bis jetzt die offensichtliche Idee wäre, zu verwenden, was ist da jetzt so ein webview erstellen der grundlegenden online-only-app. [Und einige haben ja auch gelungen, mit that](https://www.reddit.com/r/Monero/comments/5tfz27/why_not_use_opensourced_mymonero_fronend_as_quick/),, hoffentlich ist diese Erwartung realistisch ist.
+Ebenso ist die offizielle web-client mymonero.com sollte sich eine mobile Schnittstelle, die später dieses Jahr. Mymonero.com ist voll funktionsfähig, was bis jetzt die offensichtliche Idee wäre, zu verwenden, was ist da jetzt so ein webview erstellen der grundlegenden online-only-app. [Und einige haben ja auch gelungen, mit that](https://www.reddit.com/r/Monero/comments/5tfz27/why_not_use_opensourced_mymonero_fronend_as_quick/), hoffentlich ist diese Erwartung realistisch.

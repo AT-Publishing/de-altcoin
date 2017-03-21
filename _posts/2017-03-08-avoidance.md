@@ -75,7 +75,7 @@ Sie können die Spur der historischen wöchentlichen Leistung von cryptocurrenci
 
 Tägliche Daten ist verfügbar unter [homepage](http://coinmarketcap.com/#BTC) oder von der API. Wenn Sie Handel mit altcoins gegen BTC, ist, dass Paare wie ETHBTC, sollten Sie wechseln zu BTC Preise. Auf diese Weise werden Sie sehen, welche altcoins, um die besten und die schlechtesten gegen bitcoin.
 
-{% amp700 border {{page.Bild[1]}} {{page.image_alt[0]}} %}
+{% amp700 border {{page.image[1]}} {{page.image_alt[0]}} %}
 
 
 Sie gehen durch die wöchentlichen Daten ab 2016 können Sie einen filter für jede Tabelle vom gehandelten Volumen.
@@ -92,7 +92,7 @@ Was die Menschen am häufigsten verwenden, um vor Ort Veränderungen, Parabolic 
 
 Das Stündliche bitcoin chart unten zeigt einen SAR `0.025, 0.02, 0.03` auf {% aff TradingView http://tradingview.go2cloud.org/SHW9 %}. Wenn Sie auf das Bild klicken um zu vergrößern es du wirst sehen, es spiegeln, und wenn man sich den RSI an der Unterseite sehen Sie eine Divergenz zwischen dem RSI-Tiefs und der Preis, den Tiefs, die ist bullish, da es zeigt, dass die tiefen sind zu tief für die Stärke des Marktes.
 
-{% amp700 border {{page.Bild[2]}} {{page.image_alt[0]}} %}
+{% amp700 border {{page.image[2]}} {{page.image_alt[0]}} %}
 
 Natürlich in beiden bitcoin und altcoins Sie nicht Rabatt "Verschwörungstheorien" über Wale Manipulation der Märkte - angesichts der (wenig) Geld man tun muss, dass es durchaus möglich. Auch die legacy-Jungs fanden es selbst aus, ich möchte Sie ermutigen, Lesen Sie den folgenden Auszug aus FT, wo ein investor jammert über die immer rekt auf OkCoin, weil ein bearwhale, es ist urkomisch.
 
@@ -106,12 +106,8 @@ Natürlich in beiden bitcoin und altcoins Sie nicht Rabatt "Verschwörungstheori
 
 ________________________
 
-In the next days I'll be looking over altcoins historical performance so stay tuned for next posts.
 
-________________________
-
-
-**Reading**
+**Weitere Ressourcen**
 
 * [http://technical.traders.com/tradersonline/display.asp?art=167](http://technical.traders.com/tradersonline/display.asp?art=167)
 * [https://stockcharts.com/articles/wyckoff/](https://stockcharts.com/articles/wyckoff/)
