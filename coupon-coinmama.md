@@ -6,6 +6,7 @@ tags:
 - hidden
 navi:
  exclude: yes
+english: "/coupon-coinmama-fny3000/"
 ---
 
 #### Über CoinMama

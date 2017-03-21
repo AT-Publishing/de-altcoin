@@ -10,6 +10,7 @@ image:
 - "/img/bitfinex/bitmex-coupon-iYQB44.jpg"
 image_alt:
 - "BitMEX Gutschein iYQB44"
+english: "/coupon-bitmex-iyqb44/"
 ---
 
 

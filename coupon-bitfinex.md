@@ -10,6 +10,7 @@ image:
 - "/img/bitfinex/bitfinex-coupon-5egV78YtlC.jpg"
 image_alt:
 - "Bitfinex Gutschein 5egV78YtlC"
+english: "/coupon-bitfinex-5egv78ytlc/"
 ---
 
 
