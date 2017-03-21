@@ -7,7 +7,7 @@
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 <link rel="alternate" hreflang="de" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 {% unless page.title %}<link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/">{% endunless %}
-{% if page.english %}<link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net{{ page.english }}">{% endif %}
+{% if page.english %}<link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/{{ page.english }}">{% endif %}
 
 <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}">
 <meta name="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}">
