@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "altcoin wallets"
-description: "Where to keep alternative cryptocurrencies safely? Find about desktop altcoin wallets and hardware wallets for alt coins."
+title: "Altcoin Wallets"
+description: "Wählen Sie Wallet für Ihre Altcoins. Auch Hardware-Wallets unterstützen jetzt Ethereum, DASH und ZCASH."
 permalink: /category/wallets/
 ---
-
-<h4 class="exa">All posts related to <b>altcoin wallets</b></h4>
 
 <p>{{ site.ads.trezorlong }}</p>
 

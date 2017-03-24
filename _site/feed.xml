@@ -5,8 +5,8 @@
     <description>Forex der Kryptowährungen, Bitcoin als Basis.</description>
     <link>https://de.altcointrading.net/</link>
     <atom:link href="https://de.altcointrading.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Mar 2017 03:50:01 +0100</pubDate>
-    <lastBuildDate>Tue, 21 Mar 2017 03:50:01 +0100</lastBuildDate>
+    <pubDate>Fri, 24 Mar 2017 06:18:32 +0100</pubDate>
+    <lastBuildDate>Fri, 24 Mar 2017 06:18:32 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -20,7 +20,7 @@
 &lt;div class=&quot;shifted-left clearfix adfix&quot;&gt;&lt;amp-iframe width=&quot;728px&quot; height=&quot;90px&quot; layout=&quot;responsive&quot; data-aa=&quot;147076&quot; sandbox=&quot;allow-scripts allow-same-origin allow-modals allow-popups allow-forms&quot; src=&quot;https://ad.a-ads.com/147076?size=728x90&quot;&gt;&lt;amp-img layout=&quot;fill&quot; src=&quot;/img/ads/ad-placeholder.jpg&quot; placeholder=&quot;&quot;&gt;&lt;/amp-img&gt;&lt;/amp-iframe&gt;&lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;Vor nicht so langer Zeit gab es Gerüchte über die verschiedenen wallet-Anbieter schließlich die Integration von Monero - desktop-wallets, light clients, hardware-wallets. Stellt sich heraus, wir haben all dies für ARMATURENBRETT, auch für die ETH, in einigen Fällen für ZEC, DAO REP…Nicht für XMR obwohl.&lt;/p&gt;
+&lt;p&gt;Vor nicht so langer Zeit gab es Gerüchte über die verschiedenen wallet-Anbieter schließlich die Integration von Monero - desktop-wallets, light clients, hardware-wallets. Stellt sich heraus, wir haben all dies für DASH, auch für die ETH, in einigen Fällen für ZEC, DAO REP…Nicht für XMR obwohl.&lt;/p&gt;
 
 &lt;p&gt;Inzwischen Monero langfristige Halterung Basis erhöht, der Preis der Konsolidierung auf eine schöne Ebene nach dem Anstieg am Ende des Sommers 2016 und jeder, der jemals davon gehört altcoin-trading ist bestrebt, springen nach dem ersten viable product, bietet eine sichere Aufbewahrung für Monero.&lt;/p&gt;
 
@@ -36,7 +36,7 @@
 
 &lt;h4 id=&quot;ledger-nano---no-eta&quot;&gt;Ledger Nano - ,,No ETA”&lt;/h4&gt;
 
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/xmr/monero-ledger.jpg&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/xmr/monero-ledger.jpg&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Es ist ein &lt;a href=&quot;https://trello.com/c/wsK0myEm/52-monero-support&quot;&gt;öffentliches Trello board&lt;/a&gt; über die von Monero unterstützen und für eine Zeit sah es Recht vielversprechend. Allerdings, u/btchip von Ledger gelöscht:&lt;/p&gt;
 
@@ -47,12 +47,12 @@
 &lt;h4 id=&quot;trezor---projekt-ins-stocken-geraten&quot;&gt;Trezor - Projekt Ins Stocken Geraten&lt;/h4&gt;
 
 &lt;p&gt;
-
+&lt;div class=&quot;text-center&quot;&gt; &lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;https://shop.trezor.io?a=fany@tutanota.com&quot;&gt; &lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/wallets/trezor-altcoins-long.jpg&quot; alt=&quot;Trezor Wallet for bitcoins and altcoins&quot; data-original-width=&quot;728px&quot; data-original-height=&quot;90px&quot; layout=&quot;responsive&quot; width=&quot;728px&quot; height=&quot;90px&quot;&gt; &lt;/amp-img&gt;&lt;/a&gt;&lt;/div&gt;
 &lt;/p&gt;
 
-&lt;p&gt;Trezor von SatoshiLabs sollte Monero unterstützt von Ihrer hardware wallet, &lt;a href=&quot;monero-Geldbörse/&quot;&gt;jemand an diesem Projekt gearbeitet, bevor&lt;/a&gt; und es gibt ein paar mutige, die gehackt Ihre Trezors um eine funktionierende hardware wallet für Monero punk-Stil. Arbeiten für jetzt ist. Der code geschrieben für Trezor unvereinbar bald wie Monero aktualisiert, da die.&lt;/p&gt;
+&lt;p&gt;Trezor von SatoshiLabs sollte Monero unterstützt von Ihrer hardware wallet, &lt;a href=&quot;https://www.altcointrading.net/monero-wallet/&quot;&gt;jemand an diesem Projekt gearbeitet, bevor&lt;/a&gt; und es gibt ein paar mutige, die gehackt Ihre Trezors um eine funktionierende hardware wallet für Monero punk-Stil. Arbeiten für jetzt ist. Der code geschrieben für Trezor unvereinbar bald wie Monero aktualisiert, da die.&lt;/p&gt;
 
-&lt;h4 id=&quot;keepkey---erm-nicht-wirklich&quot;&gt;Keepkey - ,,Erm, nicht wirklich.”&lt;/h4&gt;
+&lt;h4 id=&quot;keepkey---uhm-wahrscheinlich-nicht&quot;&gt;Keepkey - ,,Uhm, wahrscheinlich nicht.”&lt;/h4&gt;
 
 &lt;p&gt;Die Trezor-spin-off ist nicht der Planung und Implementierung von Monero können Sie entweder:&lt;/p&gt;
 
@@ -62,7 +62,7 @@
 
 &lt;h4 id=&quot;jaxx---kurzfristige-pläne-gestoppt&quot;&gt;Jaxx - ,,Kurzfristige Pläne gestoppt”&lt;/h4&gt;
 
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/wallets/jaxx.png&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/wallets/jaxx.png&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en-gb&quot;&gt;&lt;p lang=&quot;de&quot; dir=&quot;ltr&quot;&gt;macht mich Traurig, zu verkünden, wir&amp;#39;ve gestoppt, &lt;a href=&quot;https://twitter.com/jaxx_io&quot;&gt;@jaxx_io&lt;/a&gt; &lt;a href=&quot;https://twitter.com/monerocurrency&quot;&gt;@monerocurrency&lt;/a&gt; in der Nähe von Begriff integration plant. Zu viele Schwierigkeiten. Notwendigkeit der Neuausrichtung der Ressourcen.&lt;/p&gt;&amp;mdash; Anthony Di Iorio (@diiorioanthony) &lt;a href=&quot;https://twitter.com/diiorioanthony/status/826953622088982528&quot;&gt;2. Februar 2017&lt;/a&gt;&lt;/blockquote&gt;
 
@@ -76,7 +76,7 @@
 
 &lt;p&gt;Dennoch, &lt;a href=&quot;https://www.exodus.io/&quot;&gt;Exodus, der desktop multicoin-Geldbörse mit Shapeshift integration&lt;/a&gt; zu haben scheint Monero Unterstützung als top-Priorität für neue Funktionen.&lt;/p&gt;
 
-&lt;p&gt;Ebenso ist die offizielle web-client mymonero.com sollte sich eine mobile Schnittstelle, die später dieses Jahr. Mymonero.com ist voll funktionsfähig, was bis jetzt die offensichtliche Idee wäre, zu verwenden, was ist da jetzt so ein webview erstellen der grundlegenden online-only-app. &lt;a href=&quot;https://www.reddit.com/r/Monero/comments/5tfz27/why_not_use_opensourced_mymonero_fronend_as_quick/&quot;&gt;Und einige haben ja auch gelungen, mit that&lt;/a&gt;,, hoffentlich ist diese Erwartung realistisch ist.&lt;/p&gt;
+&lt;p&gt;Ebenso ist die offizielle web-client mymonero.com sollte sich eine mobile Schnittstelle, die später dieses Jahr. Mymonero.com ist voll funktionsfähig, was bis jetzt die offensichtliche Idee wäre, zu verwenden, was ist da jetzt so ein webview erstellen der grundlegenden online-only-app. &lt;a href=&quot;https://www.reddit.com/r/Monero/comments/5tfz27/why_not_use_opensourced_mymonero_fronend_as_quick/&quot;&gt;Und einige haben ja auch gelungen, mit that&lt;/a&gt;, hoffentlich ist diese Erwartung realistisch.&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Mar 2017 20:20:00 +0100</pubDate>
         <link>https://de.altcointrading.net/monero-cold-storage-2017/</link>
@@ -148,7 +148,7 @@
 
 &lt;p&gt;Tägliche Daten ist verfügbar unter &lt;a href=&quot;http://coinmarketcap.com/#BTC&quot;&gt;homepage&lt;/a&gt; oder von der API. Wenn Sie Handel mit altcoins gegen BTC, ist, dass Paare wie ETHBTC, sollten Sie wechseln zu BTC Preise. Auf diese Weise werden Sie sehen, welche altcoins, um die besten und die schlechtesten gegen bitcoin.&lt;/p&gt;
 
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/trading/cmc-snapshot.jpg&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/trading/cmc-snapshot.jpg&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Sie gehen durch die wöchentlichen Daten ab 2016 können Sie einen filter für jede Tabelle vom gehandelten Volumen.&lt;/p&gt;
 
@@ -166,7 +166,7 @@
 
 &lt;p&gt;Das Stündliche bitcoin chart unten zeigt einen SAR &lt;code class=&quot;highlighter-rouge&quot;&gt;0.025, 0.02, 0.03&lt;/code&gt; auf &lt;a class=&quot;external&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://tradingview.go2cloud.org/SHW9&quot;&gt;TradingView&lt;/a&gt;. Wenn Sie auf das Bild klicken um zu vergrößern es du wirst sehen, es spiegeln, und wenn man sich den RSI an der Unterseite sehen Sie eine Divergenz zwischen dem RSI-Tiefs und der Preis, den Tiefs, die ist bullish, da es zeigt, dass die tiefen sind zu tief für die Stärke des Marktes.&lt;/p&gt;
 
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;/img/trading/btc-rsidiv.png&quot;&gt;&lt;figure class=&quot;border&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/img/trading/btc-rsidiv.png&quot; alt=&quot;&quot; layout=&quot;responsive&quot; width=&quot;700px&quot; height=&quot;360px&quot;&gt;&lt;/amp-img&gt;&lt;/figure&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Natürlich in beiden bitcoin und altcoins Sie nicht Rabatt “Verschwörungstheorien” über Wale Manipulation der Märkte - angesichts der (wenig) Geld man tun muss, dass es durchaus möglich. Auch die legacy-Jungs fanden es selbst aus, ich möchte Sie ermutigen, Lesen Sie den folgenden Auszug aus FT, wo ein investor jammert über die immer rekt auf OkCoin, weil ein bearwhale, es ist urkomisch.&lt;/p&gt;
 
@@ -188,11 +188,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;In the next days I’ll be looking over altcoins historical performance so stay tuned for next posts.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Reading&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Weitere Ressourcen&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://technical.traders.com/tradersonline/display.asp?art=167&quot;&gt;http://technical.traders.com/tradersonline/display.asp?art=167&lt;/a&gt;&lt;/li&gt;

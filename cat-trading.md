@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "altcoin trading"
-description: "Where to trade altcoins? What are good exchanges for altcoin trading? Who has lowest fees?"
+title: "Altcoin Trading"
+description: "Wie kann man Kryptowährung handeln, technische Analyse, Strategie."
 permalink: /category/trading/
 ---
-
-<h4 class="exa">All posts related to <b>altcoin trading</b> or <b>technical analysis</b></h4>
 
 <p>{{ site.ads.aads728 }}</p>
 

@@ -1,15 +1,13 @@
 ---
 layout: page
-title: "altcoin exchanges"
-description: "Best altcoin exchanges - for new coins, for trading, for trading bots."
+title: "Börsen"
+description: "Wo man Kryptowährung kaufen und handeln kann, wie hoch sind die Gebühren."
 permalink: /category/exchanges/
 ---
 
-<h4 class="exa">All posts related to <b>altcoin exchanges</b></h4>
-
 <p>{{ site.ads.aads728 }}</p>
 
-<span id="note">"Altcoin exchanges"</span>
+<span id="note">"Altcoinbörsen"</span>
 
 {% for post in site.posts %}
   {% if post.category contains "exchanges" or post.categories contains "exchanges" %}

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "best altcoins"
-description: "What is the best altcoin to invest in at the moment?"
+title: "Altcoins mit Zukunft"
+description: "Welche Kryptowährungen haben Zukunft? Welche Kryptowährungen kaufen?"
 permalink: /category/altcoins/
 ---
 
@@ -12,7 +12,7 @@ permalink: /category/altcoins/
 
 <p>{{ site.ads.trezorlong }}</p>
 
-<span id="note">"Featured altcoins"</span>
+<span id="note">Welche Kryptowährungen haben Zukunft?</span>
 
 {% for post in site.posts %}
   {% if post.category contains "coins" or post.categories contains "coins" %}

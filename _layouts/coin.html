@@ -14,9 +14,17 @@ layout: default-coin
 
           {{ site.ads.aads }}
 
+          <figure class="thumb textflow">
+            <amp-img itemprop="image" src="{{ page.image[0] }}" alt="{{ page.title }} Altcoin Trading"
+            layout="responsive"
+            data-original-width="720px" data-original-height="360px"
+            width="150px" height="80px">
+            </amp-img>
+          </figure>
+
           {{ content }}
 
-          <span id="note">"Filtering posts by altcoin: {{ page.title }}"</span>
+          <span id="note">Beiträge rund um {{ page.title | upcase }}</span>
 
           {% for post in site.posts %}
             {% if post.category contains page.title or post.categories contains page.title %}
@@ -45,12 +53,12 @@ layout: default-coin
               </div>
               {% endif %}
 
-
-
             </div>
 
             {% endif %}
           {% endfor %}
+
+          <hr>
 
 
 

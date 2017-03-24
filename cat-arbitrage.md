@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "arbitrage trading"
-description: "How to arbitrage trade altcoins and also all info on trade bots."
+title: "Altcoin Arbitrage"
+description: "Beiträge zu der Arbitrage-Strategie beim Altcointrading"
 permalink: /category/arbitrage/
 ---
-
-<h4 class="exa">All posts related to <b>bitcoin arbitrage</b> or <b>altcoin arbitrage</b></h4>
 
 {{ site.ads.aads728 }}
 <br>
