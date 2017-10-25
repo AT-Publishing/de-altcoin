@@ -12,6 +12,8 @@ const filesToCache = [
   "https://fonts.googleapis.com/css?family=Droid+Sans:400,700|Slabo+27px",
 
   
+  '/kryptowahrung-kaufen/',
+  
   '/monero-cold-storage-2017/',
   
   '/wyckoff/',

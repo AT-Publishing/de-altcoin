@@ -1,107 +1,125 @@
 ---
-layout: blog
-title: "Back to Basics: How to buy altcoins"
-description: "They say you need bitcoin to get altcoins but the fiat to alt markets are slowly appearing on previously bitcoin-only exchanges. For the <strike>gambling</strike> trading you need the liquidity of Alt/BTC pairs though."
+layout: forestry
+published: true
+
+date:  2017-10-16 11:56 +0700
+update: 2017-10-16 11:56 +0700
+tags: []
+comments: false
+note: 'User Guide'
+
+
 categories:
 - "exchanges"
 - "dash"
 - "zcash"
 - "eth"
-permalink: how-to-buy-altcoins/
+- "basics"
+
+title: "Back to Basics: Wo und wie Kryptowährungen kaufen"
+description: "Sie sagen, dass Sie Bitcoin brauchen, um Altcoins zu bekommen, aber die Fiat to Alt-Märkte tauchen langsam auf bisher nur Bitcoin-Börsen auf. Für den Handel mit <strike>Glücksspiel</strike> benötigen Sie jedoch die Liquidität von Alt / BTC-Paaren."
+
+permalink: kryptowahrung-kaufen/
 image:
-- "/img/eth/eth2.jpg"
+- "https://www.altcointrading.net/img/eth/eth2.jpg"
 image_alt:
-- "Ethereum, Monero and the rest of it: How to buy?"
-update: 2017-02-01
-tags:
-- "popular"
-comments: true
+- "Ethereum, Monero und sonstige: Wie kauft man Krypto?"
+
 ---
 
-{% amp700 border {{page.image[0]}} {{page.image_alt[0]}} %}
+> Es ist unglaublich, wie schnell sich die Märkte verändert haben. Dieser Artikel wurde erst [auf der EN Seite altcointrading.net](https://www.altcointrading.net/how-to-buy-altcoins/) im Januar 2017 geschrieben. Damals die Traders gewöhnlich bei Poloniex handelten und normalerweise Altcoin / BTC-Paare als ihren Altcoinhandel bezeichneten. Seitdem haben wir das Zeitalter des Tether-Tradings überschritten und schließlich haben die Altcoin / USD-Paare bei Bitfinex begonnen, ein beachtliches Volumen zu erwirtschaften, und andere Börsen fingen an, etablierte Coins wie LTC, XMR und ETH hinzuzufügen. Seitdem tauschen sich die Leute häufiger mit Altcoin/Fiatgeld aus und beziehen sich auf Altcoin/Bitcoin als "das Verhältnis" (ratio).
 
-_Image: {{page.image_alt[0]}}_
+Also -- Die besten Kryptowährung-Börsen die unterstützen Bitcoin und Altcoins:
 
-________________________
+### Kryptowahrung für Fiatgeld kaufen (EUR, USD)
 
+#### Bitstamp (EUR, USD -- SEPA Zahlungsabwicklung 1-3 Tage)
 
-{{ site.ads.aads728 }}
+**Sitz in:** EU
 
-#### Buying bitcoin first
+Bitstamp ist eine gute und zuverlässige Börse. Wenn Sie in der EU leben, können Sie ihnen eine SEPA schicken, die am nächsten Tag abgewickelt wird - obwohl sie manchmal Verzögerungen haben, insbesondere wenn neue Kunden einlaufen. Bitstamp nimmt auch US-Kunden an, sie können sogar Münzen mit einer Kreditkarte kaufen. Bitstamp hat ein Bankkonto in Slowenien, seien Sie also darauf vorbereitet, dass Ihre Bank Sie anrufen und fragen könnte, ob Sie wirklich irgendwo nach Slowenien Geld senden.
 
-Getting an altcoin for your bitcoins that you already bought on {% aff localbitcoins https://localbitcoins.com/?ch=4nq3 %} or elsewhere is the classic way to start holding or trading altcoins.
+Sie müssen vollständig überprüft werden, um Zugriff auf den Handel zu haben, und Sie werden feststellen, dass Bitstamp Einzahlungs- und Auszahlungslimits hat, die zusätzliche KYC in Form eines Fragebogens auslösen. Ihre Unterstützung ist responsive, was bei Cryptocurrency-Unternehmen selten gelte.
 
-These days, after 27 Jan 2017, it is vital to check if you're getting clean coins though. [Yesterday someone published a list of transactions](https://bitcointalk.org/index.php?topic=1766723.0) that proved the bitcoins stolen in the Bitfinex hack in august 2016 started moving. Apparently the hacker is now trying to move small chunks of the coins to bitcoin exchanges. It is likely that they might try to use a mixing service to clean the bitcoin or that they will even set up their own mixer.
+Der einzige Nachteil ist langsames Handelsengine und Gebührenrundung: Bitstamp rundet die Gebühr für jeden Teilkauf ab, was den gesamten Handel relativ teuer macht. Der Motor passt auch nur langsam, so dass es für Daytrading eine nervenaufreibende Erfahrung sein kann, wo Sie schließlich auf Marktaufträge zurückgreifen können, die vor dem Markt platziert werden.
 
-Therefore always check where did your bitcoins came from - even if you just deposited them for lending on Poloniex. You will probably not be getting back your original bitcoins but bitcoins with a different history.
+Es gibt keinen Kredit, aber Margin Trading ist in Arbeit.
 
-**Buy and hold**
-
-If you just want to buy an altcoin like Monero, Ether, Dash, Factom or Maid, you can use ShapeShift. You don't need a user account, you simply send in the money. You need to have bitcoins or an altcoin and a wallet address where you want to receive the altcoin you're buying.
-
-{% aff ShapeShift https://shapeshift.io/#/coins %}
-
-**Trading Alt/BTC pairs**
-
-The Mecca of altcoin trading. Poloniex usually lists new coins reasonably fast, all the intial trading of a new coin usually happens there. You can buy and sell on spot, you can long and short with margin and you can lend out any coin for interest. The web app is kind of sluggish at times but API is reliable.
-
-{% aff Poloniex https://poloniex.com %}
-
-Some smaller altcoins are not listed on Polo though. In such case they will probably be on Bittrex.
-
-{% aff Bittrex https://bittrex.com/home/markets %}
-
-Try and avoid Hitbtc, they don't have a good reputation.
+**Fazit:** Bitstamp ist eine gute Börse fürs Kaufen, Daytrading kann man woanders besser und billiger schaffen.
 
 
-{{ site.ads.aads728 }}
+#### Bitfinex (USD -- Einzahlung and Auszahlung nur ab 50k USD möglich)
 
-#### Getting altcoins for fiat
+**Sitz in:** British Virgin Islands
 
-**Kraken** / US (SEPA, wire)
+Es ist nicht einfach, Geld zu und von Bitfinex zu überweisen, aber die Handelsschnittstelle hat keine Konkurrenz. Wenn Sie Margin handeln wollen, Bitfinex ist heutzutage (leider!) immer noch die beste Wahl.
 
-Altcoins: Ether, Ether Classic, Iconomi, Litecoin, Augur, Dogecoin, Lumen, Monero, Ripple, Zcash
+Leute vertrauen Bitfinex nicht, weil ihre Muttergesellschaft mit Tether beschäftigt ist -- das Thema der populären Verschwörungstheorien.
 
-{% aff Kraken fee structure coin by coin https://www.kraken.com/en-gb/help/fees %} shows the rates for buying an altcoin with cash might be easily the lowest for you. You need to get verified though and the support is kind of slow. And in addition to that, on slower days the less popular markets are pretty much abandoned.
+Der Kundensupport reagiert gewöhnlich gar nicht.
 
-**Bitfinex** / HK (wire only)
+Der Margin-Handel und die Margin-Finanzierung sind aktiviert und funktionieren meistens in Ordnung, aber Sie bekommen gelegentlich einen Fick.
 
-Altcoins: Ether, Ether Classic, Zcash, Monero, DASH, Litecoin
+Kryptowährungsdepots werden oft verschroben, besonders bei ETH und IOTA. Achten Sie auf PSAs wie das Senden von ETH von Bitstamp.
 
-{% aff Get 10% off fees on Bitfinex https://www.bitfinex.com/?refcode=5egV78YtlC %}
+Fazit: Um bei Fiat zu kaufen, kontaktieren Sie bitte Ihren Kundenservice und fragen Sie, ob sie bereit sind, eine Fiat-Einzahlung in Höhe Ihrer Fiat-Währung zu tätigen. Wenn sie Ja sagen, werden Sie Ihren Altcoin vom liquidesten Markt oder vielleicht von OTC bekommen, was sie auch tun, und Sie zahlen eine niedrigere Gebühr als an anderen Börsen. Bitfinex wurde im August 2016 gehackt, aber wenn Sie bereit sind, nur für die Dauer Ihres Handels Geld auf Bitfinex zu halten, sind Sie einigermaßen sicher.
 
-It is not cheap to get money to Bitfinex but their trading interface has no competition. If you want to margin  trade one of the coins that are listed on Bitfinex, go for it.
+[Mach dir ein Konto bei Bitfinex mit 10% Gebühren abschlag >>](https://www.bitfinex.com/?refcode=5egV78YtlC)
 
-**Coincheck** / JP (wire or debit card - overseas cards limited to 10.000 yen a day)
 
-Altcoins: Ether, Ether Classic, Lisk, Factom, Monero, Augur, Ripple, Zcash
+#### Kraken (EUR, USD -- SEPA verfügbar)
 
-{% aff Coincheck has a zero-fee campaign through Feb and Mar 2017 https://coincheck.com/?c=IHffq2cUTu4 %}
+**Sitz in:** USA
 
-Coincheck is one of the Japanese exchanges that are now getting the speculators who used to be trading bitcoin in China for as long as there was the zero-fee policy. Coincheck is one of the smaller exchanges. [Bitflyer](https://bitflyer.jp/discussion/roger-ver?top_link&footer) seems to be the one that profits from the Chinese ban on zerofee trading but Coincheck is the one that has a fine selection of altcoins.
+Kraken ist einer der am wenigsten zuverlässigen Börsen in Bezug auf die Plattformverfügbarkeit - er stürzt jedes Mal ab, wenn es eine erhebliche Kursbewegung gibt.
 
-**BTC-e** / RU (SEPA, eWallets, wire)
+Kraken Gebühren Struktur zeigt, dass die Gebühren recht niedrig sind, sicherlich niedriger als Bitstamp, es ist jedoch naiv zu denken man kann bei Kraken die Limit Orders nutzen. Die Engine ist so schlimm dass manchmal auch die Marktaufträge versagen.
 
-Altcoins: Litecoin, Dash, Peercoin, Namecoin, Novacoin, Ether
+Die Firma hat kürzlich das Charting-Portal Cryptowat.ch erworben und die neue Schnittstelle bei trade.kraken.com ist etwas besser, aber die Funktionalität ist immer noch sehr unterdurchschnittlich.
 
-{% aff Trading fee is always 0.2 perc https://btc-e.com/page/2 %} and prices are lower but deposit and withdrawal fees make up for it.
+Was ist aber sehr sehr positiv ist dass Kraken hatte niemals Bankprobleme, Sperren oder so was. Banking funktioniert sehr gut, SEPA ist verfügbar und wird schnell abgewickelt (in Deutschland muss man voll überprüft werden) -- das einzige Problem ist "nur" die Engine. Das braucht "nur" gute Entwickler, oder? Man kann es sehr positiv finden dass Kraken hatte bisher keine Probleme mit Regelungen und Gesetz. Allerdings gaben es in September 2017 bei Kraken offene Stellen für React JS Entwickler, also anscheinend sind einige Arbeiten da.
 
-**BitStamp** / EU (SEPA, wire)
+**Fazit:** Für jetzt, auf Kraken verzichten.
 
-Altcoins: Ripple
+### Bitcoin erhalten und alternative Kryptowährungen für Bitcoin kaufen
 
-{% aff Bitstamp's tradeview https://www.bitstamp.net/market/tradeview/ %} is good but liquidity is next to nonexistent. When they setup a new market, like just now with Ripple, nobody is really running in to trade there.
+Einen Altcoin für Ihre Bitcoins zu bekommen, den Sie bereits auf LocalBitcoins oder bei bitcoin.de gekauft haben, ist der klassische Weg, um Altcoins zu halten oder zu handeln.
 
-{{ site.ads.aads728 }}
 
-#### Altcoin Storage: The Altcoin Wallets
+#### Kaufen und halten kleine Mengen von Kryptowährung
 
-You have two options - an altcoin-specific wallet or a multi-altcoin wallet. In any case, it is always a bad idea to leave your coin on an exchange. That doesn't mean that an altcoin in an altcoin-specific wallet is automatically 100% safe though.
+Wenn man nur schnell einen Altcoin wie Monero, Ether, Dash, Factom oder andere kaufen will, kann man ShapeShift verwenden. Die Gebühren sind etwas höher - im Grunde handeln die Market-Makern von Shapeshift bei Poloniex und Bittrex, damit es die ShapeShift Kunden nicht tun müssen - aber wenn man nur ein paar hundert Dollar wert kaufen will, könnte es eine praktikable Option sein.
 
-Keep in mind that all altcoins are works in progress - even the big ones like Ether. **There are bugs in the software**. [See the Ethereum's Mist release notes on Github](https://github.com/ethereum/mist/releases)
+Man benötigt kein Benutzerkonto, Sie senden einfach das Geld ein. Du musst Bitcoins oder eine alternative Kryptowährung und eine Wallet haben, an die du den Altcoin senden möchtest. Einige Desktop-Wallets haben bereits Shapeshift an Bord - wie [Jaxx](https://jaxx.io) und [Exodus](https://exodus.io).
 
-Because of that, proprietary wallets might not always be the best bet. The Jaxx might be much better - but it doesn't support all the altcoins.
+#### Kaufen und halten größere Mengen von Kryptowährung
 
-You will need to compromise a bit but it certainly won't hurt if you simulate cold storage by having your desktop wallets on a computer that is mostly offline and that you don't use for your day to day web browsing or downloading.
+Im Allgemeinen werden Sie besser mit Bitstamp, Bitfinex oder Bittrex für größere BTC-to-Altcoin-Trades arbeiten.
 
-[Full post on altcoin wallets here](/altcoin-wallets/).
+Wählen Sie nach Ihren Wünschen:
+
+* Bitstamp ist der einzige, der Sie verifiziert haben muss.
+* Bittrex hat eine Rückzugsgrenze von 100 BTC im Wert von einem Tag für anonyme Konten.
+* Bitfinex hat die niedrigsten Gebühren und auch OTC (over the counter).
+
+### Kryptowährung aktiv traden
+
+Das ehemalige Mekka des Altcoinhandels war Poloniex. Sie verzeichneten viele neue Coins schnell. Poloniex hat Spot, Margin und Kreditvergabe - aber die Website ist zu verschroben, voller Käfer, der Support reagiert nicht mehr.
+
+#### Bittrex
+
+Bittrex ist der Ort heutzutage. Die haben so viele Märkte und die gelegentliche Schuld bei automatisierten Market-Makern sorgt für nette Arbitrage-Möglichkeiten, wenn Sie sie fangen können. Der Support reagiert jedoch auch oft nicht.
+
+#### Kleine Kryptowährung-Börsen
+
+* ICO-Tokens werden heutzutage zuerst auf Liqui oder EtherDelta gelistet.
+* Token, von denen bisher niemand gehört hat, wie SAN, werden auf Bitfinex gelistet.
+* Auf Hitbtc verzichten, sie haben keinen guten Ruf.
+
+### Krypto-Wallets
+
+Es ist immer eine schlechte Idee Coins auf einer Börse zu lassen. Das bedeutet auber auch nicht, dass deine Krypto in einer altcoin-spezifischen Geldbörse **automatisch** 100% sicher ist.
+
+Denke daran, dass alle Kryptowährungen noch im Gange sind - auch die großen wie Ether. Es gibt Fehler im Code. Siehe die Mist-Versionshinweise von Ethereum auf Github.
+
+Man muss ein wenig Kompromisse eingehen, aber es wird sicherlich nicht schaden, wenn du Cold Storage simulierst, indem du deine Desktop-Wallets auf einem Computer hast, der zumeist offline ist und nicht für das tägliche Surfen oder Herunterladen im Internet verwendet wird.

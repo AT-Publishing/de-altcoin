@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
     <url>
-      <loc>https://de.altcointrading.net/monero-cold-storage-2017/</loc>
+      <loc>http://localhost:4000/monero-cold-storage-2017/</loc>
       <news:news>
         <news:publication>
           <news:name>Altcoin Trading</news:name>
           <news:language>de</news:language>
         </news:publication>
         <news:genres>Blog, OpEd, Opinion</news:genres>
-        <news:publication_date>2017-03-20T20:20:00+01:00</news:publication_date>
+        <news:publication_date>2017-03-20T20:20:00+07:00</news:publication_date>
         <news:title>Monero Cold-Storage: Aktueller Zustand</news:title>
         <news:keywords>Handel, Kryptowährung, Ethereum, Monero, Dash, Bitcoin, Altcoin Trading</news:keywords>
         

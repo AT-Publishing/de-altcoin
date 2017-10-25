@@ -6,7 +6,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-      <loc>https://de.altcointrading.net</loc>
+      <loc>http://localhost:4000</loc>
       <xhtml:link rel="alternate" hreflang="en-us" href="http://www.altcointrading.net/"/>
       <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/"/>
     </url>
@@ -42,44 +42,49 @@
     </url>
     
     <url>
-      <loc>https://de.altcointrading.net/category/arbitrage/</loc>
+      <loc>http://localhost:4000/category/arbitrage/</loc>
       
     </url>
     
     <url>
-      <loc>https://de.altcointrading.net/category/altcoins/</loc>
+      <loc>http://localhost:4000/category/altcoins/</loc>
       
     </url>
     
     <url>
-      <loc>https://de.altcointrading.net/category/exchanges/</loc>
+      <loc>http://localhost:4000/category/exchanges/</loc>
       
     </url>
     
     <url>
-      <loc>https://de.altcointrading.net/category/trading/</loc>
+      <loc>http://localhost:4000/category/trading/</loc>
       
     </url>
     
     <url>
-      <loc>https://de.altcointrading.net/category/wallets/</loc>
+      <loc>http://localhost:4000/category/wallets/</loc>
       
     </url>
     
     
     <url>
-      <loc>https://de.altcointrading.net/monero-cold-storage-2017/</loc>
+      <loc>http://localhost:4000/kryptowahrung-kaufen/</loc>
+      
+    </url>
+    
+    <url>
+      <loc>http://localhost:4000/monero-cold-storage-2017/</loc>
       
       <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/monero-cold-storage-2017/"/>
-      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/monero-cold-storage-2017/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="http://localhost:4000/monero-cold-storage-2017/"/>
       
     </url>
     
     <url>
-      <loc>https://de.altcointrading.net/wyckoff/</loc>
+      <loc>http://localhost:4000/wyckoff/</loc>
       
       <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/wyckoff-avoidance/"/>
-      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/wyckoff/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="http://localhost:4000/wyckoff/"/>
       
     </url>
     
