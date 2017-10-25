@@ -3,10 +3,10 @@
   <channel>
     <title>Altcoin Trading</title>
     <description>Forex der Kryptowährungen, Bitcoin als Basis.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Oct 2017 12:43:48 +0700</pubDate>
-    <lastBuildDate>Wed, 25 Oct 2017 12:43:48 +0700</lastBuildDate>
+    <link>https://de.altcointrading.net/</link>
+    <atom:link href="https://de.altcointrading.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 25 Oct 2017 12:47:12 +0700</pubDate>
+    <lastBuildDate>Wed, 25 Oct 2017 12:47:12 +0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -112,8 +112,8 @@
 &lt;p&gt;Man muss ein wenig Kompromisse eingehen, aber es wird sicherlich nicht schaden, wenn du Cold Storage simulierst, indem du deine Desktop-Wallets auf einem Computer hast, der zumeist offline ist und nicht für das tägliche Surfen oder Herunterladen im Internet verwendet wird.&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Oct 2017 11:56:00 +0700</pubDate>
-        <link>http://localhost:4000/kryptowahrung-kaufen/</link>
-        <guid isPermaLink="true">http://localhost:4000/kryptowahrung-kaufen/</guid>
+        <link>https://de.altcointrading.net/kryptowahrung-kaufen/</link>
+        <guid isPermaLink="true">https://de.altcointrading.net/kryptowahrung-kaufen/</guid>
         
         
         <category>exchanges</category>
@@ -198,8 +198,8 @@
 &lt;p&gt;Ebenso ist die offizielle web-client mymonero.com sollte sich eine mobile Schnittstelle, die später dieses Jahr. Mymonero.com ist voll funktionsfähig, was bis jetzt die offensichtliche Idee wäre, zu verwenden, was ist da jetzt so ein webview erstellen der grundlegenden online-only-app. &lt;a href=&quot;https://www.reddit.com/r/Monero/comments/5tfz27/why_not_use_opensourced_mymonero_fronend_as_quick/&quot;&gt;Und einige haben ja auch gelungen, mit that&lt;/a&gt;, hoffentlich ist diese Erwartung realistisch.&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Mar 2017 20:20:00 +0700</pubDate>
-        <link>http://localhost:4000/monero-cold-storage-2017/</link>
-        <guid isPermaLink="true">http://localhost:4000/monero-cold-storage-2017/</guid>
+        <link>https://de.altcointrading.net/monero-cold-storage-2017/</link>
+        <guid isPermaLink="true">https://de.altcointrading.net/monero-cold-storage-2017/</guid>
         
         
         <category>coins</category>
@@ -315,8 +315,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 08 Mar 2017 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/wyckoff/</link>
-        <guid isPermaLink="true">http://localhost:4000/wyckoff/</guid>
+        <link>https://de.altcointrading.net/wyckoff/</link>
+        <guid isPermaLink="true">https://de.altcointrading.net/wyckoff/</guid>
         
         <category>popular</category>
         
