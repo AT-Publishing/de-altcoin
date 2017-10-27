@@ -3,6 +3,7 @@ layout: coin
 title: eth
 description: "All altcoin trading posts about Ethereum, ETH trading, ETH hodling, Ether classic trading and investment."
 permalink: /coin/eth/
+english: /coin/eth/
 image:
 - "/img/eth/eth4.jpg"
 - "/img/trading/ethbtc-postfork.png"

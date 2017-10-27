@@ -3,6 +3,7 @@ layout: page
 title: "Altcoin Trading"
 description: "Wie kann man Kryptowährung handeln, technische Analyse, Strategie."
 permalink: /category/trading/
+english: category/trading/
 ---
 
 <p>{{ site.ads.aads728 }}</p>

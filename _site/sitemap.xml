@@ -44,25 +44,40 @@
     <url>
       <loc>https://de.altcointrading.net/category/arbitrage/</loc>
       
+      <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/category/arbitrage/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/category/arbitrage/"/>
+      
     </url>
     
     <url>
       <loc>https://de.altcointrading.net/category/altcoins/</loc>
+      
+      <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/category/altcoins/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/category/altcoins/"/>
       
     </url>
     
     <url>
       <loc>https://de.altcointrading.net/category/exchanges/</loc>
       
+      <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/category/exchanges/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/category/exchanges/"/>
+      
     </url>
     
     <url>
       <loc>https://de.altcointrading.net/category/trading/</loc>
       
+      <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/category/trading/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/category/trading/"/>
+      
     </url>
     
     <url>
       <loc>https://de.altcointrading.net/category/wallets/</loc>
+      
+      <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/category/wallets/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/category/wallets/"/>
       
     </url>
     

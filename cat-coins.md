@@ -3,6 +3,7 @@ layout: page
 title: "Altcoins mit Zukunft"
 description: "Welche Kryptowährungen haben Zukunft? Welche Kryptowährungen kaufen?"
 permalink: /category/altcoins/
+english: category/altcoins/
 ---
 
 {{ site.ads.aads728 }}

@@ -3,6 +3,7 @@ layout: coin
 title: xmr
 description: "All altcoin trading posts about Monero, XMR trading, XMR hodling."
 permalink: /coin/xmr/
+english: /coin/xmr/
 image:
 - "/img/monero-logo.jpg"
 - "/img/wallets/xmr-lightwallet.png"

@@ -3,6 +3,7 @@ layout: coin
 title: dash
 description: "Alle Beiträge über DASH, DASH-Wallet und DASH-Trading."
 permalink: /coin/dash/
+english: /coin/dash/
 image:
 - "/img/coins/dash.png"
 - "https://www.tradingview.com/x/Hc2N2FE0/"

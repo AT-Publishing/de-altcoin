@@ -3,6 +3,7 @@ layout: page
 title: "Altcoin Arbitrage"
 description: "Beiträge zu der Arbitrage-Strategie beim Altcointrading"
 permalink: /category/arbitrage/
+english: category/arbitrage/
 ---
 
 {{ site.ads.aads728 }}

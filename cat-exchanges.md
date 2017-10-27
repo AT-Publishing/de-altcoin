@@ -3,6 +3,7 @@ layout: page
 title: "Börsen"
 description: "Wo man Kryptowährung kaufen und handeln kann, wie hoch sind die Gebühren."
 permalink: /category/exchanges/
+english: category/exchanges/
 ---
 
 <p>{{ site.ads.aads728 }}</p>

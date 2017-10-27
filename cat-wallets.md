@@ -3,6 +3,7 @@ layout: page
 title: "Altcoin Wallets"
 description: "Wählen Sie Wallet für Ihre Altcoins. Auch Hardware-Wallets unterstützen jetzt Ethereum, DASH und ZCASH."
 permalink: /category/wallets/
+english: category/wallets/
 ---
 
 <p>{{ site.ads.trezorlong }}</p>
