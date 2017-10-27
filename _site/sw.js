@@ -14,6 +14,8 @@ const filesToCache = [
   
   '/kryptowahrung-kaufen/',
   
+  '/bitfinex-banking/',
+  
   '/monero-cold-storage-2017/',
   
   '/wyckoff/',

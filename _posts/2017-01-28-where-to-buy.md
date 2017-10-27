@@ -2,6 +2,9 @@
 layout: forestry
 published: true
 
+permalink: kryptowahrung-kaufen/
+english: 'how-to-buy-altcoins/'
+
 date:  2017-10-16 11:56 +0700
 update: 2017-10-16 11:56 +0700
 tags: []
@@ -19,7 +22,6 @@ categories:
 title: "Back to Basics: Wo und wie Kryptowährungen kaufen"
 description: "Sie sagen, dass Sie Bitcoin brauchen, um Altcoins zu bekommen, aber die Fiat to Alt-Märkte tauchen langsam auf bisher nur Bitcoin-Börsen auf. Für den Handel mit <strike>Glücksspiel</strike> benötigen Sie jedoch die Liquidität von Alt / BTC-Paaren."
 
-permalink: kryptowahrung-kaufen/
 image:
 - "https://www.altcointrading.net/img/eth/eth2.jpg"
 image_alt:

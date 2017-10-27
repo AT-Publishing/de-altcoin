@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
     <url>
+      <loc>https://de.altcointrading.net/bitfinex-banking/</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Altcoin Trading</news:name>
+          <news:language>de</news:language>
+        </news:publication>
+        <news:genres>Blog</news:genres>
+        <news:publication_date>2017-08-06T07:00:00+07:00</news:publication_date>
+        <news:title>Bitfinex plant nicht, die Bankangelegenheiten für Privatkunden zu lösen</news:title>
+        <news:keywords>Handel, Kryptowährung, Ethereum, Monero, Dash, Bitcoin, Altcoin Trading</news:keywords>
+        
+      </news:news>
+    </url>
+    
+    <url>
       <loc>https://de.altcointrading.net/monero-cold-storage-2017/</loc>
       <news:news>
         <news:publication>

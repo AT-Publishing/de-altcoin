@@ -70,6 +70,17 @@
     <url>
       <loc>https://de.altcointrading.net/kryptowahrung-kaufen/</loc>
       
+      <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/how-to-buy-altcoins/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/kryptowahrung-kaufen/"/>
+      
+    </url>
+    
+    <url>
+      <loc>https://de.altcointrading.net/bitfinex-banking/</loc>
+      
+      <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/bitfinex-banking/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/bitfinex-banking/"/>
+      
     </url>
     
     <url>
