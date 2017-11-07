@@ -1,13 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Altcoin Trading</title>
+    <title>Altcoin Trading auf Deutsch</title>
     <description>Forex der Kryptowährungen, Bitcoin als Basis.</description>
+    <image>
+      <url>https://de.altcointrading.net/img/logo.jpg</url>
+      <title>Altcoin Trading</title>
+      <link>https://de.altcointrading.net/</link>
+    </image>
     <link>https://de.altcointrading.net/</link>
     <atom:link href="https://de.altcointrading.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Oct 2017 13:58:41 +0700</pubDate>
-    <lastBuildDate>Fri, 27 Oct 2017 13:58:41 +0700</lastBuildDate>
-    <generator>Jekyll v3.4.3</generator>
+    <pubDate>Tue, 07 Nov 2017 20:48:42 +0700</pubDate>
+    <lastBuildDate>Tue, 07 Nov 2017 20:48:42 +0700</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Hardware-Wallets und Bitcoin SegWit2x Hardfork: Ledger vs Trezor auf Deutsch</title>
+        <description>&lt;p&gt;Bitcoin ist wieder vor einer Hardfork - dieses Mal ist der Konsens, dass es kein Nicht-Ereignis wie die Bitcoin Gold Fork sein wird.&lt;/p&gt;
+
+&lt;p&gt;Für einige Händler ist eine Bitcoin Hardfork nur so eine Dividende - sie erhalten “kostenlose” Coins, die sie zu ihrem Vorrat hinzufügen können, um sie entweder zu tauschen, für BTC zu verkaufen oder auszuzahlen.&lt;/p&gt;
+
+&lt;p&gt;Die SegWit2x-Schöpfer bestehen jedoch darauf, dass 2x-Blockchain der neue Bitcoin sein wird und dass Legacy-Blockchain keine Zukunft hat - was bedeutet, dass sie keinen Wiedergabeschutz implementiert haben (Replay Protection). Keine Replay-Protection heißt Transaktionen, die über die 2x-Chain weitergeleitet werden, können auch auf der alten Bitcoin-Kette wiedergegeben werden. Im Edeffekt ist es schwieriger die zwei Chains zu teilen wenn man beide Chains unabhängig behalten will.&lt;/p&gt;
+
+&lt;p&gt;SegWit2x soll auf dem Bitcoin-Block 494784 eingeführt werden (um den 16. November herum).&lt;/p&gt;
+
+&lt;h2 id=&quot;ledger-wallet-und-segwit2x&quot;&gt;Ledger Wallet und SegWit2x&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ledger.fr/2017/11/06/preparing-segwit2x-hard-fork/&quot;&gt;Lies die volle Ankündigung von Ledger hier.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ledger Wallet wird sowohl 1x- als auch 2x-Ketten unterstützen.&lt;/p&gt;
+
+&lt;p&gt;Von der generischsten Benutzerperspektive aus empfiehlt Ledger das neueste Firmware-Update herunterzuladen, um die Schnittstelle für die Blockchainteilung zu erhalten.&lt;/p&gt;
+
+&lt;p&gt;Man muss die Coins teilen nur wenn man sowohl in die 1x- als auch die 2x-Blockchain interessiert ist, und diese unabhängig voneinander bewerten will. Aufgrund des fehlenden Wiedergabeschutzes muss man die Coins in der von Ledger bereitgestellten Schnittstelle verarbeiten um eine Wiederholung der Transaktionen zu vermeiden.&lt;/p&gt;
+
+&lt;p&gt;Für die Aufteilung bietet Ledger Wallet zwei Möglichkeiten: Eine basiert auf einem Drittanbieter-Tool - die ist manuell – und eine die Ledgers eigene ist. Die zweite Variante ist automatisiert. Die automatisierte Variante (verfügbar bei Ledger Nano S und Blau, aber nicht bei Ledger Nano) ist der bevorzugte Weg denn es ist auch für Anfänger geeignet.&lt;/p&gt;
+
+&lt;p&gt;Ledger nennt den automatischen Prozess &lt;em&gt;“Halbverwahrer”-Prozess&lt;/em&gt;: Sie werden die Coins der Benutzer verderben, was innerhalb der Ledger-Architektur möglich ist, ohne dass die Benutzer den Zugriff auf ihre Schlüssel übergeben.&lt;/p&gt;
+
+&lt;p&gt;Ledger wird weitere Details näher an der Fork liefern.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wenn du noch keinen &lt;a href=&quot;https://www.ledgerwallet.com/r/e274?path=/products/ledger-nano-s&quot;&gt;Ledger Nano S&lt;/a&gt; hast, ist es wahrscheinlich schon zu spät einen für die SegWit2x-Fork zu kaufen. Du kannst immer noch &lt;a href=&quot;https://www.ledgerwallet.com/r/e274?path=/products/ledger-nano-s&quot;&gt;hier einen Ledger Nano S bestellen (zur Zeit sind sie auf Lager!)&lt;/a&gt;, wahrscheinlich ist dies nicht die letzte Bitcoin-Fork.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;containter-center&quot;&gt;&lt;a id=&quot;gtm-ledger-728-90&quot; href=&quot;https://www.ledgerwallet.com/r/e274?path=/products/ledger-nano-s&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;&lt;amp-img itemprop=&quot;image&quot; src=&quot;/ads/ledger_728-90_animated.gif&quot; alt=&quot;Ledger wallet for bitcoin and altcoins&quot; data-original-width=&quot;728px&quot; data-original-height=&quot;90px&quot; layout=&quot;responsive&quot; width=&quot;728px&quot; height=&quot;90px&quot;&gt;&lt;/amp-img&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;trezor-wallet-und-segwit2x&quot;&gt;Trezor Wallet und SegWit2x&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.trezor.io/trezor-statement-segwit2x-2x-hard-fork-b2x-f245fe4f0fb&quot;&gt;Lies die volle Ankündigung von SatoshiLabs hier.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://shop.trezor.io?a=fany@tutanota.com&quot;&gt;Trezor Wallet von SatoshiLabs&lt;/a&gt; wird sowohl 1x als auch 2x Blockchain unterstützen.&lt;/p&gt;
+
+&lt;p&gt;Wie bei Ledger, man muss die Bitcoins manuell aufteilen falls man beide Chains unabhängig voneinander nutzen will.&lt;/p&gt;
+
+&lt;p&gt;Dieser Vorgang wird bei Trezor nur manuell durchgeführt. SatoshiLabs werden implementieren ein für diese Fork spezifisches Splitting-Tool (d.h. ein Tool für eine Hardfork ohne Wiedergabeschutz).&lt;/p&gt;
+
+&lt;p&gt;SatoshiLabs verdeutlichen &lt;a href=&quot;https://blog.trezor.io/trezor-statement-segwit2x-2x-hard-fork-b2x-f245fe4f0fb&quot;&gt;in dem offiziellen Blogbeitrag&lt;/a&gt;, dass die Blockchainteilung ohne Gewährleistungen geliefert wird - wenn etwas passiert mit deinen Coins, sind SatoshiLabs nicht verantwortlich.&lt;/p&gt;
+
+&lt;p&gt;SatoshiLabs werden &lt;a href=&quot;https://blog.trezor.io/trezor-statement-segwit2x-2x-hard-fork-b2x-f245fe4f0fb&quot;&gt;den Trezor-Blogbeitrag&lt;/a&gt; aktualisieren näher an der Fork - sobald das Splitting-Tool implementiert ist.&lt;/p&gt;
+
+&lt;h4 id=&quot;zusammenfassung&quot;&gt;Zusammenfassung&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Du erhältst die Coins von der 2x-Blockchain sowie mit Ledger als auch mit Trezor. Es scheint wieder ein Gewinnpunkt für Ledger Wallet zu sein: Die Blockchainteilung Features die Ledger anbietet sind klar verständlich auch für die Laien, und Ledger machen es bekannt es gab einige Sicherheitsverbesserungsarbeiten.&lt;/em&gt;&lt;/p&gt;
+</description>
+
+        <author>tradingfanbois@altcointrading.net</author>
+        <webmaster>info@altcointrading.net</webmaster>
+        
+        <pubDate>Tue, 07 Nov 2017 20:12:00 +0700</pubDate>
+        <link>https://de.altcointrading.net/segwit2x-ledger-trezor</link>
+        <guid isPermaLink="true">https://de.altcointrading.net/segwit2x-ledger-trezor</guid>
+        
+        <category>segwit2x</category>
+        
+        <category>bitcoin</category>
+        
+        <category>bitcoin fork</category>
+        
+        <category>trezor</category>
+        
+        <category>ledger</category>
+        
+        
+        <category>basics</category>
+        
+      </item>
     
       <item>
         <title>Back to Basics: Wo und wie Kryptowährungen kaufen</title>
@@ -111,6 +189,10 @@
 
 &lt;p&gt;Man muss ein wenig Kompromisse eingehen, aber es wird sicherlich nicht schaden, wenn du Cold Storage simulierst, indem du deine Desktop-Wallets auf einem Computer hast, der zumeist offline ist und nicht für das tägliche Surfen oder Herunterladen im Internet verwendet wird.&lt;/p&gt;
 </description>
+
+        <author>@altcointrading.net</author>
+        <webmaster>info@altcointrading.net</webmaster>
+        
         <pubDate>Mon, 16 Oct 2017 11:56:00 +0700</pubDate>
         <link>https://de.altcointrading.net/kryptowahrung-kaufen/</link>
         <guid isPermaLink="true">https://de.altcointrading.net/kryptowahrung-kaufen/</guid>
@@ -156,6 +238,10 @@
 
 &lt;p&gt;Update: &lt;a href=&quot;https://www.youtube.com/watch?v=rhu4c8sL0AE&quot;&gt;Link zu  Youtube&lt;/a&gt;&lt;/p&gt;
 </description>
+
+        <author>KarlVonBahnhof@altcointrading.net</author>
+        <webmaster>info@altcointrading.net</webmaster>
+        
         <pubDate>Sun, 06 Aug 2017 07:00:00 +0700</pubDate>
         <link>https://de.altcointrading.net/bitfinex-banking/</link>
         <guid isPermaLink="true">https://de.altcointrading.net/bitfinex-banking/</guid>
@@ -236,6 +322,10 @@
 
 &lt;p&gt;Ebenso ist die offizielle web-client mymonero.com sollte sich eine mobile Schnittstelle, die später dieses Jahr. Mymonero.com ist voll funktionsfähig, was bis jetzt die offensichtliche Idee wäre, zu verwenden, was ist da jetzt so ein webview erstellen der grundlegenden online-only-app. &lt;a href=&quot;https://www.reddit.com/r/Monero/comments/5tfz27/why_not_use_opensourced_mymonero_fronend_as_quick/&quot;&gt;Und einige haben ja auch gelungen, mit that&lt;/a&gt;, hoffentlich ist diese Erwartung realistisch.&lt;/p&gt;
 </description>
+
+        <author>@altcointrading.net</author>
+        <webmaster>info@altcointrading.net</webmaster>
+        
         <pubDate>Mon, 20 Mar 2017 20:20:00 +0700</pubDate>
         <link>https://de.altcointrading.net/monero-cold-storage-2017/</link>
         <guid isPermaLink="true">https://de.altcointrading.net/monero-cold-storage-2017/</guid>
@@ -353,6 +443,10 @@
   &lt;li&gt;&lt;a href=&quot;https://stockcharts.com/articles/wyckoff/&quot;&gt;https://stockcharts.com/articles/wyckoff/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+
+        <author>@altcointrading.net</author>
+        <webmaster>info@altcointrading.net</webmaster>
+        
         <pubDate>Wed, 08 Mar 2017 00:00:00 +0700</pubDate>
         <link>https://de.altcointrading.net/wyckoff/</link>
         <guid isPermaLink="true">https://de.altcointrading.net/wyckoff/</guid>

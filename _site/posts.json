@@ -1,6 +1,13 @@
 [
   
   {
+    "title":"Hardware-Wallets und Bitcoin SegWit2x Hardfork: Ledger vs Trezor auf Deutsch",
+    "date":"2017-11-07 20:12:00 +0700"
+    "content":"Bei allen Hardware-Wallets besitzt man die privaten Schlüssel in Form des Seeds, so dass man die SegWit2x-Coins erhält. Die Einlösungsprozedur ist jedoch unterschiedlich je nach Wallet."
+    "url":"/segwit2x-ledger-trezor"
+  },
+  
+  {
     "title":"Back to Basics: Wo und wie Kryptowährungen kaufen",
     "date":"2017-10-16 11:56:00 +0700"
     "content":"Sie sagen, dass Sie Bitcoin brauchen, um Altcoins zu bekommen, aber die Fiat to Alt-Märkte tauchen langsam auf bisher nur Bitcoin-Börsen auf. Für den Handel mit &lt;strike&gt;Glücksspiel&lt;/strike&gt; benötigen Sie jedoch die Liquidität von Alt / BTC-Paaren."

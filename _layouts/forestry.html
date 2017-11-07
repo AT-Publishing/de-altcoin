@@ -2,24 +2,6 @@
 layout: default-news
 ---
 
-<style media="screen">
-.google-news-tag {
-  display: block;
-  background: #ffdc00;
-  padding: 4px 15px;
-  color: #fff;
-  font-size: 100%;
-  font-weight: 600;
-  position: relative;
-  top: 0;
-  width: auto;
-  float: left;
-}
-.maincontent ul {
-    list-style: square;
-    padding-left: 17px;
-}
-</style>
 <div class="container">
   <div class="row">
 
@@ -29,16 +11,23 @@ layout: default-news
      </div>
        {% if page.stories %}<div class="google-news-tag">{{ page.genres }}</div>&nbsp;{% endif %}
        <span id="note">
-         {% if page.update %}<time datetime="{{ page.update | date_to_xmlschema }}">Last Update {{ page.update | date: "%d %b %Y at %R" }}</time>.&nbsp;{% endif %}
-         Published <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %b %Y at %R" }}</time>
-         {% if page.author %}<span class="guest">&nbsp;&middot;&nbsp;By <a rel="nofollow" target="_blank" href="{{ page.author }}">{{ page.author_name }}</a></span>{% endif %}
-         {% if page.guest %}<span class="guest">&nbsp;&middot;&nbsp;Guest post by <a rel="nofollow" target="_blank" href="{{ page.author }}">{{ page.author_name }}</a></span>{% endif %}
+         {% if page.update %}<time datetime="{{ page.update | date_to_xmlschema }}">Zulätzt geupdatet am {{ page.update | date: "%d %b %Y at %R" }}</time>.&nbsp;{% endif %}
+         Veröffentlicht am <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %b %Y at %R" }}</time>
+         {% if page.author %}<span class="guest">&nbsp;&middot;&nbsp;Von <a rel="nofollow" target="_blank" href="{{ page.author }}">{{ page.author_name }}</a></span>{% endif %}
+         {% if page.guest %}<span class="guest">&nbsp;&middot;&nbsp;Guestbeitrag von <a rel="nofollow" target="_blank" href="{{ page.author }}">{{ page.author_name }}</a></span>{% endif %}
        </span>
        <h4 class="post post-main">
           <strong>
             {{ page.title }}
           </strong>
         </h4>
+        {% if page.english %}
+          <h5 class="post post-main">
+            <a rel="nofollow" href="https://www.altcointrading.net/{{page.english}}">
+              ENGLISCHE VERSION LESEN
+            </a>
+          </h5>
+        {% endif %}
         <br>
         <article class="maincontent">
           <div>
@@ -46,7 +35,7 @@ layout: default-news
           </div>
           <p>
             <em>
-              Image: {{page.image_alt[0]}}
+              Bild: {{page.image_alt[0]}}
             </em>
           </p>
           <p>
@@ -97,7 +86,7 @@ layout: default-news
               "@context": "http://schema.org",
               "@type": "Person",
               "name": "{{ page.author_name }}",
-              "url": "https://www.altcointrading.net",
+              "url": "https://de.altcointrading.net",
               "sameAs": [
                 "{{ page.author }}"
               ]
@@ -108,43 +97,7 @@ layout: default-news
 
           </p>
 
-          {% if page.comments %}
-
-          <h4 class="post comment" id="disqus_embed">Comment on "{{ page.title }}"</h4>
-
-          <div id="disqus_thread"></div>
-          <script>
-
-          var disqus_config = function () {
-          this.page.url = "{{site.url}}{{page.url}}";  // Replace PAGE_URL with your page's canonical URL variable
-          this.page.identifier = "{{page.identifier}}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-          };
-
-          (function() { // DON'T EDIT BELOW THIS LINE
-          var d = document, s = d.createElement('script');
-          s.src = 'https://altcointrading.disqus.com/embed.js';
-          s.setAttribute('data-timestamp', +new Date());
-          (d.head || d.body).appendChild(s);
-          })();
-          </script>
-          <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-          <p></p>
-
-          {% else %}
-
-          <h4 class="post comment" id="disqus_embed">Comment on "{{ page.title }}"</h4>
-
-          <p>&nbsp;</p>
-
-          <hr>
-
-          <p>Comments are disabled for posts with 2+ months of inactivity.</p>
-
-          <hr>
-
-          {% endif %}
-
+          
         </article>
     </div>
     <div class="four columns nomargintop">
