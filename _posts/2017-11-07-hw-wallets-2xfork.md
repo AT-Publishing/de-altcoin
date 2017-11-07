@@ -21,8 +21,8 @@ tickers: false
 title: "Hardware-Wallets und Bitcoin SegWit2x Hardfork: Ledger vs Trezor auf Deutsch"
 description: "Bei allen Hardware-Wallets besitzt man die privaten Schlüssel in Form des Seeds, so dass man die SegWit2x-Coins erhält. Die Einlösungsprozedur ist jedoch unterschiedlich je nach Wallet."
 
-permalink: "/segwit2x-ledger-trezor"
-english: "segwit2x-ledger-trezor"
+permalink: /segwit2x-ledger-trezor/
+english: segwit2x-ledger-trezor
 
 image:
 - "/editorial/keys.jpg"

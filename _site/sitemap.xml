@@ -6,7 +6,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-      <loc>https://de.altcointrading.net</loc>
+      <loc>http://localhost:4000</loc>
       <xhtml:link rel="alternate" hreflang="en-us" href="http://www.altcointrading.net/"/>
       <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/"/>
     </url>
@@ -42,83 +42,83 @@
     </url>
     
     <url>
-      <loc>https://de.altcointrading.net/category/arbitrage/</loc>
+      <loc>http://localhost:4000/category/arbitrage/</loc>
       
       <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/category/arbitrage/"/>
-      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/category/arbitrage/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="http://localhost:4000/category/arbitrage/"/>
       
     </url>
     
     <url>
-      <loc>https://de.altcointrading.net/category/altcoins/</loc>
+      <loc>http://localhost:4000/category/altcoins/</loc>
       
       <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/category/altcoins/"/>
-      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/category/altcoins/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="http://localhost:4000/category/altcoins/"/>
       
     </url>
     
     <url>
-      <loc>https://de.altcointrading.net/category/exchanges/</loc>
+      <loc>http://localhost:4000/category/exchanges/</loc>
       
       <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/category/exchanges/"/>
-      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/category/exchanges/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="http://localhost:4000/category/exchanges/"/>
       
     </url>
     
     <url>
-      <loc>https://de.altcointrading.net/category/trading/</loc>
+      <loc>http://localhost:4000/category/trading/</loc>
       
       <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/category/trading/"/>
-      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/category/trading/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="http://localhost:4000/category/trading/"/>
       
     </url>
     
     <url>
-      <loc>https://de.altcointrading.net/category/wallets/</loc>
+      <loc>http://localhost:4000/category/wallets/</loc>
       
       <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/category/wallets/"/>
-      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/category/wallets/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="http://localhost:4000/category/wallets/"/>
       
     </url>
     
     
     <url>
-      <loc>https://de.altcointrading.net/segwit2x-ledger-trezor</loc>
+      <loc>http://localhost:4000/segwit2x-ledger-trezor/</loc>
       
       <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/segwit2x-ledger-trezor"/>
-      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/segwit2x-ledger-trezor"/>
+      <xhtml:link rel="alternate" hreflang="de" href="http://localhost:4000/segwit2x-ledger-trezor/"/>
       
     </url>
     
     <url>
-      <loc>https://de.altcointrading.net/kryptowahrung-kaufen/</loc>
+      <loc>http://localhost:4000/kryptowahrung-kaufen/</loc>
       
       <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/how-to-buy-altcoins/"/>
-      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/kryptowahrung-kaufen/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="http://localhost:4000/kryptowahrung-kaufen/"/>
       
     </url>
     
     <url>
-      <loc>https://de.altcointrading.net/bitfinex-banking/</loc>
+      <loc>http://localhost:4000/bitfinex-banking/</loc>
       
       <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/bitfinex-banking/"/>
-      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/bitfinex-banking/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="http://localhost:4000/bitfinex-banking/"/>
       
     </url>
     
     <url>
-      <loc>https://de.altcointrading.net/monero-cold-storage-2017/</loc>
+      <loc>http://localhost:4000/monero-cold-storage-2017/</loc>
       
       <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/monero-cold-storage-2017/"/>
-      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/monero-cold-storage-2017/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="http://localhost:4000/monero-cold-storage-2017/"/>
       
     </url>
     
     <url>
-      <loc>https://de.altcointrading.net/wyckoff/</loc>
+      <loc>http://localhost:4000/wyckoff/</loc>
       
       <xhtml:link rel="alternate" hreflang="en-us" href="https://www.altcointrading.net/wyckoff-avoidance/"/>
-      <xhtml:link rel="alternate" hreflang="de" href="https://de.altcointrading.net/wyckoff/"/>
+      <xhtml:link rel="alternate" hreflang="de" href="http://localhost:4000/wyckoff/"/>
       
     </url>
     

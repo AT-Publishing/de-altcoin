@@ -4,14 +4,14 @@
     <title>Altcoin Trading auf Deutsch</title>
     <description>Forex der Kryptowährungen, Bitcoin als Basis.</description>
     <image>
-      <url>https://de.altcointrading.net/img/logo.jpg</url>
+      <url>http://localhost:4000/img/logo.jpg</url>
       <title>Altcoin Trading</title>
-      <link>https://de.altcointrading.net/</link>
+      <link>http://localhost:4000/</link>
     </image>
-    <link>https://de.altcointrading.net/</link>
-    <atom:link href="https://de.altcointrading.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Nov 2017 20:48:42 +0700</pubDate>
-    <lastBuildDate>Tue, 07 Nov 2017 20:48:42 +0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 07 Nov 2017 20:55:20 +0700</pubDate>
+    <lastBuildDate>Tue, 07 Nov 2017 20:55:20 +0700</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -69,8 +69,8 @@
         <webmaster>info@altcointrading.net</webmaster>
         
         <pubDate>Tue, 07 Nov 2017 20:12:00 +0700</pubDate>
-        <link>https://de.altcointrading.net/segwit2x-ledger-trezor</link>
-        <guid isPermaLink="true">https://de.altcointrading.net/segwit2x-ledger-trezor</guid>
+        <link>http://localhost:4000/segwit2x-ledger-trezor/</link>
+        <guid isPermaLink="true">http://localhost:4000/segwit2x-ledger-trezor/</guid>
         
         <category>segwit2x</category>
         
@@ -194,8 +194,8 @@
         <webmaster>info@altcointrading.net</webmaster>
         
         <pubDate>Mon, 16 Oct 2017 11:56:00 +0700</pubDate>
-        <link>https://de.altcointrading.net/kryptowahrung-kaufen/</link>
-        <guid isPermaLink="true">https://de.altcointrading.net/kryptowahrung-kaufen/</guid>
+        <link>http://localhost:4000/kryptowahrung-kaufen/</link>
+        <guid isPermaLink="true">http://localhost:4000/kryptowahrung-kaufen/</guid>
         
         
         <category>exchanges</category>
@@ -243,8 +243,8 @@
         <webmaster>info@altcointrading.net</webmaster>
         
         <pubDate>Sun, 06 Aug 2017 07:00:00 +0700</pubDate>
-        <link>https://de.altcointrading.net/bitfinex-banking/</link>
-        <guid isPermaLink="true">https://de.altcointrading.net/bitfinex-banking/</guid>
+        <link>http://localhost:4000/bitfinex-banking/</link>
+        <guid isPermaLink="true">http://localhost:4000/bitfinex-banking/</guid>
         
         <category>popular</category>
         
@@ -327,8 +327,8 @@
         <webmaster>info@altcointrading.net</webmaster>
         
         <pubDate>Mon, 20 Mar 2017 20:20:00 +0700</pubDate>
-        <link>https://de.altcointrading.net/monero-cold-storage-2017/</link>
-        <guid isPermaLink="true">https://de.altcointrading.net/monero-cold-storage-2017/</guid>
+        <link>http://localhost:4000/monero-cold-storage-2017/</link>
+        <guid isPermaLink="true">http://localhost:4000/monero-cold-storage-2017/</guid>
         
         
         <category>coins</category>
@@ -448,8 +448,8 @@
         <webmaster>info@altcointrading.net</webmaster>
         
         <pubDate>Wed, 08 Mar 2017 00:00:00 +0700</pubDate>
-        <link>https://de.altcointrading.net/wyckoff/</link>
-        <guid isPermaLink="true">https://de.altcointrading.net/wyckoff/</guid>
+        <link>http://localhost:4000/wyckoff/</link>
+        <guid isPermaLink="true">http://localhost:4000/wyckoff/</guid>
         
         <category>popular</category>
         
