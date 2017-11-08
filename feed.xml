@@ -13,6 +13,7 @@ navi:
       <title>{{ site.title | xml_escape }}</title>
       <link>{{ site.url }}{{ site.baseurl }}/</link>
     </image>
+    <language>de</language>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
@@ -23,10 +24,10 @@ navi:
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.description | xml_escape }}</description>
 
-        <author>de-{{ post.author_name }}@altcointrading.net</author>
+        <author>de{{ post.author_name }}@altcointrading.net</author>
         <webmaster>de@altcointrading.net</webmaster>
 
-        <media:content url="{{ post.image[0] }}" medium="image" />
+        {% if post.image[0] %}<media:content url="{{ post.image[0] | prepend: site.baseurl | prepend: site.url }}" medium="image" />{% endif %}
 
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
