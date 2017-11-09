@@ -3,7 +3,7 @@ published: true
 guest: false
 
 date: 2017-11-07 20:12:00 +0700
-update: 2017-11-07 20:16:00 +0700
+update: 2017-11-09 10:16:00 +0700
 
 author: https://twitter.com/tradingfanbois
 author_name: tradingfanbois
@@ -35,6 +35,10 @@ chart: []
 tags: ["segwit2x", "bitcoin", "bitcoin fork", "trezor", "ledger"]
 identifier: 'hwsegwit2x11072017'
 ---
+
+Aktuelle News - [SegWit2x storniert](https://lists.linuxfoundation.org/pipermail/bitcoin-segwit2x/2017-November/000685.html).
+
+__________________
 
 Bitcoin ist wieder vor einer Hardfork - dieses Mal ist der Konsens, dass es kein Nicht-Ereignis wie die Bitcoin Gold Fork sein wird.
 
